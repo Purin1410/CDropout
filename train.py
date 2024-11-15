@@ -60,8 +60,8 @@ def train(config):
             patience = config.model.patience,
         )
 
-    logger = Logger("MCARM Project", project="GLU", config=dict(config), log_model='all')
-    logger.watch(model_module.model, log="all", log_freq=100)
+    logger = Logger("CoMer Project", project="Mask-Predict", config=dict(config), log_model='all')
+    logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     lr_callback = LearningRateMonitor(logging_interval=config.trainer.callbacks[0].init_args.logging_interval)
 
@@ -88,7 +88,6 @@ def train(config):
         max_epochs=config.trainer.max_epochs,
         logger=logger,
         deterministic=config.trainer.deterministic,
-        num_sanity_val_steps=config.trainer.num_sanity_val_steps,
         callbacks = [lr_callback, 
                      grad_norm_callback, 
                      checkpoint_callback],

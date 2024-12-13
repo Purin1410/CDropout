@@ -2,15 +2,15 @@ from pytorch_lightning.callbacks import Callback
 import torch
 import math
 
-# # dropout_current = (1 - dropout_final)*exp(-10*step/total_step) + dropout_final
+# # dropout_current = 1 - (1 - dropout_final)*exp(-10*step/total_step) + dropout_final
      
 
 class CurriculumDropout(Callback):
         def __init__(self, config):
             super().__init__()
             self.config = config
-            self.start_dropout = self.config.curriculum_dropout.start_dropout
-            self.end_dropout = self.config.curriculum_dropout.end_dropout
+            self.start_dropout = self.config.curriculum.dropout.start_dropout
+            self.end_dropout = self.config.curriculum.dropout.end_dropout
             self.current_dropout = self.start_dropout
             self.current_step = 0
             self.total_step = 0

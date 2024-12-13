@@ -14,7 +14,7 @@ trainer:
   # gpus: 1
   gpus: 1
   accelerator: gpu
-  check_val_every_n_epoch: 2
+  check_val_every_n_epoch: 5
   max_epochs: 300
   deterministic: true
   resume_from_checkpoint: null
@@ -39,7 +39,7 @@ model:
   temperature: 1.0
   # training
   learning_rate: 0.08
-  patience: 20
+  patience: 8
 data:
   zipfile_path: data.zip
   test_year: '2014'

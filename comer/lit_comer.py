@@ -138,17 +138,16 @@ class LitCoMER(pl.LightningModule):
             weight_decay=1e-4,
         )
 
-        reduce_scheduler = optim.lr_scheduler.ReduceLROnPlateau(
+        reduce_scheduler = optim.lr_scheduler.CosineAnnealingWarmRestarts(
             optimizer,
-            mode="max",
-            factor=0.25,
-            patience=self.hparams.patience // self.trainer.check_val_every_n_epoch,
+            T_0=10,  # Restart every 10 epochs
+            T_mult=2,  # Increase the period by a factor of 2 after each restart
         )
         scheduler = {
             "scheduler": reduce_scheduler,
             "monitor": "val_ExpRate",
             "interval": "epoch",
-            "frequency": self.trainer.check_val_every_n_epoch,
+            "frequency": 1,
             "strict": True,
         }
 

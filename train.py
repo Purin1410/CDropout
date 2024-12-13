@@ -45,7 +45,7 @@ def train(config):
             patience = config.model.patience,
         )
 
-    logger = Logger("CoMer Project", project="Mask-Predict", config=dict(config), log_model='all')
+    logger = Logger("CoMer Project", project="CDropout_traditional", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     lr_callback = LearningRateMonitor(logging_interval=config.trainer.callbacks[0].init_args.logging_interval)

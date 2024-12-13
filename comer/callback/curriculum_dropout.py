@@ -23,7 +23,8 @@ class CurriculumDropout(Callback):
                 step=trainer.global_step
             )
         def on_train_start(self, trainer, pl_module):
-            self.total_step = trainer.estimated_stepping_batches
+            self.total_step = len(trainer.datamodule.train_dataloader())
+            print("total step: ", self.total_step)
             self._update_dropout(trainer, pl_module)
         
         def on_train_batch_start(self, trainer, pl_module):

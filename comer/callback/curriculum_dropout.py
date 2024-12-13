@@ -8,8 +8,9 @@ import math
 class CurriculumDropout(Callback):
         def __init__(self, config):
             super().__init__()
-            self.start_dropout = config.curriculum_dropout.start_dropout
-            self.end_dropout = config.curriculum_dropout.end_dropout
+            self.config = config
+            self.start_dropout = self.config.curriculum_dropout.start_dropout
+            self.end_dropout = self.config.curriculum_dropout.end_dropout
             self.current_dropout = self.start_dropout
             self.current_step = 0
             self.total_step = 0
@@ -23,7 +24,10 @@ class CurriculumDropout(Callback):
         def on_train_start(self, trainer, pl_module, *args, **kwargs):
             self.total_step = len(trainer.datamodule.train_dataloader())*self.max_epochs
             print("total step: ", self.total_step)
-            self._update_dropout(trainer, pl_module)
+            if self.config.trainer.resume_from_checkpoint is None:
+                 self._update_dropout(trainer, pl_module)
+            else:
+                 self.current_dropout = pl_module.comer_model.decoder.dropout.p
         
         def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
             self.current_dropout = ( 1 - self.end_dropout)*math.exp(-10*self.current_step/self.total_step) + self.end_dropout

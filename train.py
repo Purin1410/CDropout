@@ -68,7 +68,7 @@ def train(config):
     curriculum_dropout = CurriculumDropout(config = config)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
-    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_VCL_fix"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_CDropout"
     r_clone_callback = RcloneUploadCallback(
         local_dir = local_dir,
         remote_dir = remote_dir)

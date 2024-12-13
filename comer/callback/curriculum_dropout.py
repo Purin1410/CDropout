@@ -2,7 +2,7 @@ from pytorch_lightning.callbacks import Callback
 import torch
 import math
 
-# # dropout_current = 1 - (1 - dropout_final)*exp(-10*step/total_step) + dropout_final + self.start_dropout
+# # dropout_current = 1 - [(1 - dropout_final)*exp(-10*step/total_step) + dropout_final] + self.start_dropout
      
 
 class CurriculumDropout(Callback):
@@ -30,7 +30,7 @@ class CurriculumDropout(Callback):
                  self.current_dropout = pl_module.comer_model.decoder.dropout.p
         
         def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
-            self.current_dropout = 1 - (( 1 - self.end_dropout)*math.exp(-10*self.current_step/self.total_step) + self.end_dropout + self.start_dropout)
+            self.current_dropout = 1 - (( 1 - self.end_dropout)*math.exp(-10*self.current_step/self.total_step) + self.end_dropout) + self.start_dropout
             self._update_dropout(trainer, pl_module)
             self.current_step += 1
         

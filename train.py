@@ -31,8 +31,10 @@ def train(config):
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
-    data_module = CL_CROHMEDatamodule(config = config)
-    data_module.setup(stage = "fit", model = model_module)
+    # data_module = CL_CROHMEDatamodule(config = config)
+    # data_module.setup(stage = "fit", model = model_module)
+
+    data_module = CROHMEDatamodule(**config.data)
 
    # Callback
     lr_callback = LearningRateMonitor(logging_interval=config.trainer.callbacks[0].init_args.logging_interval)

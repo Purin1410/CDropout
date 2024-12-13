@@ -24,13 +24,13 @@ def data_iterator(
     batch_Imagesize: int = MAX_SIZE,
     maxlen: int = 200,
     maxImagesize: int = MAX_SIZE,
-):  
+):
 """
-        return data as follow: 
-        [
-        ([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
-        ([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
-        ...]
+return data as follow: 
+[
+([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
+([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
+...]
 """
     fname_batch = []
     feature_batch = []

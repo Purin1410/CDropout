@@ -12,7 +12,7 @@ from sconf import Config
 from comer.callback.grad_norm_callback import GradNormCallback
 from comer.callback.rclone_callback import RcloneUploadCallback
 from comer.callback.curriculum_dropout import CurriculumDropout
-from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
+# from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 
 def train(config):
     # Seed

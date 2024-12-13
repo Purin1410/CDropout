@@ -13,6 +13,7 @@ class CurriculumDropout(Callback):
             self.current_dropout = self.start_dropout
             self.current_step = 0
             self.total_step = 0
+            self.max_epochs = config.trainer.max_epochs
         
         def _update_dropout(self, trainer, pl_module):
             for module in pl_module.comer_model.decoder.modules():
@@ -23,7 +24,7 @@ class CurriculumDropout(Callback):
                 step=trainer.global_step
             )
         def on_train_start(self, trainer, pl_module, *args, **kwargs):
-            self.total_step = len(trainer.datamodule.train_dataloader())
+            self.total_step = len(trainer.datamodule.train_dataloader())*self.max_epochs
             print("total step: ", self.total_step)
             self._update_dropout(trainer, pl_module)
         

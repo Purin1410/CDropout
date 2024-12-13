@@ -9,24 +9,8 @@ from pytorch_lightning.callbacks import (
 from pytorch_lightning.loggers import WandbLogger as Logger
 import argparse
 from sconf import Config
-
-
-class GradNormCallback(Callback):
-    """
-    Logs the gradient norm.
-    """
-    @staticmethod
-    def gradient_norm(model):
-        total_norm = 0.0
-        for p in model.parameters():
-            if p.grad is not None:
-                param_norm = p.grad.detach().data.norm(2)
-                total_norm += param_norm.item() ** 2
-        total_norm = total_norm**0.5
-        return total_norm
-
-    def on_after_backward(self, trainer, model):
-        model.log("train/grad_norm", self.gradient_norm(model))
+from comer.callback.grad_norm_callback import GradNormCallback
+from comer.callback.rclone_callback import RcloneUploadCallback
 
 def train(config):
     pl.seed_everything(config.seed_everything, workers=True)
@@ -79,6 +63,13 @@ def train(config):
         scale_aug = config.data.scale_aug,)
     
     grad_norm_callback = GradNormCallback()
+
+    local_dir = "/kaggle/working/CoMER_checkpoints"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_VCL_fix"
+    r_clone_callback = RcloneUploadCallback(
+        local_dir = local_dir,
+        remote_dir = remote_dir)
+
     
     trainer = pl.Trainer(
         devices=config.trainer.gpus,

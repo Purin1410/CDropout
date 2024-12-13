@@ -11,6 +11,7 @@ import argparse
 from sconf import Config
 from comer.callback.grad_norm_callback import GradNormCallback
 from comer.callback.rclone_callback import RcloneUploadCallback
+from comer.callback.curriculum_dropout import CurriculumDropout
 
 def train(config):
     pl.seed_everything(config.seed_everything, workers=True)
@@ -64,6 +65,8 @@ def train(config):
     
     grad_norm_callback = GradNormCallback()
 
+    curriculum_dropout = CurriculumDropout(config = config)
+
     local_dir = "/kaggle/working/CoMER_checkpoints"
     remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_VCL_fix"
     r_clone_callback = RcloneUploadCallback(
@@ -81,8 +84,9 @@ def train(config):
         deterministic=config.trainer.deterministic,
         callbacks = [lr_callback, 
                      grad_norm_callback, 
-                     checkpoint_callback],
-        resume_from_checkpoint = config.trainer.get("resume_from_checkpoint", None),
+                     checkpoint_callback,
+                     curriculum_dropout],
+        # resume_from_checkpoint = config.trainer.get("resume_from_checkpoint", None),
     )
 
     trainer.fit(model_module, 

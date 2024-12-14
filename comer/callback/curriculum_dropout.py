@@ -28,7 +28,7 @@ class CurriculumDropout(Callback):
                  self._update_dropout(trainer, pl_module)
             else:
                 print(trainer.current_epoch)
-                self.current_step = trainer.current_epoch*self.total_step
+                self.current_step = trainer.current_epoch*len(trainer.datamodule.train_dataloader())
                 for module in pl_module.comer_model.decoder.modules():
                     if isinstance(module, torch.nn.Dropout):
                         self.current_dropout = module.p

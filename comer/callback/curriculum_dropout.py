@@ -2,7 +2,7 @@ from pytorch_lightning.callbacks import Callback
 import torch
 import math
 
-# # dropout_current = 1 - [(1 - dropout_final)*exp(-10*step/total_step) + dropout_final] + self.start_dropout
+# # dropout_current = 1 - [dropout_end*exp(-10*step/total_step) + (1 - dropout_end)]
      
 
 class CurriculumDropout(Callback):
@@ -27,7 +27,14 @@ class CurriculumDropout(Callback):
             if self.config.trainer.resume_from_checkpoint is None:
                  self._update_dropout(trainer, pl_module)
             else:
-                 self.current_dropout = pl_module.comer_model.decoder.dropout.p
+                self.current_step = trainer.current_epoch*self.total_step
+                for module in pl_module.comer_model.decoder.modules():
+                    if isinstance(module, torch.nn.Dropout):
+                        self.current_dropout = module.p
+                        print("current dropout in resume: ", self.current_dropout)
+                        print("current step in resume: ", self.current_step)
+                        break
+                  
         
         def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
             self.current_dropout = 1 - (( self.end_dropout)*math.exp(-10*self.current_step/self.total_step) + (1 - self.end_dropout))

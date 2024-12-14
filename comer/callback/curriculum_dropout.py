@@ -29,12 +29,10 @@ class CurriculumDropout(Callback):
             else:
                 print(trainer.current_epoch)
                 self.current_step = trainer.current_epoch*len(trainer.datamodule.train_dataloader())
-                for module in pl_module.comer_model.decoder.modules():
-                    if isinstance(module, torch.nn.Dropout):
-                        self.current_dropout = module.p
-                        print("current dropout in resume: ", self.current_dropout)
-                        print("current step in resume: ", self.current_step)
-                        break
+                self.current_dropout = 1 - (( self.end_dropout)*math.exp(-10*self.current_step/self.total_step) + (1 - self.end_dropout))
+                self._update_dropout(trainer, pl_module)
+                print("current dropout: ", self.current_dropout)
+                print("current step: ", self.current_step)
                   
         
         def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):

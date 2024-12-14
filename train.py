@@ -59,8 +59,13 @@ def train(config):
     
     trainer_config = {k: v for k, v in config.trainer.items() if k not in ["callbacks","resume_from_checkpoint"]}
     trainer = pl.Trainer(
-        **trainer_config,
+        devices=config.trainer.gpus,
+        accelerator=config.trainer.accelerator,
+        val_check_interval=1.0,
+        check_val_every_n_epoch=config.trainer.check_val_every_n_epoch,
+        max_epochs=config.trainer.max_epochs,
         logger=logger,
+        deterministic=config.trainer.deterministic,
         callbacks= [lr_callback,
                     grad_norm_callback,
                     checkpoint_callback,

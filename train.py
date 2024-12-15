@@ -28,7 +28,7 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("CoMer Project", project="CDropout_traditional", config=dict(config), log_model='all')
+    logger = Logger("CoMer_10_50_cosine", project="CDropout_traditional", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data

@@ -51,7 +51,5 @@ curriculum:
   dropout:
     start_dropout: 0.0
     end_dropout: 0.5
-  self_pace:
-    initial_portion: 0.1
-    step_size: 0.1
+    slope: 10 # from 1 to 10
     

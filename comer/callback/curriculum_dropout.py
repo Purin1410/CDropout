@@ -21,6 +21,9 @@ class CurriculumDropout(Callback):
             for module in pl_module.comer_model.decoder.modules():
                 if isinstance(module, torch.nn.Dropout):
                     module.p = self.current_dropout
+        
+        def _dropout(self):
+            return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
         def on_train_start(self, trainer, pl_module, *args, **kwargs):
             self.total_step = len(trainer.datamodule.train_dataloader())*self.max_epochs
@@ -30,14 +33,14 @@ class CurriculumDropout(Callback):
             else:
                 print(trainer.current_epoch)
                 self.current_step = trainer.current_epoch*len(trainer.datamodule.train_dataloader())
-                self.current_dropout = 1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout))
+                self.current_dropout = self._dropout()
                 self._update_dropout(trainer, pl_module)
                 print("current dropout: ", self.current_dropout)
                 print("current step: ", self.current_step)
                   
         
         def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
-            self.current_dropout = 1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout))
+            self.current_dropout = self._dropout()
             self._update_dropout(trainer, pl_module)
             self.current_step += 1
         

@@ -12,8 +12,11 @@ from sconf import Config
 from comer.callback.grad_norm_callback import GradNormCallback
 from comer.callback.rclone_callback import RcloneUploadCallback
 from comer.callback.curriculum_dropout import CurriculumDropout
-# from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
+from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 import subprocess
+from comer.callback.update_data_callback import CurriculumUpdateData
+
+Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
 
 def train(config):
     # Seed
@@ -34,8 +37,11 @@ def train(config):
     # Data
     # data_module = CL_CROHMEDatamodule(config = config)
     # data_module.setup(stage = "fit", model = model_module)
-
-    data_module = CROHMEDatamodule(**config.data)
+    if config.curriculum.learning.type not in Type:
+        data_module = CROHMEDatamodule(**config.data)
+    else:
+        data_module = CL_CROHMEDatamodule(config = config)
+        data_module.setup(stage = "fit", model = model_module)
 
    # Callback
     lr_callback = LearningRateMonitor(logging_interval=config.trainer.callbacks[0].init_args.logging_interval)
@@ -55,7 +61,7 @@ def train(config):
         local_dir = local_dir,
         remote_dir = remote_dir)
     
-    # update_data = VCLCallback(config = config, datamodule = data_module)
+    update_data = CurriculumUpdateData(config = config)
     
     trainer_config = {k: v for k, v in config.trainer.items() if k not in ["callbacks","resume_from_checkpoint"]}
     trainer = pl.Trainer(
@@ -70,7 +76,8 @@ def train(config):
                     grad_norm_callback,
                     checkpoint_callback,
                     r_clone_callback,
-                    curriculum_dropout],
+                    curriculum_dropout,
+                    update_data],
         default_root_dir=local_dir,
     )
 

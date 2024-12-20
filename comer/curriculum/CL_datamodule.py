@@ -10,7 +10,7 @@ from PIL import Image
 from torch import FloatTensor, LongTensor
 from torch.utils.data.dataloader import DataLoader
 from comer.datamodule.vocab import vocab
-from comer.curriculum.Cal_sample_loss import CalculateLoss
+# from comer.curriculum.Cal_sample_loss import CalculateLoss
 from collections import OrderedDict
 
 Data = List[Tuple[str, Image.Image, List[str]]]
@@ -24,14 +24,14 @@ def data_iterator(
     batch_Imagesize: int = MAX_SIZE,
     maxlen: int = 200,
     maxImagesize: int = MAX_SIZE,
-):
-"""
-return data as follow: 
-[
-([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
-([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
-...]
-"""
+    ):
+    """
+    return data as follow: 
+    [
+    ([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
+    ([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
+    ...]
+    """
     fname_batch = []
     feature_batch = []
     label_batch = []
@@ -152,20 +152,19 @@ def collate_fn(batch):
 
 
 def build_dataset(archive, folder: str, batch_size: int):
-    
     data = extract_data(archive, folder)
     return data_iterator(data, batch_size)
 
-def build_and_sort_dataset(archive, folder: str, batch_size: int, model = None):
-    data = extract_data(archive, folder)
-    key_loss = CalculateLoss(dataset = data, model = model)
-    ignore_list = key_loss.ignore
-    key_loss.calculate_all_samples_loss()
-    key_loss = key_loss.sample_losses
-    # delete ignore image and sort
-    data = [item for item in data if item[0] not in ignore_list]
-    data = sorted(data, key=lambda x: key_loss.get(x[0], float('inf')))
-    return data_iterator(data, batch_size)
+# def build_and_sort_dataset(archive, folder: str, batch_size: int, model = None):
+#     data = extract_data(archive, folder)
+#     key_loss = CalculateLoss(dataset = data, model = model)
+#     ignore_list = key_loss.ignore
+#     key_loss.calculate_all_samples_loss()
+#     key_loss = key_loss.sample_losses
+#     # delete ignore image and sort
+#     data = [item for item in data if item[0] not in ignore_list]
+#     data = sorted(data, key=lambda x: key_loss.get(x[0], float('inf')))
+#     return data_iterator(data, batch_size)
 
 
 
@@ -191,22 +190,13 @@ class CL_CROHMEDatamodule(pl.LightningDataModule):
         stage: Optional[str] = None,
         model = None) -> None:
         self.model = model
-        if self.config.trainer.resume_from_checkpoint is not None:
-            self.step = self.current_epoch // self.pacing_epochs
-            self.data_percent = (self.config.curriculum.initial_portion + self.config.curriculum.step_size * self.step)
-        else:
-            self.data_percent = self.config.curriculum.initial_portion
 
         with ZipFile(self.zipfile_path) as archive:
             if stage == "fit" or stage is None:
                 # Train_dataset
-                self.original_train_dataset = build_and_sort_dataset(archive, "train", self.train_batch_size, model = self.model)
+                self.original_train_dataset = extract_data(archive, "train")
                 self.len_original_train_dataset = len(self.original_train_dataset)
-                self.train_dataset = CROHMEDataset(
-                    ds = self.original_train_dataset[:int(self.len_original_train_dataset * self.data_percent)],
-                    is_train = True,
-                    scale_aug = self.scale_aug,
-                )
+                self.train_dataset = None
                 # Val_dataset
                 self.val_dataset = CROHMEDataset(
                     build_dataset(archive, self.test_year, self.eval_batch_size),

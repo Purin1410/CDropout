@@ -52,4 +52,11 @@ curriculum:
     start_dropout: 0.0
     end_dropout: 0.5
     slope: 10 # from 1 to 10
+  learning:
+    type: "Vanilla"
+    step: 0.1
+    start_percent: 0.1
+    pacing_epoch: 10
+    
+    
     

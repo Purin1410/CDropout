@@ -7,21 +7,21 @@ from comer.datamodule.datamodule import collate_fn
 from collections import OrderedDict
 import numpy as np
 
-MAX_SIZE = 32e4 
+MAX_SIZE = 32e4
 def data_iterator(
     data,
     batch_size: int,
     batch_Imagesize: int = MAX_SIZE,
     maxlen: int = 200,
     maxImagesize: int = MAX_SIZE,
-    check_ignore = False,
-): """
-# return data as follow: 
-# [
-# ([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
-# ([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
-# ...]
-"""
+    check_ignore = False):
+    """
+    # return data as follow: 
+    # [
+    # ([fname1,fname2,fname3,...], [feature1,feature2,feature3,...], [label1,label2,label3,...]), 
+    # ([fname9,fname10,fname11,...], [feature9,feature10,feature11,...], [label9,label10,label11,...]), 
+    # ...]
+    """
     fname_batch = []
     feature_batch = []
     label_batch = []

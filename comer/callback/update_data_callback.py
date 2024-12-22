@@ -18,12 +18,12 @@ class CurriculumUpdateData(Callback):
     
     def _Sort(self, trainer):
         if self.type == 'Vanilla':
-            trainer.data_module.original_train_dataset = self._Vanilla_sort(trainer)
+            trainer.datamodule.original_train_dataset = self._Vanilla_sort(trainer)
             
 
     def _Vanilla_sort(self,trainer):
-        assert trainer.data_module.original_train_dataset != None
-        return sorted(trainer.data_module.original_train_dataset, key=lambda x: len(x[2]))
+        assert trainer.datamodule.original_train_dataset != None
+        return sorted(trainer.datamodule.original_train_dataset, key=lambda x: len(x[2]))
     # def _Self_paced_sort(self,trainer):
     #     if self.config.trainer.resume_from_checkpoint != None:
     #         pass
@@ -33,15 +33,15 @@ class CurriculumUpdateData(Callback):
     
     def _update_data_percent(self, trainer, data_percent):
         self.data_percent = data_percent
-        trainer.data_module.train_dataset = CROHMEDataset(
+        trainer.datamodule.train_dataset = CROHMEDataset(
                     data_iterator(
-                        data = trainer.data_module.original_train_dataset[:int(len(trainer.data_module.original_train_dataset)*self.data_percent)],
+                        data = trainer.datamodule.original_train_dataset[:int(len(trainer.datamodule.original_train_dataset)*self.data_percent)],
                         batch_size= self.config.data.train_batch_size
                     ),
                     True,
                     self.scale_aug,
                 )
-        print(len(trainer.data_module.train_dataset)) # debug
+        print(len(trainer.datamodule.train_dataset)) # debug
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 
     def on_validation_start(self, trainer, pl_module, *args, **kwargs):

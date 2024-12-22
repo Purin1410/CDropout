@@ -1,5 +1,6 @@
 from pytorch_lightning.callbacks import Callback
-from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule, build_dataset
+from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule, data_iterator
+from comer.datamodule.dataset import CROHMEDataset
 
 Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
 
@@ -32,7 +33,14 @@ class CurriculumUpdateData(Callback):
     
     def _update_data_percent(self, trainer, data_percent):
         self.data_percent = data_percent
-        trainer.data_module.train_dataset = trainer.data_module.original_train_dataset[:int(len(trainer.data_module.original_train_dataset)*self.data_percent)]
+        trainer.data_module.train_dataset = CROHMEDataset(
+                    data_iterator(
+                        data = trainer.data_module.original_train_dataset[:int(len(trainer.data_module.original_train_dataset)*self.data_percent)],
+                        batch_size= self.config.data.train_batch_size
+                    ),
+                    True,
+                    self.scale_aug,
+                )
         print(len(trainer.data_module.train_dataset)) # debug
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 

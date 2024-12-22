@@ -57,7 +57,7 @@ class CurriculumUpdateData(Callback):
         self._update_data_percent(trainer = trainer, data_percent = self.data_percent)
     
     def on_epoch_start(self, trainer, pl_module, *args, **kwargs):
-        if trainer.current_epoch % self.step == 0:
+        if trainer.current_epoch != 0 and trainer.current_epoch % self.pacing_epoch == 0:
             self.data_percent = self.data_percent + self.step
             self._update_data_percent(trainer = trainer, data_percent = self.data_percent)
         

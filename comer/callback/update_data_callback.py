@@ -39,7 +39,7 @@ class CurriculumUpdateData(Callback):
                         batch_size= self.config.data.train_batch_size
                     ),
                     True,
-                    self.scale_aug,
+                    self.config.data.scale_aug,
                 )
         print(len(trainer.datamodule.train_dataset)) # debug
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)

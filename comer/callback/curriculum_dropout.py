@@ -26,13 +26,13 @@ class CurriculumDropout(Callback):
             return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
         def on_train_start(self, trainer, pl_module, *args, **kwargs):
-            self.total_step = len(trainer.datamodule.train_dataloader())*self.max_epochs
+            self.total_step = 1501*self.max_epochs #len(trainer.datamodule.train_dataloader())
             print("total step: ", self.total_step)
             if self.config.trainer.resume_from_checkpoint is None:
                  self._update_dropout(trainer, pl_module)
             else:
                 print(trainer.current_epoch)
-                self.current_step = trainer.current_epoch*len(trainer.datamodule.train_dataloader())
+                self.current_step = trainer.current_epoch*self.total_step
                 self.current_dropout = self._dropout()
                 self._update_dropout(trainer, pl_module)
                 print("current dropout: ", self.current_dropout)

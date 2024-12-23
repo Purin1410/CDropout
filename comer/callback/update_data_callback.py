@@ -31,7 +31,7 @@ class CurriculumUpdateData(Callback):
     #         assert trainer.data_module.original_train_dataset != None
     #         pass
     
-    def _update_data_percent(self, trainer, data_percent):
+    def _update_data_percent(self, trainer, pl_module, data_percent):
         self.data_percent = data_percent
         trainer.datamodule.train_dataset = CROHMEDataset(
                     data_iterator(
@@ -41,7 +41,7 @@ class CurriculumUpdateData(Callback):
                     True,
                     self.config.data.scale_aug,
                 )
-        trainer.reset_train_dataloader()
+        trainer.reset_train_dataloader(model = pl_module)
         print(len(trainer.datamodule.train_dataset)) # debug
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 

@@ -41,7 +41,7 @@ class CurriculumUpdateData(Callback):
                     True,
                     self.config.data.scale_aug,
                 )
-        trainer.datamodule.train_dataloader()
+        trainer.reset_train_dataloader()
         print(len(trainer.datamodule.train_dataset)) # debug
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 

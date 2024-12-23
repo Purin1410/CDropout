@@ -56,7 +56,9 @@ class CurriculumUpdateData(Callback):
                 self.data_percent = self.start_percent
 
             self._update_data_percent(trainer = trainer, data_percent = self.data_percent)
-            print(trainer.datamodule.train_dataset) # debug
+            print(trainer.datamodule.original_train_dataset[:int(len(trainer.datamodule.original_train_dataset)*self.data_percent)]) # debug
+            print()
+            print(trainer.datamodule.original_train_dataset) # debug
     
     def on_epoch_start(self, trainer, pl_module, *args, **kwargs):
         if trainer.current_epoch != 0 and trainer.current_epoch % self.pacing_epoch == 0:

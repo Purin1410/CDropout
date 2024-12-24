@@ -52,7 +52,7 @@ class CurriculumUpdateData(Callback):
             print('Done sorted')
             if self.config.trainer.resume_from_checkpoint != None:
                 self.current_step = trainer.current_epoch // self.pacing_epoch
-                self.data_percent = (self.start_percent + self.step*self.current_step)
+                self.data_percent = min((self.start_percent + self.step*self.current_step),1.0)
             else:
                 self.data_percent = self.start_percent
 
@@ -65,7 +65,7 @@ class CurriculumUpdateData(Callback):
     
     def on_epoch_start(self, trainer, pl_module, *args, **kwargs):
         if trainer.current_epoch != 0 and trainer.current_epoch % self.pacing_epoch == 0:
-            self.data_percent = self.data_percent + self.step
+            self.data_percent = min(self.data_percent + self.step,1.0)
             print("Update data percent: ", self.data_percent) # debug
             self._update_data_percent(trainer = trainer, data_percent = self.data_percent, pl_module = pl_module)
         

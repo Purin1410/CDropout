@@ -14,6 +14,7 @@ class CurriculumUpdateData(Callback):
         self.step = self.config.curriculum.learning.step
         self.start_percent = self.config.curriculum.learning.start_percent
         self.pacing_epoch = self.config.curriculum.learning.pacing_epoch
+        self.start_training = True
         
     
     def _Sort(self, trainer):
@@ -47,22 +48,18 @@ class CurriculumUpdateData(Callback):
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 
     def on_validation_start(self, trainer, pl_module, *args, **kwargs):
-        if trainer.current_epoch == 0:
+        if self.start_training == True:
             print('Sorted all data by lenght')
             self._Sort(trainer)
             print('Done sorted')
-            if self.config.trainer.resume_from_checkpoint != None:
+            if self.config.trainer.resume_from_checkpoint is not None:
                 self.current_step = trainer.current_epoch // self.pacing_epoch
                 self.data_percent = min((self.start_percent + self.step*self.current_step),1.0)
             else:
                 self.data_percent = self.start_percent
 
             self._update_data_percent(trainer = trainer, data_percent = self.data_percent, pl_module = pl_module)
-            print(trainer.datamodule.original_train_dataset[:int(len(trainer.datamodule.original_train_dataset)*self.data_percent)]) # debug
-            print()
-            print(len(trainer.datamodule.original_train_dataset[:int(len(trainer.datamodule.original_train_dataset)*self.data_percent)]))
-            print()
-            print(trainer.datamodule.original_train_dataset) # debug
+            self.start_training = False
     
     def on_epoch_start(self, trainer, pl_module, *args, **kwargs):
         if trainer.current_epoch != 0 and trainer.current_epoch % self.pacing_epoch == 0:

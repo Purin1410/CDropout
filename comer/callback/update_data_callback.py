@@ -32,6 +32,7 @@ class CurriculumUpdateData(Callback):
     #         pass
     
     def _update_data_percent(self, trainer, pl_module, data_percent):
+        assert self.data_percent <= 1
         self.data_percent = data_percent
         trainer.datamodule.train_dataset = CROHMEDataset(
                     data_iterator(

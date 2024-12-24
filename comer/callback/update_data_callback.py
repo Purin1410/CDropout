@@ -45,6 +45,7 @@ class CurriculumUpdateData(Callback):
                 )
         trainer.reset_train_dataloader(model = pl_module)
         print(len(trainer.datamodule.train_dataset)) # debug
+        print(self.data_percent)
         trainer.logger.log_metrics({"Data_percent": self.data_percent}, step=trainer.global_step)
 
     def on_validation_start(self, trainer, pl_module, *args, **kwargs):

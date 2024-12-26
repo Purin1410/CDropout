@@ -27,7 +27,7 @@ class CurriculumDropout(Callback):
 
         def on_train_start(self, trainer, pl_module, *args, **kwargs):
             if self.config.curriculum.learning.type == "Vanilla":
-                self.total_step = len(trainer.datamodule.train_dataloader())*(len(trainer.datamodule.train_dataloader()) - 1)*self.max_epochs/2
+                self.total_step = (1501+1500/2)*self.max_epochs/2 #len(trainer.datamodule.train_dataloader())*(len(trainer.datamodule.train_dataloader()) - 1)
             else:
                 self.total_step = len(trainer.datamodule.train_dataloader())*self.max_epochs
             print("total step: ", self.total_step)

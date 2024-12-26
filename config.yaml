@@ -10,7 +10,7 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: '{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: 'VCL_CDropout_{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu
@@ -55,8 +55,8 @@ curriculum:
   learning:
     type: "Vanilla"
     step: 0.1
-    start_percent: 0.1
-    pacing_epoch: 10
+    start_percent: 0.2
+    pacing_epoch: 15
     
     
     

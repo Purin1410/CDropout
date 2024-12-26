@@ -25,12 +25,6 @@ class CurriculumUpdateData(Callback):
     def _Vanilla_sort(self,trainer):
         assert trainer.datamodule.original_train_dataset != None
         return sorted(trainer.datamodule.original_train_dataset, key=lambda x: len(x[2]))
-    # def _Self_paced_sort(self,trainer):
-    #     if self.config.trainer.resume_from_checkpoint != None:
-    #         pass
-    #     else:
-    #         assert trainer.data_module.original_train_dataset != None
-    #         pass
     
     def _update_data_percent(self, trainer, pl_module, data_percent):
         assert self.data_percent <= 1

@@ -31,12 +31,10 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("CoMer_10_50_cosine", project="CDropout_traditional", config=dict(config), log_model='all')
+    logger = Logger("VCL_CDropout", project="CoMER_final_test", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
-    # data_module = CL_CROHMEDatamodule(config = config)
-    # data_module.setup(stage = "fit", model = model_module)
     if config.curriculum.learning.type not in Type:
         data_module = CROHMEDatamodule(**config.data)
     else:
@@ -56,7 +54,7 @@ def train(config):
     curriculum_dropout = CurriculumDropout(config = config)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
-    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_CDropout"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_VCL_CDropout"
     r_clone_callback = RcloneUploadCallback(
         local_dir = local_dir,
         remote_dir = remote_dir)
@@ -79,6 +77,7 @@ def train(config):
                     curriculum_dropout,
                     update_data],
         default_root_dir=local_dir,
+        resume_from_checkpoint=config.trainer.resume_from_checkpoint,
     )
 
     try:

@@ -35,7 +35,7 @@ class CurriculumDropout(Callback):
                  self._update_dropout(trainer, pl_module)
             else:
                 print(trainer.current_epoch)
-                self.current_step = trainer.current_epoch*self.total_step
+                self.current_step = trainer.current_epoch*1501 #self.total_step
                 self.current_dropout = self._dropout()
                 self._update_dropout(trainer, pl_module)
                 print("current dropout: ", self.current_dropout)

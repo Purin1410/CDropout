@@ -25,7 +25,7 @@ class CurriculumDropout(Callback):
                 module.p = self.current_dropout
     
     def _calculate_train_step(self, trainer):
-        cl_start = self.config.curriculum.learning.start_percent*10
+        cl_start = int(self.config.curriculum.learning.start_percent*10)
         origin_dataset = trainer.datamodule.original_train_dataset
         if self.config.curriculum.learning.type == "Vanilla":
             # calculate total batch model will train in CL mode
@@ -54,9 +54,7 @@ class CurriculumDropout(Callback):
         return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
-        print("Pass here")
         if trainer.current_epoch == 0:
-            print("Pass here")
             self.total_step = self._calculate_train_step(trainer)
             print("total step: ", self.total_step)
         if self.config.trainer.resume_from_checkpoint is None:

@@ -29,6 +29,7 @@ class CurriculumDropout(Callback):
         origin_dataset = trainer.datamodule.original_train_dataset
         if self.config.curriculum.learning.type == "Vanilla":
             # calculate total batch model will train in CL mode
+            cl_total_batch = 0
             for i in range(cl_start, 11):
                 batch = len(data_iterator(
                     data = origin_dataset[:int(len(origin_dataset)*i/10)],

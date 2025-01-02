@@ -31,7 +31,7 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("VCL_CDropout", project="CoMER_final_test", config=dict(config), log_model='all')
+    logger = Logger("", project="CoMER_VCL_CDropout_final", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
@@ -54,7 +54,7 @@ def train(config):
     curriculum_dropout = CurriculumDropout(config = config)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
-    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_VCL_CDropout"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_FINAL_VCL_DROPOUT"
     r_clone_callback = RcloneUploadCallback(
         local_dir = local_dir,
         remote_dir = remote_dir)

@@ -10,12 +10,12 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: 'VCL_CDropout_{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: '{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu
   check_val_every_n_epoch: 5
-  max_epochs: 300
+  max_epochs: 350
   deterministic: true
   resume_from_checkpoint: null
 model:

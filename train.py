@@ -31,7 +31,7 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("", project="CoMER_VCL_CDropout_final", config=dict(config), log_model='all')
+    logger = Logger("Pacing15_start20_slope5", project="CoMER_VCL_CDropout_final", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data

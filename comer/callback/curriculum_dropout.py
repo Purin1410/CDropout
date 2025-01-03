@@ -18,6 +18,7 @@ class CurriculumDropout(Callback):
         self.slope = config.curriculum.dropout.slope
         self.total_batch = 0
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
+        self.resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
     
     def _update_dropout(self, trainer, pl_module):
         for module in pl_module.comer_model.decoder.modules():
@@ -55,12 +56,9 @@ class CurriculumDropout(Callback):
         return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
-        if trainer.current_epoch == 0:
+        if self.resume_checkpoint:
             self.total_step = self._calculate_train_step(trainer)
             print("total step: ", self.total_step)
-        if self.config.trainer.resume_from_checkpoint is None:
-                self._update_dropout(trainer, pl_module)
-        else:
             print("Start from epoch: ", trainer.current_epoch)
             origin_dataset = trainer.datamodule.original_train_dataset
             self.current_step = trainer.current_epoch*len(data_iterator(
@@ -71,6 +69,9 @@ class CurriculumDropout(Callback):
             self._update_dropout(trainer, pl_module)
             print("current dropout: ", self.current_dropout)
             print("current step: ", self.current_step)
+            self.resume_checkpoint = False
+        else:
+            self._update_dropout(trainer, pl_module)
                 
     
     def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):

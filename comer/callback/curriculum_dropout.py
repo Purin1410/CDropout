@@ -62,7 +62,7 @@ class CurriculumDropout(Callback):
         return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
-        if self.resume_checkpoint:
+        if self.check_resume_checkpoint:
             self.total_step = self._calculate_train_step(trainer)
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)

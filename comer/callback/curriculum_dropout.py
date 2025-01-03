@@ -71,6 +71,7 @@ class CurriculumDropout(Callback):
             print("current step: ", self.current_step)
             self.resume_checkpoint = False
         else:
+            self.total_step = self._calculate_train_step(trainer)
             self._update_dropout(trainer, pl_module)
                 
     

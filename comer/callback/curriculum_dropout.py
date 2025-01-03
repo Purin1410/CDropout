@@ -18,7 +18,7 @@ class CurriculumDropout(Callback):
         self.slope = config.curriculum.dropout.slope
         self.total_batch = 0
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
-        self.resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
+        self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
     
     def _update_dropout(self, trainer, pl_module):
         for module in pl_module.comer_model.decoder.modules():
@@ -41,6 +41,12 @@ class CurriculumDropout(Callback):
                 print("batch: ", batch) # debug
                 print()
             cl_total_step = cl_total_batch*self.pacing_epoch
+            
+            # TODO: need to fix this dirty code
+            self.cl_total_step = cl_total_step #THIS IS DIRTY CODE
+            self.rest_epoch = - (11-cl_start)*self.pacing_epoch #THIS IS DIRTY CODE
+            self.batch = batch #THIS IS DIRTY CODE
+            
             # calculate the rest of step in the rest of epoch
             rest_epoch = self.max_epochs - (11-cl_start)*self.pacing_epoch
             rest_step =  rest_epoch*batch
@@ -61,15 +67,16 @@ class CurriculumDropout(Callback):
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)
             origin_dataset = trainer.datamodule.original_train_dataset
-            self.current_step = trainer.current_epoch*len(data_iterator(
-                    data = origin_dataset,
-                    batch_size= self.config.data.train_batch_size
-                ))
+            # debug + dirty code
+            #TODO: need to fix this dirty code
+            self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
+            print("current step: ", self.current_step)
+            
             self.current_dropout = self._dropout()
             self._update_dropout(trainer, pl_module)
             print("current dropout: ", self.current_dropout)
             print("current step: ", self.current_step)
-            self.resume_checkpoint = False
+            self.check_resume_checkpoint = False
         else:
             self.total_step = self._calculate_train_step(trainer)
             self._update_dropout(trainer, pl_module)
@@ -81,11 +88,12 @@ class CurriculumDropout(Callback):
         self.current_step += 1
     
     def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
-        print("current dropout: ", self.current_dropout)
-        trainer.logger.log_metrics(
-            {"current_dropout": self.current_dropout}, 
-            step=trainer.global_step
-        )
+        if not self.check_resume_checkpoint:
+            print("current dropout: ", self.current_dropout)
+            trainer.logger.log_metrics(
+                {"current_dropout": self.current_dropout}, 
+                step=trainer.global_step
+            )
             
             
             

@@ -45,8 +45,7 @@ class CurriculumInputBlur(Callback):
         
         # TODO: debug, delete later
         ###########################################################
-        if current_step < self.debug_steps:
-            print(f"Step {current_step}: sigma = {current_sigma:.10f}")
+        trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
         ############################################################
 
         batch.imgs = torch.stack(blurred_imgs, dim=0)

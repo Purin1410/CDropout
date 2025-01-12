@@ -64,7 +64,7 @@ class CurriculumInputBlur(Callback):
         self.max_steps = len(origin_dataset)*trainer.max_epochs
         print(self.max_steps)
     
-    def on_train_batch_start(self, trainer, pl_module, batch, batch_idx):
+    def on_train_batch_start(self, trainer, pl_module, batch, batch_idx, *args, **kwargs):
         """
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """

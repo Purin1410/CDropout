@@ -14,7 +14,8 @@ from comer.callback.rclone_callback import RcloneUploadCallback
 from comer.callback.curriculum_dropout import CurriculumDropout
 from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 import subprocess
-from comer.callback.update_data_callback import CurriculumUpdateData
+# from comer.callback.update_data_callback import CurriculumUpdateData
+from comer.callback.skip_validation import SkipValidation
 
 Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
 
@@ -31,7 +32,7 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("Pacing15_start20_slope5", project="CoMER_VCL_CDropout_final", config=dict(config), log_model='all')
+    logger = Logger("CoMER_Dropout_FFN_MHA", project="CoMER_CDropout", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
@@ -59,9 +60,10 @@ def train(config):
         local_dir = local_dir,
         remote_dir = remote_dir)
     
-    update_data = CurriculumUpdateData(config = config)
+    # update_data = CurriculumUpdateData(config = config)
     
-    trainer_config = {k: v for k, v in config.trainer.items() if k not in ["callbacks","resume_from_checkpoint"]}
+    skip_validation = SkipValidation(skip_val_epoch= 20)
+    
     trainer = pl.Trainer(
         devices=config.trainer.gpus,
         accelerator=config.trainer.accelerator,
@@ -75,7 +77,7 @@ def train(config):
                     checkpoint_callback,
                     r_clone_callback,
                     curriculum_dropout,
-                    update_data],
+                    skip_validation],
         default_root_dir=local_dir,
         resume_from_checkpoint=config.trainer.resume_from_checkpoint,
     )

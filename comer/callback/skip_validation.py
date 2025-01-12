@@ -1,0 +1,20 @@
+from pytorch_lightning.callbacks import Callback
+
+class SkipValidation(Callback):
+    def __init__(self, skip_val_epoch: int):
+        super().__init__()
+        self.skip_val_epoch = skip_val_epoch
+
+    def on_validation_start(self, trainer, pl_module):
+        if trainer.current_epoch < 290:
+            trainer.check_val_every_n_epoch = self.skip_val_epoch
+        else:
+            trainer.check_val_every_n_epoch = 1
+    
+    def on_train_start(self, trainer, pl_module):
+        if trainer.current_epoch < 290:
+            trainer.check_val_every_n_epoch = self.skip_val_epoch
+        else:
+            trainer.check_val_every_n_epoch = 1
+        trainer.logger.log_metrics({"skip_val_epoch": trainer.check_val_every_n_epoch})
+    

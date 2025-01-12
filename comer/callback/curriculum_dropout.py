@@ -20,6 +20,7 @@ class CurriculumDropout(Callback):
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
         self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
         self.dropout_modules = []
+        self.debug = []
     
     def _update_dropout(self, trainer, pl_module):
         for module in self.dropout_modules:

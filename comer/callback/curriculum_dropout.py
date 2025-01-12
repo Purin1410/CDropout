@@ -27,16 +27,19 @@ class CurriculumDropout(Callback):
             module.p = self.current_dropout
     
     def _calculate_train_step(self, trainer, pl_module):
+        # TODO: REMOVE THIS LINE LATER
+        ##############################
         self.debug = [m for m in pl_module.comer_model.decoder.model.layers.modules()]
         for module in self.debug:  #debug
             print(module)
             print()
+        ##############################
         self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
         print("Self.dropout_modules:", self.dropout_modules) # debug
-        cl_start = int(self.config.curriculum.learning.start_percent*10)
-        origin_dataset = trainer.datamodule.original_train_dataset
         if self.config.curriculum.learning.type == "Vanilla":
+            cl_start = int(self.config.curriculum.learning.start_percent*10)
             # calculate total batch model will train in CL mode
+            origin_dataset = trainer.datamodule.original_train_dataset
             cl_total_batch = 0
             for i in range(cl_start, 11):
                 batch = len(data_iterator(
@@ -59,6 +62,7 @@ class CurriculumDropout(Callback):
             rest_step =  rest_epoch*batch
             total_step = cl_total_step + rest_step
         else:
+            origin_dataset = trainer.datamodule.train_dataset
             total_step = self.max_epochs*len(data_iterator(
                     data = origin_dataset,
                     batch_size= self.config.data.train_batch_size
@@ -73,7 +77,6 @@ class CurriculumDropout(Callback):
             self.total_step = self._calculate_train_step(trainer,pl_module)
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)
-            origin_dataset = trainer.datamodule.original_train_dataset
             # debug + dirty code
             #TODO: need to fix this dirty code
             self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
@@ -95,7 +98,7 @@ class CurriculumDropout(Callback):
         self.current_step += 1
     
     def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
-        print(self.debug)
+        # print(self.debug)
         if not self.check_resume_checkpoint:
             print("current dropout: ", self.current_dropout)
             trainer.logger.log_metrics(

@@ -63,10 +63,8 @@ class CurriculumDropout(Callback):
             total_step = cl_total_step + rest_step
         else:
             origin_dataset = trainer.datamodule.train_dataset
-            total_step = self.max_epochs*len(data_iterator(
-                    data = origin_dataset,
-                    batch_size= self.config.data.train_batch_size
-                ))
+            total_step = len(origin_dataset)*self.max_epochs
+            print(total_step)
         return total_step
 
     def _dropout(self):

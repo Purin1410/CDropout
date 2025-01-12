@@ -16,6 +16,7 @@ from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 import subprocess
 # from comer.callback.update_data_callback import CurriculumUpdateData
 from comer.callback.skip_validation import SkipValidation
+from comer.callback.gaussian_blur import CurriculumInputBlur
 
 Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
 
@@ -53,6 +54,8 @@ def train(config):
     grad_norm_callback = GradNormCallback()
 
     curriculum_dropout = CurriculumDropout(config = config)
+    
+    gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
     remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_310_VCL_DROPOUT"

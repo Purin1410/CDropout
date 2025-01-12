@@ -88,7 +88,7 @@ class CurriculumDropout(Callback):
         else:
             self.total_step = self._calculate_train_step(trainer,pl_module)
             self._update_dropout(trainer, pl_module)
-        print(self.debug)
+        # print(self.debug)
                 
     
     def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):

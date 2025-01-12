@@ -3,46 +3,6 @@ from pytorch_lightning.callbacks import Callback
 import torchvision.transforms.functional as F
 from torchvision.transforms import GaussianBlur
 
-import matplotlib.pyplot as plt
-
-def visualize_blur(img_tensor, blurred_tensor):
-    """
-    Visualize the original image and the blurred image side by side.
-
-    Args:
-        img_tensor (torch.Tensor): Original image tensor of shape [C, H, W].
-        blurred_tensor (torch.Tensor): Blurred image tensor of shape [C, H, W].
-    """
-    # Convert tensors to numpy arrays
-    img = img_tensor.squeeze().cpu().numpy()
-    blurred_img = blurred_tensor.squeeze().cpu().numpy()
-
-    # Plot images
-    fig, axes = plt.subplots(1, 2, figsize=(10, 5))
-    axes[0].imshow(img, cmap="gray")
-    axes[0].set_title("Original Image")
-    axes[0].axis("off")
-
-    axes[1].imshow(blurred_img, cmap="gray")
-    axes[1].set_title("Blurred Image")
-    axes[1].axis("off")
-
-    plt.show()
-
-def debug_pixel_values(img_tensor, blurred_tensor):
-    """
-    Print a few pixel values before and after applying Gaussian blur.
-
-    Args:
-        img_tensor (torch.Tensor): Original image tensor of shape [C, H, W].
-        blurred_tensor (torch.Tensor): Blurred image tensor of shape [C, H, W].
-    """
-    print("Original Image Tensor:")
-    print(img_tensor.squeeze().cpu().numpy()[:5, :5])  # Print top-left 5x5 patch
-    print("\nBlurred Image Tensor:")
-    print(blurred_tensor.squeeze().cpu().numpy()[:5, :5])
-
-
 
 class CurriculumInputBlur(Callback):
     def __init__(self, sigma_init: float):
@@ -56,24 +16,16 @@ class CurriculumInputBlur(Callback):
         super().__init__()
         self.sigma_init = sigma_init
         self.max_steps = 0
-        self.debug_steps = 5
-        
-
     def on_validation_start(self, trainer, pl_module):
         origin_dataset = trainer.datamodule.train_dataset
         self.max_steps = len(origin_dataset)*trainer.max_epochs
-        print(self.max_steps)
+        print("self.max_steps: ", self.max_steps)
     
     def on_train_batch_start(self, trainer, pl_module, batch, *args, **kwargs):
         """
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
         current_step = trainer.global_step
-        print("current_step", current_step)
-        print("self.max_steps", self.max_steps)
-        print("batch", batch)
-        print("batch.imgs", batch.imgs)
-        print("batch.imgs.shape", batch.imgs.shape)
         if current_step > self.max_steps:
             return 
         
@@ -95,8 +47,6 @@ class CurriculumInputBlur(Callback):
         ###########################################################
         if current_step < self.debug_steps:
             print(f"Step {current_step}: sigma = {current_sigma:.10f}")
-            visualize_blur(batch.imgs[0], blurred_imgs[0])
-            debug_pixel_values(batch.imgs[0], blurred_imgs[0])
         ############################################################
 
         batch.imgs = torch.stack(blurred_imgs, dim=0)

@@ -92,8 +92,10 @@ class CurriculumInputBlur(Callback):
         ###########################################################
         if current_step < self.debug_steps:
             print(f"Step {current_step}: sigma = {current_sigma:.10f}")
-            visualize_blur(batch.imgs[current_step], blurred_imgs[current_step])
-            debug_pixel_values(batch.imgs[current_step], blurred_imgs[current_step])
+            print("batch.imgs", batch.imgs)
+            print("blurred_imgs", blurred_imgs)
+            visualize_blur(batch.imgs[0], blurred_imgs[0])
+            debug_pixel_values(batch.imgs[0], blurred_imgs[0])
         ############################################################
 
         batch.imgs = torch.stack(blurred_imgs, dim=0)

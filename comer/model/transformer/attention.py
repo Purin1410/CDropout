@@ -383,8 +383,8 @@ def multi_head_attention_forward(
             dots = dots.view(bsz * num_heads, tgt_len, src_len)
 
         attn = F.softmax(dots, dim=-1)
-        attn = F.dropout(attn, p=0, training=training)
-        # attn = dropout_p(attn)
+        # attn = F.dropout(attn, p=dropout_p, training=training)
+        attn = dropout_p(attn)
         return attn
 
     attention = mask_softmax_dropout(attn_output_weights)

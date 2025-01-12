@@ -69,11 +69,12 @@ class CurriculumInputBlur(Callback):
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
         current_step = trainer.global_step
-        print(current_step)
+        print("current_step", current_step)
+        print("self.max_steps", self.max_steps)
         if current_step > self.max_steps:
             return 
         
-        current_sigma = self.sigma_init * (1 - current_step / self.max_steps)
+        current_sigma = self.sigma_init*(1 - current_step / self.max_steps)
         
         if not isinstance(batch.imgs, torch.Tensor):
             raise ValueError("batch.imgs must be a tensor of shape [batch_size, C, H, W].")
@@ -90,7 +91,7 @@ class CurriculumInputBlur(Callback):
         # TODO: debug, delete later
         ###########################################################
         if current_step < self.debug_steps:
-            print(f"Step {current_step}: sigma = {current_sigma:.4f}")
+            print(f"Step {current_step}: sigma = {current_sigma:.10f}")
             visualize_blur(batch.imgs[current_step], blurred_imgs[current_step])
             debug_pixel_values(batch.imgs[current_step], blurred_imgs[current_step])
         ############################################################

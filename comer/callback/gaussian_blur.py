@@ -43,10 +43,7 @@ class CurriculumInputBlur(Callback):
             F.gaussian_blur(img, kernel_size=3, sigma=current_sigma) for img in batch.imgs
         ]
         
-        # TODO: debug, delete later
-        ###########################################################
         trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
-        ############################################################
 
         batch.imgs = torch.stack(blurred_imgs, dim=0)
         

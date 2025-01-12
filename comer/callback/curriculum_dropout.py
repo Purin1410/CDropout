@@ -26,8 +26,8 @@ class CurriculumDropout(Callback):
             module.p = self.current_dropout
     
     def _calculate_train_step(self, trainer, pl_module):
-        debug = [m for m in pl_module.comer_model.decoder.model.layers.modules()]
-        for module in debug:  #debug
+        self.debug = [m for m in pl_module.comer_model.decoder.model.layers.modules()]
+        for module in self.debug:  #debug
             print(module)
             print()
         self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
@@ -94,6 +94,7 @@ class CurriculumDropout(Callback):
         self.current_step += 1
     
     def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
+        print(self.debug)
         if not self.check_resume_checkpoint:
             print("current dropout: ", self.current_dropout)
             trainer.logger.log_metrics(

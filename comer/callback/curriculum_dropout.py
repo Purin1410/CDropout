@@ -26,7 +26,7 @@ class CurriculumDropout(Callback):
             module.p = self.current_dropout
     
     def _calculate_train_step(self, trainer, pl_module):
-        debug = [m for m in pl_module.comer_model.decoder.model.modules()]
+        debug = [m for m in pl_module.comer_model.decoder.model.layers.modules()]
         print(debug) # debug
         self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
         print("Self.dropout_modules:", self.dropout_modules) # debug

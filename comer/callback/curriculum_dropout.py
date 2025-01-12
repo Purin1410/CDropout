@@ -19,13 +19,15 @@ class CurriculumDropout(Callback):
         self.total_batch = 0
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
         self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
+        self.dropout_modules = []
     
     def _update_dropout(self, trainer, pl_module):
-        for module in pl_module.comer_model.decoder.modules():
-            if isinstance(module, torch.nn.Dropout):
-                module.p = self.current_dropout
+        for module in self.dropout_modules:
+            module.p = self.current_dropout
     
-    def _calculate_train_step(self, trainer):
+    def _calculate_train_step(self, trainer, pl_module):
+        self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
+        print("Self.dropout_modules:", self.dropout_modules) # debug
         cl_start = int(self.config.curriculum.learning.start_percent*10)
         origin_dataset = trainer.datamodule.original_train_dataset
         if self.config.curriculum.learning.type == "Vanilla":
@@ -63,7 +65,7 @@ class CurriculumDropout(Callback):
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
         if self.check_resume_checkpoint:
-            self.total_step = self._calculate_train_step(trainer)
+            self.total_step = self._calculate_train_step(trainer,pl_module)
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)
             origin_dataset = trainer.datamodule.original_train_dataset
@@ -78,7 +80,7 @@ class CurriculumDropout(Callback):
             print("current step: ", self.current_step)
             self.check_resume_checkpoint = False
         else:
-            self.total_step = self._calculate_train_step(trainer)
+            self.total_step = self._calculate_train_step(trainer,pl_module)
             self._update_dropout(trainer, pl_module)
                 
     

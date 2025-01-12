@@ -24,9 +24,10 @@ class CurriculumDropout(Callback):
     def _update_dropout(self, trainer, pl_module):
         for module in self.dropout_modules:
             module.p = self.current_dropout
+        print("Self.dropout_modules:", self.dropout_modules) # debug
     
     def _calculate_train_step(self, trainer, pl_module):
-        print("pl_module.comer_model.decoder.model.layers.modules():", pl_module.comer_model.decoder.model.layers.modules()) # debug
+        print(m for m in pl_module.comer_model.decoder.model.layers.modules()) # debug
         self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
         print("Self.dropout_modules:", self.dropout_modules) # debug
         cl_start = int(self.config.curriculum.learning.start_percent*10)

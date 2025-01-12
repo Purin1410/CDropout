@@ -56,7 +56,7 @@ class CurriculumInputBlur(Callback):
         super().__init__()
         self.sigma_init = sigma_init
         self.max_steps = 0
-        self.debug_steps = 1219
+        self.debug_steps = 5
         
 
     def on_validation_start(self, trainer, pl_module):

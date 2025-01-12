@@ -384,7 +384,7 @@ def multi_head_attention_forward(
 
         attn = F.softmax(dots, dim=-1)
         # attn = F.dropout(attn, p=dropout_p, training=training)
-        attn = torch.nn.dropout(attn, p= dropout_p)
+        attn = torch.nn.Dropout(attn, p= dropout_p)
         return attn
 
     attention = mask_softmax_dropout(attn_output_weights)

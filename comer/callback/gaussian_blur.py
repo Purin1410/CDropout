@@ -69,6 +69,7 @@ class CurriculumInputBlur(Callback):
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
         current_step = trainer.global_step
+        print(current_step)
         if current_step > self.max_steps:
             return 
         

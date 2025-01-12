@@ -55,7 +55,7 @@ def train(config):
 
     curriculum_dropout = CurriculumDropout(config = config)
     
-    gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
+    # gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
     remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_310_VCL_DROPOUT"

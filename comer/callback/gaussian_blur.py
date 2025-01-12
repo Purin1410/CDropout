@@ -61,7 +61,7 @@ class CurriculumInputBlur(Callback):
 
     def on_validation_start(self, trainer, pl_module):
         origin_dataset = trainer.datamodule.train_dataset
-        self.max_steps = len(origin_dataset)*self.max_epochs
+        self.max_steps = len(origin_dataset)*trainer.max_epochs
         print(self.max_steps)
     
     def on_train_batch_start(self, trainer, pl_module, batch, batch_idx):

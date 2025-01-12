@@ -32,7 +32,7 @@ class MultiheadAttention(nn.Module):
         self._qkv_same_embed_dim = self.kdim == embed_dim and self.vdim == embed_dim
 
         self.num_heads = num_heads
-        self.dropout = dropout
+        self.dropout = torch.nn.Dropout(dropout)
         self.head_dim = embed_dim // num_heads
         assert (
             self.head_dim * num_heads == self.embed_dim
@@ -384,7 +384,7 @@ def multi_head_attention_forward(
 
         attn = F.softmax(dots, dim=-1)
         # attn = F.dropout(attn, p=dropout_p, training=training)
-        attn = torch.nn.Dropout(dropout_p)(attn)
+        attn = dropout_p(attn)
         return attn
 
     attention = mask_softmax_dropout(attn_output_weights)

@@ -73,7 +73,7 @@ class CurriculumInputBlur(Callback):
         if current_step > self.max_steps:
             return 
         
-        current_sigma = self.sigma_init * (1 - min(current_step / self.max_steps, 1.0))
+        current_sigma = self.sigma_init * (1 - current_step / self.max_steps)
         
         if not isinstance(batch.imgs, torch.Tensor):
             raise ValueError("batch.imgs must be a tensor of shape [batch_size, C, H, W].")

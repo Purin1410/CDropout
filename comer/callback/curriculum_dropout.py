@@ -75,16 +75,19 @@ class CurriculumDropout(Callback):
             self.total_step = self._calculate_train_step(trainer,pl_module)
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)
-            # debug + dirty code
-            #TODO: need to fix this dirty code
-            self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
-            print("current step: ", self.current_step)
-            
-            self.current_dropout = self._dropout()
-            self._update_dropout(trainer, pl_module)
+            if self.config.curriculum.learning.type == "Vanilla":
+                self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
+                self.current_dropout = self._dropout()
+                self._update_dropout(trainer, pl_module)
+            else:
+                self.total_step = self._calculate_train_step(trainer,pl_module)
+                self.current_step = trainer.global_step
+                self.current_dropout = self._dropout()
+                self._update_dropout(trainer, pl_module)
+            self.check_resume_checkpoint = False    
             print("current dropout: ", self.current_dropout)
             print("current step: ", self.current_step)
-            self.check_resume_checkpoint = False
+                
         else:
             self.total_step = self._calculate_train_step(trainer,pl_module)
             self._update_dropout(trainer, pl_module)

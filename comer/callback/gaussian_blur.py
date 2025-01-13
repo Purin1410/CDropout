@@ -25,7 +25,7 @@ class CurriculumInputBlur(Callback):
         """
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
-        current_step = trainer.global_step
+        current_step = 2*trainer.global_step
         if current_step > self.max_steps:
             return 
         
@@ -40,7 +40,7 @@ class CurriculumInputBlur(Callback):
             )
 
         blurred_imgs = [
-            F.gaussian_blur(img, kernel_size=3, sigma=current_sigma) for img in batch.imgs
+            F.gaussian_blur(img, kernel_size=7, sigma=current_sigma) for img in batch.imgs
         ]
         
         trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)

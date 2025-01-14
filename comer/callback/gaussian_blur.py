@@ -16,6 +16,8 @@ class CurriculumInputBlur(Callback):
         super().__init__()
         self.sigma_init = sigma_init
         self.max_steps = 0
+        self.kernel_size = 6*sigma_init + 1
+        
     def on_validation_start(self, trainer, pl_module):
         origin_dataset = trainer.datamodule.train_dataset
         self.max_steps = len(origin_dataset)*trainer.max_epochs
@@ -31,6 +33,9 @@ class CurriculumInputBlur(Callback):
         
         current_sigma = self.sigma_init*(1 - current_step / self.max_steps)
         
+        if current_sigma <= 0:
+            return
+        
         if not isinstance(batch.imgs, torch.Tensor):
             raise ValueError("batch.imgs must be a tensor of shape [batch_size, C, H, W].")
         
@@ -40,7 +45,7 @@ class CurriculumInputBlur(Callback):
             )
 
         blurred_imgs = [
-            F.gaussian_blur(img, kernel_size=7, sigma=current_sigma) for img in batch.imgs
+            F.gaussian_blur(img, kernel_size=self.kernel_size, sigma=current_sigma) for img in batch.imgs
         ]
         
         trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)

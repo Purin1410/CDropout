@@ -16,7 +16,7 @@ class CurriculumInputBlur(Callback):
         super().__init__()
         self.sigma_init = sigma_init
         self.max_steps = 0
-        self.kernel_size = 6*sigma_init + 1
+        self.kernel_size = int(6*sigma_init + 1)
         
     def on_validation_start(self, trainer, pl_module):
         origin_dataset = trainer.datamodule.train_dataset

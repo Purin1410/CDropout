@@ -60,11 +60,6 @@ class CurriculumDropout(Callback):
                 current_dropout = self._dropout(trainer, end_dropout)
                 self._update_dropout_layer(current_dropout, dropout_layer_list)
                 metrics[f"{key}_dropout"] = current_dropout
-            if trainer.global_step <= 5:
-                # TODO: DEBUG, DELETE LATER
-                print("mha_dropout_layer: ",self.mha_dropout_layer)
-                print("ffn_dropout_layer: ",self.ffn_dropout_layer)
-                print("densenet_dropout_layer: ", self.densenet_dropout_layer)
 
         trainer.logger.log_metrics(metrics, step=trainer.global_step)
 

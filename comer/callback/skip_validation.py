@@ -16,5 +16,4 @@ class SkipValidation(Callback):
             trainer.check_val_every_n_epoch = self.skip_val_epoch
         else:
             trainer.check_val_every_n_epoch = 1
-        trainer.logger.log_metrics({"skip_val_epoch": trainer.check_val_every_n_epoch})
     

@@ -54,10 +54,10 @@ curriculum:
     slope: 10 # from 1 to 10
     mha: true
     mha_start_dropout: 0.0
-    mha_end_dropout: 0.5
+    mha_end_dropout: 0.2
     ffn: true
     ffn_start_dropout: 0.0
-    ffn_end_dropout: 0.5
+    ffn_end_dropout: 0.3
     densenet: true
     densenet_start_dropout: 0.0
     densenet_end_dropout: 0.5

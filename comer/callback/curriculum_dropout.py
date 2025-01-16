@@ -38,6 +38,10 @@ class CurriculumDropout(Callback):
         if not self.mha_dropout_layer or not self.ffn_dropout_layer or not self.densenet_dropout_layer:
             if self.config.curriculum.dropout.mha or self.config.curriculum.dropout.ffn or self.config.curriculum.dropout.densenet:
                 self._initialize_dropout_layers(pl_module)
+        # TODO: DEBUG, DELETE LATER
+        print("mha_dropout_layer: ",self.mha_dropout_layer)
+        print("ffn_dropout_layer: ",self.ffn_dropout_layer)
+        print("densenet_dropout_layer: ", self.densenet_dropout_layer)
         
         # Calculate total step                                   
         self.total_step = self._calculate_train_step(trainer,pl_module)      
@@ -58,7 +62,7 @@ class CurriculumDropout(Callback):
         for key, (dropout_layer_list, end_dropout) in dropout_map.items():
             if getattr(self.config.curriculum.dropout, key.lower(), False):  # Check if enabled
                 current_dropout = self._dropout(trainer, end_dropout)
-                self._update_dropout_layer(trainer, current_dropout, dropout_layer_list)
+                self._update_dropout_layer(current_dropout, dropout_layer_list)
                 metrics[f"{key}_dropout"] = current_dropout
 
         # Ghi log tất cả Dropout một lần
@@ -120,12 +124,9 @@ class CurriculumDropout(Callback):
     def _dropout(self, trainer, end_dropout):
         return (1 - (( end_dropout)*math.exp(-self.slope*trainer.global_step/self.total_step) + (1 - end_dropout)))
     
-    def _update_dropout_layer(self,trainer, current_dropout, dropout_layer_list):
+    def _update_dropout_layer(self,current_dropout, dropout_layer_list):
         for layer in dropout_layer_list:
             layer.p = current_dropout
-            # TODO: REMOVE LATER
-            if trainer.global_step <= 5:
-                print("layer.dropout.p: ", layer.p)
     
     def _initialize_dropout_layers(self,pl_module):
         for layer in pl_module.comer_model.decoder.model.layers:

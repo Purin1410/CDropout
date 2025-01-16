@@ -30,8 +30,6 @@ class CurriculumDropout(Callback):
         
         if self.config.curriculum.dropout.densenet:
             for layer in pl_module.comer_model.encoder.model.modules():
-                if trainer.global_step <= 5:
-                    print(layer)
                 if isinstance(layer, torch.nn.Dropout):
                     layer.p = self.current_dropout
         
@@ -45,9 +43,6 @@ class CurriculumDropout(Callback):
 
     
     def _calculate_train_step(self, trainer, pl_module):
-        dropout = [layer for layer in pl_module.comer_model.encoder.model.modules() if isinstance(layer, torch.nn.Dropout)]
-        for layer in dropout:
-            print(layer)
         if self.config.curriculum.learning.type == "Vanilla":
             cl_start = int(self.config.curriculum.learning.start_percent*10)
             # calculate total batch model will train in CL mode

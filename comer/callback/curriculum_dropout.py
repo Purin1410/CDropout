@@ -29,6 +29,7 @@ class CurriculumDropout(Callback):
                         print("attn_layer.dropout.p: ", attn_layer.dropout.p) # debug TODO: REMOVE LATER
         
         if self.config.curriculum.dropout.densenet:
+            print(layer for layer in pl_module.comer_model.encoder.model.layers.modules())
             for layer in pl_module.comer_model.encoder.model.layers.modules():
                 if isinstance(layer, torch.nn.Dropout):
                     layer.p = self.current_dropout

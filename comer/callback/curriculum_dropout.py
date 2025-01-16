@@ -58,7 +58,7 @@ class CurriculumDropout(Callback):
         for key, (dropout_layer_list, end_dropout) in dropout_map.items():
             if getattr(self.config.curriculum.dropout, key.lower(), False):  # Check if enabled
                 current_dropout = self._dropout(trainer, end_dropout)
-                self._update_dropout_layer(current_dropout, dropout_layer_list)
+                self._update_dropout_layer(trainer, current_dropout, dropout_layer_list)
                 metrics[f"{key}_dropout"] = current_dropout
 
         # Ghi log tất cả Dropout một lần

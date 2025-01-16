@@ -137,8 +137,12 @@ class CurriculumDropout(Callback):
                         self.mha_dropout_layer.append(attn_layer.dropout)
                         
             if self.config.curriculum.dropout.ffn:
+                print("Create ffn list") #debug
                 for attr in ['dropout', 'dropout1', 'dropout2', 'dropout3']:
                     dropout_layer = getattr(layer, attr, None)
+                    # TODO: DEBUG, DELETE LATER
+                    print("hasattr(dropout_layer, 'dropout'): ",hasattr(dropout_layer, 'dropout'))
+                    print("isinstance(dropout_layer.dropout, torch.nn.Dropout): ".isinstance(dropout_layer.dropout, torch.nn.Dropout))
                     if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer.dropout, torch.nn.Dropout):
                         self.ffn_dropout_layer.append(dropout_layer.dropout)
         

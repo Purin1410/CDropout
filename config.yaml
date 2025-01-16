@@ -10,7 +10,7 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: '{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: 'D5_M5_F5_{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu
@@ -54,10 +54,10 @@ curriculum:
     start_dropout: 0.0
     end_dropout: 0.5
     slope: 10 # from 1 to 10
-    mha: false
+    mha: true
     mha_start_dropout: 0.0
     mha_end_dropout: 0.5
-    ffn: false
+    ffn: true
     ffn_start_dropout: 0.0
     ffn_end_dropout: 0.5 
     densenet: true

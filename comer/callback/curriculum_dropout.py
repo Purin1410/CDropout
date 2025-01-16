@@ -17,16 +17,32 @@ class CurriculumDropout(Callback):
         self.total_batch = 0
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
         self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
-        self.dropout_modules = []
         self.debug = []
     
     def _update_dropout(self, trainer, pl_module):
-        for module in self.dropout_modules:
-            module.p = self.current_dropout
+        if self.config.curriculum.dropout.mha:
+            for layer in pl_module.comer_model.decoder.model.layers:
+                for attr in ['self_attn', 'multihead_attn']:
+                    attn_layer = getattr(layer, attr, None)
+                    if hasattr(attn_layer, 'dropout') and isinstance(attn_layer.dropout, torch.nn.Dropout):
+                        attn_layer.dropout.p = self.current_dropout
+                        print("attn_layer.dropout.p: ", attn_layer.dropout.p) # debug TODO: REMOVE LATER
+        
+        if self.config.curriculum.dropout.densenet:
+            for layer in pl_module.comer_model.encoder.model.layers.modules():
+                if isinstance(layer, torch.nn.Dropout):
+                    layer.p = self.current_dropout
+        
+        if self.config.curriculum.dropout.ffn:
+            for layer in pl_module.comer_model.decoder.model.layers:
+                for attr in ['dropout', 'dropout1', 'dropout2', 'dropout3']:
+                    dropout_layer = getattr(layer, attr, None)
+                    if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer, torch.nn.Dropout):
+                        dropout_layer.p = self.current_dropout
+                        print("dropout_layer.dropout.p: ", dropout_layer.p) # debug TODO: REMOVE LATER
+
     
     def _calculate_train_step(self, trainer, pl_module):
-        self.dropout_modules = [m for m in pl_module.comer_model.decoder.model.layers.modules() if isinstance(m, torch.nn.Dropout)]
-        print("Self.dropout_modules:", self.dropout_modules) # debug
         if self.config.curriculum.learning.type == "Vanilla":
             cl_start = int(self.config.curriculum.learning.start_percent*10)
             # calculate total batch model will train in CL mode
@@ -62,26 +78,19 @@ class CurriculumDropout(Callback):
         return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
+        self.total_step = self._calculate_train_step(trainer,pl_module)
         if self.check_resume_checkpoint:
-            self.total_step = self._calculate_train_step(trainer,pl_module)
             print("total step: ", self.total_step)
             print("Start from epoch: ", trainer.current_epoch)
             if self.config.curriculum.learning.type == "Vanilla":
                 self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
                 self.current_dropout = self._dropout()
-                self._update_dropout(trainer, pl_module)
             else:
                 self.total_step = self._calculate_train_step(trainer,pl_module)
                 self.current_step = trainer.global_step
                 self.current_dropout = self._dropout()
-                self._update_dropout(trainer, pl_module)
-            self.check_resume_checkpoint = False    
-            print("current dropout: ", self.current_dropout)
-            print("current step: ", self.current_step)
-                
-        else:
-            self.total_step = self._calculate_train_step(trainer,pl_module)
-            self._update_dropout(trainer, pl_module)
+            self.check_resume_checkpoint = False           
+        self._update_dropout(trainer, pl_module)
                 
     
     def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
@@ -90,7 +99,6 @@ class CurriculumDropout(Callback):
         self.current_step += 1
     
     def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
-        # print(self.debug)
         if not self.check_resume_checkpoint:
             print("current dropout: ", self.current_dropout)
             trainer.logger.log_metrics(

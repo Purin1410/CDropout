@@ -13,7 +13,7 @@ from .pos_enc import ImgPosEnc
 
 # DenseNet-B
 class _Bottleneck(nn.Module):
-    def __init__(self, n_channels: int, growth_rate: int, use_dropout: bool):
+    def __init__(self, n_channels: int, growth_rate: int, use_dropout: bool, densenet_dropout: float):
         super(_Bottleneck, self).__init__()
         interChannels = 4 * growth_rate
         self.bn1 = nn.BatchNorm2d(interChannels)
@@ -23,7 +23,7 @@ class _Bottleneck(nn.Module):
             interChannels, growth_rate, kernel_size=3, padding=1, bias=False
         )
         self.use_dropout = use_dropout
-        self.dropout = nn.Dropout(p=0.2)
+        self.dropout = nn.Dropout(p=densenet_dropout)
 
     def forward(self, x):
         out = F.relu(self.bn1(self.conv1(x)), inplace=True)
@@ -38,14 +38,14 @@ class _Bottleneck(nn.Module):
 
 # single layer
 class _SingleLayer(nn.Module):
-    def __init__(self, n_channels: int, growth_rate: int, use_dropout: bool):
+    def __init__(self, n_channels: int, growth_rate: int, use_dropout: bool, densenet_dropout: float):
         super(_SingleLayer, self).__init__()
         self.bn1 = nn.BatchNorm2d(n_channels)
         self.conv1 = nn.Conv2d(
             n_channels, growth_rate, kernel_size=3, padding=1, bias=False
         )
         self.use_dropout = use_dropout
-        self.dropout = nn.Dropout(p=0.2)
+        self.dropout = nn.Dropout(p=densenet_dropout)
 
     def forward(self, x):
         out = self.conv1(F.relu(x, inplace=True))
@@ -57,12 +57,12 @@ class _SingleLayer(nn.Module):
 
 # transition layer
 class _Transition(nn.Module):
-    def __init__(self, n_channels: int, n_out_channels: int, use_dropout: bool):
+    def __init__(self, n_channels: int, n_out_channels: int, use_dropout: bool, densenet_dropout: float):
         super(_Transition, self).__init__()
         self.bn1 = nn.BatchNorm2d(n_out_channels)
         self.conv1 = nn.Conv2d(n_channels, n_out_channels, kernel_size=1, bias=False)
         self.use_dropout = use_dropout
-        self.dropout = nn.Dropout(p=0.2)
+        self.dropout = nn.Dropout(p=densenet_dropout)
 
     def forward(self, x):
         out = F.relu(self.bn1(self.conv1(x)), inplace=True)
@@ -80,6 +80,7 @@ class DenseNet(nn.Module):
         reduction: float = 0.5,
         bottleneck: bool = True,
         use_dropout: bool = True,
+        densenet_dropout: float = 0.2
     ):
         super(DenseNet, self).__init__()
         n_dense_blocks = num_layers
@@ -89,36 +90,36 @@ class DenseNet(nn.Module):
         )
         self.norm1 = nn.BatchNorm2d(n_channels)
         self.dense1 = self._make_dense(
-            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout
+            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout, densenet_dropout
         )
         n_channels += n_dense_blocks * growth_rate
         n_out_channels = int(math.floor(n_channels * reduction))
-        self.trans1 = _Transition(n_channels, n_out_channels, use_dropout)
+        self.trans1 = _Transition(n_channels, n_out_channels, use_dropout, densenet_dropout)
 
         n_channels = n_out_channels
         self.dense2 = self._make_dense(
-            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout
+            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout, densenet_dropout
         )
         n_channels += n_dense_blocks * growth_rate
         n_out_channels = int(math.floor(n_channels * reduction))
-        self.trans2 = _Transition(n_channels, n_out_channels, use_dropout)
+        self.trans2 = _Transition(n_channels, n_out_channels, use_dropout, densenet_dropout)
 
         n_channels = n_out_channels
         self.dense3 = self._make_dense(
-            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout
+            n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout, densenet_dropout
         )
 
         self.out_channels = n_channels + n_dense_blocks * growth_rate
         self.post_norm = nn.BatchNorm2d(self.out_channels)
 
     @staticmethod
-    def _make_dense(n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout):
+    def _make_dense(n_channels, growth_rate, n_dense_blocks, bottleneck, use_dropout, densenet_dropout):
         layers = []
         for _ in range(int(n_dense_blocks)):
             if bottleneck:
-                layers.append(_Bottleneck(n_channels, growth_rate, use_dropout))
+                layers.append(_Bottleneck(n_channels, growth_rate, use_dropout, densenet_dropout))
             else:
-                layers.append(_SingleLayer(n_channels, growth_rate, use_dropout))
+                layers.append(_SingleLayer(n_channels, growth_rate, use_dropout, densenet_dropout))
             n_channels += growth_rate
         return nn.Sequential(*layers)
 
@@ -141,10 +142,10 @@ class DenseNet(nn.Module):
 
 
 class Encoder(pl.LightningModule):
-    def __init__(self, d_model: int, growth_rate: int, num_layers: int):
+    def __init__(self, d_model: int, growth_rate: int, num_layers: int, densenet_dropout: float):
         super().__init__()
 
-        self.model = DenseNet(growth_rate=growth_rate, num_layers=num_layers)
+        self.model = DenseNet(growth_rate=growth_rate, num_layers=num_layers, densenet_dropout = densenet_dropout)
 
         self.feature_proj = nn.Conv2d(self.model.out_channels, d_model, kernel_size=1)
 

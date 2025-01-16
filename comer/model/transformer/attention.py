@@ -32,7 +32,6 @@ class MultiheadAttention(nn.Module):
         self._qkv_same_embed_dim = self.kdim == embed_dim and self.vdim == embed_dim
 
         self.num_heads = num_heads
-        # self.dropout = dropout
         self.dropout = torch.nn.Dropout(dropout)
         self.head_dim = embed_dim // num_heads
         assert (

@@ -33,7 +33,7 @@ def train(config):
         model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("CoMER_Dropout_FFN_MHA", project="CoMER_CDropout", config=dict(config), log_model='all')
+    logger = Logger("CoMER_Densenet", project="CoMER_CDropout", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
@@ -55,7 +55,7 @@ def train(config):
 
     curriculum_dropout = CurriculumDropout(config = config)
     
-    # gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
+    gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
     remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_310_VCL_DROPOUT"
@@ -65,7 +65,7 @@ def train(config):
     
     # update_data = CurriculumUpdateData(config = config)
     
-    skip_validation = SkipValidation(skip_val_epoch= 20)
+    skip_validation = SkipValidation(skip_val_epoch= 10)
     
     trainer = pl.Trainer(
         devices=config.trainer.gpus,

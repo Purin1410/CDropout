@@ -19,7 +19,9 @@ class CoMER(pl.LightningModule):
         nhead: int,
         num_decoder_layers: int,
         dim_feedforward: int,
-        dropout: float,
+        MHA_dropout: float,
+        FFN_dropout: float,
+        densenet_dropout: float,
         dc: int,
         cross_coverage: bool,
         self_coverage: bool,
@@ -27,14 +29,15 @@ class CoMER(pl.LightningModule):
         super().__init__()
 
         self.encoder = Encoder(
-            d_model=d_model, growth_rate=growth_rate, num_layers=num_layers
+            d_model=d_model, growth_rate=growth_rate, num_layers=num_layers, densenet_dropout= densenet_dropout,
         )
         self.decoder = Decoder(
             d_model=d_model,
             nhead=nhead,
             num_decoder_layers=num_decoder_layers,
             dim_feedforward=dim_feedforward,
-            dropout=dropout,
+            MHA_dropout = MHA_dropout,
+            FFN_dropout = FFN_dropout,
             dc=dc,
             cross_coverage=cross_coverage,
             self_coverage=self_coverage,

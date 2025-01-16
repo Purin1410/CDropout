@@ -27,7 +27,9 @@ model:
   nhead: 8
   num_decoder_layers: 3
   dim_feedforward: 1024
-  dropout: 0.0
+  MHA_dropout: 0.3
+  FFN_dropout: 0.3
+  densenet_dropout: 0.2
   dc: 32
   cross_coverage: true
   self_coverage: true
@@ -43,8 +45,8 @@ model:
 data:
   zipfile_path: data.zip
   test_year: 'all'
-  train_batch_size: 16
-  eval_batch_size: 16
+  train_batch_size: 64
+  eval_batch_size: 32
   num_workers: 4
   scale_aug: true
 curriculum:
@@ -52,6 +54,15 @@ curriculum:
     start_dropout: 0.0
     end_dropout: 0.5
     slope: 10 # from 1 to 10
+    mha: false
+    mha_start_dropout: 0.0
+    mha_end_dropout: 0.5
+    ffn: false
+    ffn_start_dropout: 0.0
+    ffn_end_dropout: 0.5 
+    densenet: true
+    densenet_start_dropout: 0.0
+    densenet_end_dropout: 0.5
   learning:
     type: null # "Vanilla"
     step: 0.1

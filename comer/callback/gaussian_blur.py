@@ -31,8 +31,10 @@ class CurriculumInputBlur(Callback):
         if current_step > self.max_steps:
             return 
         
-        current_sigma = self.sigma_init*(1 - current_step / self.max_steps)
+        current_sigma = max(self.sigma_init*(1 - current_step / self.max_steps), 0)
         
+        trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
+
         if current_sigma <= 0:
             return
         
@@ -47,9 +49,6 @@ class CurriculumInputBlur(Callback):
         blurred_imgs = [
             F.gaussian_blur(img, kernel_size=self.kernel_size, sigma=current_sigma) for img in batch.imgs
         ]
-        
-        trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
-
         batch.imgs = torch.stack(blurred_imgs, dim=0)
         
         

@@ -7,40 +7,144 @@ class CurriculumDropout(Callback):
     def __init__(self, config):
         super().__init__()
         self.config = config
-        self.start_dropout = self.config.curriculum.dropout.start_dropout
-        self.end_dropout = self.config.curriculum.dropout.end_dropout
-        self.current_dropout = self.start_dropout
-        self.current_step = 0
+        # Dropout: MHA, DenseNet, FFN
+        # MHA
+        self.mha_start_dropout = self.config.curriculum.dropout.mha_start_dropout
+        self.mha_end_dropout = self.config.curriculum.dropout.mha_end_dropout
+        # FFN
+        self.ffn_start_dropout = self.config.curriculum.dropout.ffn_start_dropout
+        self.ffn_end_dropout = self.config.curriculum.dropout.ffn_end_dropout
+        # DenseNet
+        self.densenet_start_dropout = self.config.curriculum.dropout.densenet_start_dropout
+        self.densenet_end_dropout = self.config.curriculum.dropout.densenet_end_dropout
+        # Current dropout
+        self.mha_current_dropout = self.mha_start_dropout
+        self.ffn_current_dropout = self.ffn_start_dropout
+        self.densenet_current_dropout = self.densenet_start_dropout
+        # List of dropout layer
+        self.mha_dropout_layer = []
+        self.ffn_dropout_layer = []
+        self.densenet_dropout_layer = []
+        # Other
         self.total_step = 0
-        self.max_epochs = config.trainer.max_epochs
         self.slope = config.curriculum.dropout.slope
         self.total_batch = 0
         self.pacing_epoch = config.curriculum.learning.pacing_epoch
         self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
-        self.debug = []
+
+    def on_train_start(self, trainer, pl_module, *args, **kwargs):
+        # Create a list of dropout layer
+        # Create decoder dropout list
+        if not self.mha_dropout_layer or not self.ffn_dropout_layer or not self.densenet_dropout_layer:
+            if self.config.curriculum.dropout.mha or self.config.curriculum.dropout.ffn or self.config.curriculum.dropout.densenet:
+                self._initialize_dropout_layers(pl_module)
+        
+        # Calculate total step                                   
+        self.total_step = self._calculate_train_step(trainer,pl_module)      
+        self._update_dropout(trainer)
     
-    def _update_dropout(self, trainer, pl_module):
-        if self.config.curriculum.dropout.mha:
-            for layer in pl_module.comer_model.decoder.model.decoder_layer:
+    def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
+        self._update_dropout(trainer)    
+           
+        
+    def _update_dropout(self, trainer):
+        dropout_map = {
+            "MHA": (self.mha_dropout_layer, self.mha_end_dropout),
+            "DenseNet": (self.densenet_dropout_layer, self.densenet_end_dropout),
+            "FFN": (self.ffn_dropout_layer, self.ffn_end_dropout),
+        }
+        
+        metrics = {}
+        for key, (dropout_layer_list, end_dropout) in dropout_map.items():
+            if getattr(self.config.curriculum.dropout, key.lower(), False):  # Check if enabled
+                current_dropout = self._dropout(trainer, end_dropout)
+                self._update_dropout_layer(current_dropout, dropout_layer_list)
+                metrics[f"{key}_dropout"] = current_dropout
+
+        # Ghi log tất cả Dropout một lần
+        trainer.logger.log_metrics(metrics, step=trainer.global_step)
+
+    
+    # def _update_dropout(self, trainer, pl_module):
+    #     dropout_map = {
+    #         "MHA": (self.mha_dropout_layer, self.mha_end_dropout),
+    #         "DenseNet": (self.densenet_dropout_layer, self.densenet_end_dropout),
+    #         "FFN": (self.ffn_dropout_layer, self.ffn_end_dropout),
+    #     }
+        
+    #     for key, (dropout_layer_list, end_dropout) in dropout_map.items():
+    #         if getattr(self.config.curriculum.dropout, key.lower(), False):  # Check if enabled
+    #             current_dropout = self._dropout(trainer, end_dropout)
+    #             self._update_dropout_layer(current_dropout, dropout_layer_list)
+    #             trainer.logger.log_metrics(
+    #                 {f"{key}_dropout": current_dropout}, 
+    #                 step=trainer.global_step
+    #             )
+
+    
+    # def _update_dropout(self, trainer):
+    #     if self.config.curriculum.dropout.mha:
+    #         mha_current_dropout = self._dropout(self, trainer, self.mha_end_dropout)
+    #         self._update_dropout_layer(trainer, 
+    #                                    current_dropout = mha_current_dropout,
+    #                                    dropout_layer_list = self.mha_dropout_layer)
+    #         if trainer.global_step % 1000 == 0:
+    #             trainer.logger.log_metrics(
+    #                 {"MHA_dropout": mha_current_dropout}, 
+    #                 step=trainer.global_step
+    #             )
+            
+    #     if self.config.curriculum.dropout.densenet:
+    #         densenet_current_dropout = self._dropout(self, trainer, self.densenet_end_dropout)
+    #         self._update_dropout_layer(trainer, 
+    #                                    current_dropout = densenet_current_dropout, 
+    #                                    dropout_layer_list = self.densenet_dropout_layer)
+    #         if trainer.global_step % 1000 == 0:
+    #             trainer.logger.log_metrics(
+    #                 {"DenseNet_dropout": densenet_current_dropout}, 
+    #                 step=trainer.global_step
+    #             )
+        
+    #     if self.config.curriculum.dropout.ffn:
+    #         ffn_current_dropout = self._dropout(self, trainer, self.ffn_end_dropout)
+    #         self._update_dropout_layer(trainer, 
+    #                                    current_dropout = ffn_current_dropout, 
+    #                                    dropout_layer_list = self.ffn_dropout_layer)
+    #         if trainer.global_step % 1000 == 0:
+    #             trainer.logger.log_metrics(
+    #                 {"FFN_dropout": ffn_current_dropout}, 
+    #                 step=trainer.global_step
+    #             )
+            
+
+    def _dropout(self, trainer, end_dropout):
+        return (1 - (( end_dropout)*math.exp(-self.slope*trainer.global_step/self.total_step) + (1 - end_dropout)))
+    
+    def _update_dropout_layer(self,trainer, current_dropout, dropout_layer_list):
+        for layer in dropout_layer_list:
+            layer.p = current_dropout
+            # TODO: REMOVE LATER
+            if trainer.global_step <= 5:
+                print("layer.dropout.p: ", layer.p)
+    
+    def _initialize_dropout_layers(self,pl_module):
+        for layer in pl_module.comer_model.decoder.model.decoder_layer:
+            if self.config.curriculum.dropout.mha:
                 for attr in ['self_attn', 'multihead_attn']:
                     attn_layer = getattr(layer, attr, None)
                     if hasattr(attn_layer, 'dropout') and isinstance(attn_layer.dropout, torch.nn.Dropout):
-                        attn_layer.dropout.p = self.current_dropout
-                        print("attn_layer.dropout.p: ", attn_layer.dropout.p) # debug TODO: REMOVE LATER
+                        self.mha_dropout_layer.append(attn_layer.dropout)
+                        
+            if self.config.curriculum.dropout.ffn:
+                for attr in ['dropout', 'dropout1', 'dropout2', 'dropout3']:
+                    dropout_layer = getattr(layer, attr, None)
+                    if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer.dropout, torch.nn.Dropout):
+                        self.ffn_dropout_layer.append(dropout_layer.dropout)
         
         if self.config.curriculum.dropout.densenet:
             for layer in pl_module.comer_model.encoder.model.modules():
                 if isinstance(layer, torch.nn.Dropout):
-                    layer.p = self.current_dropout
-        
-        if self.config.curriculum.dropout.ffn:
-            for layer in pl_module.comer_model.decoder.model.decoder_layer:
-                for attr in ['dropout', 'dropout1', 'dropout2', 'dropout3']:
-                    dropout_layer = getattr(layer, attr, None)
-                    if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer, torch.nn.Dropout):
-                        dropout_layer.p = self.current_dropout
-                        print("dropout_layer.dropout.p: ", dropout_layer.p) # debug TODO: REMOVE LATER
-
+                    self.densenet_dropout_layer.append(layer)
     
     def _calculate_train_step(self, trainer, pl_module):
         if self.config.curriculum.learning.type == "Vanilla":
@@ -54,57 +158,15 @@ class CurriculumDropout(Callback):
                     batch_size= self.config.data.train_batch_size
                 ))
                 cl_total_batch += batch
-                print("total batch: ", cl_total_batch) # debug
-                print("batch: ", batch) # debug
-                print()
             cl_total_step = cl_total_batch*self.pacing_epoch
             
-            # TODO: need to fix this dirty code
-            self.cl_total_step = cl_total_step #THIS IS DIRTY CODE
-            self.rest_epoch = - (11-cl_start)*self.pacing_epoch #THIS IS DIRTY CODE
-            self.batch = batch #THIS IS DIRTY CODE
-            
             # calculate the rest of step in the rest of epoch
-            rest_epoch = self.max_epochs - (11-cl_start)*self.pacing_epoch
+            rest_epoch = self.config.trainer.max_epochs - (11-cl_start)*self.pacing_epoch
             rest_step =  rest_epoch*batch
             total_step = cl_total_step + rest_step
         else:
             origin_dataset = trainer.datamodule.train_dataset
-            total_step = len(origin_dataset)*self.max_epochs
-            print(total_step)
+            total_step = len(origin_dataset)*self.config.trainer.max_epochs
         return total_step
-
-    def _dropout(self):
-        return (1 - (( self.end_dropout)*math.exp(-self.slope*self.current_step/self.total_step) + (1 - self.end_dropout)))
-
-    def on_train_start(self, trainer, pl_module, *args, **kwargs):
-        self.total_step = self._calculate_train_step(trainer,pl_module)
-        if self.check_resume_checkpoint:
-            print("total step: ", self.total_step)
-            print("Start from epoch: ", trainer.current_epoch)
-            if self.config.curriculum.learning.type == "Vanilla":
-                self.current_step = self.cl_total_step + self.batch*(trainer.current_epoch + self.rest_epoch)
-                self.current_dropout = self._dropout()
-            else:
-                self.total_step = self._calculate_train_step(trainer,pl_module)
-                self.current_step = trainer.global_step
-                self.current_dropout = self._dropout()
-            self.check_resume_checkpoint = False           
-        self._update_dropout(trainer, pl_module)
-                
-    
-    def on_train_batch_start(self, trainer, pl_module, *args, **kwargs):
-        self.current_dropout = self._dropout()
-        self._update_dropout(trainer, pl_module)
-        self.current_step += 1
-    
-    def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
-        if not self.check_resume_checkpoint:
-            print("current dropout: ", self.current_dropout)
-            trainer.logger.log_metrics(
-                {"current_dropout": self.current_dropout}, 
-                step=trainer.global_step
-            )
-            
             
             

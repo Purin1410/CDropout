@@ -14,9 +14,9 @@ from comer.callback.rclone_callback import RcloneUploadCallback
 from comer.callback.curriculum_dropout import CurriculumDropout
 from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 import subprocess
-# from comer.callback.update_data_callback import CurriculumUpdateData
+from comer.callback.update_data_callback import CurriculumUpdateData
 from comer.callback.skip_validation import SkipValidation
-# from comer.callback.gaussian_blur import CurriculumInputBlur
+from comer.callback.gaussian_blur import CurriculumInputBlur
 
 Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
 

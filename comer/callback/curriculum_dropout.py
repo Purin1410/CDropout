@@ -142,8 +142,8 @@ class CurriculumDropout(Callback):
                     dropout_layer = getattr(layer, attr, None)
                     # TODO: DEBUG, DELETE LATER
                     print("hasattr(dropout_layer, 'dropout'): ",hasattr(dropout_layer, 'dropout'))
-                    print("isinstance(dropout_layer.dropout, torch.nn.Dropout): ".isinstance(dropout_layer.dropout, torch.nn.Dropout))
-                    if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer.dropout, torch.nn.Dropout):
+                    print("isinstance(dropout_layer.dropout, torch.nn.Dropout): ",isinstance(dropout_layer.dropout, torch.nn.Dropout))
+                    if isinstance(dropout_layer.dropout, torch.nn.Dropout):
                         self.ffn_dropout_layer.append(dropout_layer.dropout)
         
         if self.config.curriculum.dropout.densenet:

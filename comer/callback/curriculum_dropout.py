@@ -21,7 +21,7 @@ class CurriculumDropout(Callback):
     
     def _update_dropout(self, trainer, pl_module):
         if self.config.curriculum.dropout.mha:
-            for layer in pl_module.comer_model.decoder.model.layers:
+            for layer in pl_module.comer_model.decoder.model.decoder_layer:
                 for attr in ['self_attn', 'multihead_attn']:
                     attn_layer = getattr(layer, attr, None)
                     if hasattr(attn_layer, 'dropout') and isinstance(attn_layer.dropout, torch.nn.Dropout):
@@ -29,13 +29,13 @@ class CurriculumDropout(Callback):
                         print("attn_layer.dropout.p: ", attn_layer.dropout.p) # debug TODO: REMOVE LATER
         
         if self.config.curriculum.dropout.densenet:
-            print(layer for layer in pl_module.comer_model.encoder.model.modules())
             for layer in pl_module.comer_model.encoder.model.modules():
+                print("layer: ", layer)
                 if isinstance(layer, torch.nn.Dropout):
                     layer.p = self.current_dropout
         
         if self.config.curriculum.dropout.ffn:
-            for layer in pl_module.comer_model.decoder.model.layers:
+            for layer in pl_module.comer_model.decoder.model.decoder_layer:
                 for attr in ['dropout', 'dropout1', 'dropout2', 'dropout3']:
                     dropout_layer = getattr(layer, attr, None)
                     if hasattr(dropout_layer, 'dropout') and isinstance(dropout_layer, torch.nn.Dropout):

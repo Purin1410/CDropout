@@ -128,7 +128,7 @@ class CurriculumDropout(Callback):
                 print("layer.dropout.p: ", layer.p)
     
     def _initialize_dropout_layers(self,pl_module):
-        for layer in pl_module.comer_model.decoder.model.decoder_layer:
+        for layer in pl_module.comer_model.decoder.model.layers:
             if self.config.curriculum.dropout.mha:
                 for attr in ['self_attn', 'multihead_attn']:
                     attn_layer = getattr(layer, attr, None)

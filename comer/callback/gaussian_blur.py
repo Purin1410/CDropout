@@ -2,7 +2,6 @@ import torch
 from pytorch_lightning.callbacks import Callback
 import torchvision.transforms.functional as F
 from torchvision.transforms import GaussianBlur
-from comer.callback.curriculum_dropout import _calculate_train_step
 
 class CurriculumInputBlur(Callback):
     def __init__(self, config):

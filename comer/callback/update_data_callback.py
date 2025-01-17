@@ -26,6 +26,7 @@ class CurriculumUpdateData(Callback):
         trainer.logger.log_metrics({"Curriculum_step": self.step}, step=trainer.global_step)
         
     def _update_step(self, trainer):
+        step = 0
         if trainer.current_epoch > self.pacing_epoch and trainer.current_epoch < 3*self.pacing_epoch:
             step = 1
         elif trainer.current_epoch >= 3*self.pacing_epoch:

@@ -96,11 +96,13 @@ class CurriculumDropout(Callback):
             origin_dataset = trainer.datamodule.original_train_dataset
             curriculum_step = 1
             total_step = 0
+            step = 0
             for i in range(len(origin_dataset)):
                 batch = len(origin_dataset[i])
                 step = batch*self.pacing_epoch*curriculum_step
                 total_step += step
                 curriculum_step *= 2
+            step = 0
         else:
             origin_dataset = trainer.datamodule.train_dataset
             total_step = len(origin_dataset)*self.config.trainer.max_epochs

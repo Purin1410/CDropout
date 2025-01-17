@@ -29,7 +29,7 @@ class CurriculumInputBlur(Callback):
             total_step = 0
             for i in range(len(origin_dataset)):
                 batch = len(origin_dataset[i])
-                step = batch*self.config.curriculum.pacing_epoch*curriculum_step
+                step = batch*self.config.curriculum.learning.pacing_epoch*curriculum_step
                 self.max_steps += step
                 curriculum_step *= 2
             print("self.max_steps: ", self.max_steps)

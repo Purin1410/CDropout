@@ -58,7 +58,7 @@ def train(config):
     gaussian_blur = CurriculumInputBlur(config = config)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
-    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_310_VCL_DROPOUT"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_DROPOUT_BLUR_VCL"
     r_clone_callback = RcloneUploadCallback(
         local_dir = local_dir,
         remote_dir = remote_dir)

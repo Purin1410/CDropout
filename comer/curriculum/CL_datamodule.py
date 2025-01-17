@@ -178,7 +178,6 @@ def extract_data_train(archive: ZipFile, caption) -> Data: # return data as foll
     data = []
     for line in captions:
         tmp = line.strip().split()
-        print(tmp)
         img_name = tmp[0]
         formula = tmp[1:]
         with archive.open(f"data/train/img/{img_name}.bmp", "r") as f:

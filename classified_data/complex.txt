@@ -1,0 +1,1562 @@
+200924-1312-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200923-1254-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+MfrDB1959	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+200922-947-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200922-1017-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200922-1017-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+73_david	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB1679	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+MfrDB1241	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+KME2G3_17_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_15_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_26_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_29_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+200923-1553-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+200923-1251-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+MfrDB1792	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+200926-1550-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200926-1550-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+200923-1251-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+KME2G3_27_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_25_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+200923-1254-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+MfrDB1891	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+2009213-137-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200922-1017-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+73_hirata	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB3411	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+MfrDB1549	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+MfrDB3905	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+2009213-137-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+200926-131-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+TrainData2_10_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_12_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_7_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_9_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_24_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_22_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB0112	\sqrt { \frac { \sqrt { 2 } + \sqrt { 3 } } { \sqrt { 5 } - x } }
+73_Fabricio	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_21_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_19_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_20_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_18_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_28_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB2947	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB0037	\int \limits _ { - \infty } ^ { \infty } ( f ( x ) - x ) d x
+200926-1550-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+2009210-947-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+200925-1126-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+MfrDB3145	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB1830	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+KME2G3_2_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_2_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+2009213-137-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+73_leo	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+200926-1617-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+MfrDB2899	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+formulaire005-equation073	\gamma = \pi - \alpha - \beta
+MfrDB3054	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+200923-1253-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+TrainData2_10_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB3279	\lim \limits _ { n \rightarrow \infty } ( \frac { x _ { n } } { y _ { n } } ) = \frac { L _ { 1 } } { L _ { 2 } }
+200926-1617-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+MfrDB3212	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB1582	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+MfrDB1975	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+73_user0	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_7_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3093	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+2009220-1327-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+MfrDB2441	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+TrainData1_3_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+TrainData2_1_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_1_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_16_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_14_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_4_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_4_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB0067	| \frac { 1 } { a _ { n } } - \frac { 1 } { x } | = | \frac { 1 } { x a _ { n } } | \cdot | a _ { n } - x |
+TrainData1_4_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+MfrDB2120	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+200923-1253-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+200923-1556-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+TrainData2_16_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_18_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3184	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+73_alfonso	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB3296	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+formulaire036-equation059	\cos 2 \phi = 2 \cos ^ { 2 } \phi - 1
+KME2G3_3_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_3_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+200924-1312-188	\int \limits _ { \sqrt { \sigma } } ^ { - b } - A d M _ { s }
+73_Nina	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_15_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_13_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3105	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+MfrDB2439	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+2009220-1327-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+85_leo	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+MfrDB0003	\lim \limits _ { n \rightarrow \infty } ( 1 + \frac { 1 } { n } ) ^ { n } = e
+MfrDB3306	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+TrainData2_6_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB3348	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+2009210-947-69	\int \limits _ { \sum j } ^ { - p } w x d \alpha
+MfrDB1955	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB2913	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB2490	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+MfrDB1124	\frac { 1 } { x } + \int \limits _ { 0 } ^ { \infty } \frac { 1 } { x } d x
+KME2G3_14_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_12_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB1274	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+KME2G3_8_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_6_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_15_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+KME2G3_23_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+73_rosario	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+130_Fabricio	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB3132	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+200923-1254-343	\int \limits _ { \frac { Y } { d } } ^ { \frac { t } { x } } \sum 8 d \theta
+MfrDB3386	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB1991	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+200922-949-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+KME2G3_11_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_9_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+formulaire035-equation054	\beta = \frac { \beta _ { 1 } - \beta _ { 2 } } { \sqrt { 3 } }
+200922-949-157	\int \limits _ { \gamma + V } ^ { m } \frac { \theta } { u } d e
+KME2G3_24_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB2088	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+KME2G3_29_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData2_20_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_22_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3243	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+2009212-952-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+2009210-947-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+101_david	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3247	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB1963	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+KME2G3_18_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB1714	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+MfrDB3303	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+73_caue	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB2423	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+KME2G3_16_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+73_maira	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_10_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_8_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_15_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+200923-1553-201	\sum \limits _ { z = I } ^ { 8 . 1 } \cdots - \sum s
+formulaire031-equation043	\gamma ^ { 5 } = \gamma ^ { 0 } \gamma ^ { 1 } \gamma ^ { 2 } \gamma ^ { 3 }
+101_rosario	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3142	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+KME2G3_6_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB1949	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+200923-1553-176	\sum \limits _ { i \geq ( N ) } \cdots - \sum t
+MfrDB2976	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+TrainData2_0_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_0_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+130_jorge	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+TrainData2_21_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_23_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB1980	\lim \limits _ { x \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+73_leissi	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_10_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB1977	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+MfrDB2894	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB3284	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+TrainData2_5_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_6_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+73_fujita	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB3274	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+73_miguel	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+85_jorge	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+101_leo	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB1994	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+200923-1556-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+MfrDB2866	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+MfrDB3017	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+KME2G3_7_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+formulaire039-equation073	( 1 - x ) ^ { \alpha + 1 } ( 1 + x ) ^ { \beta + 1 }
+MfrDB2854	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB2117	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB3108	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+200923-1556-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+KME2G3_17_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB2971	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB3439	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+MfrDB1865	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+formulaire004-equation039	\sum \limits _ { 0 } ^ { \infty } \frac { 1 } { n ^ { 2 } }
+MfrDB3079	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+200924-1331-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+2009220-1327-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+101_user0	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3531	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+MfrDB3166	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+73_herbert	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+MfrDB0024	( x ^ { 2 } - 3 ) ^ { 4 } - 7 \cdot ( 8 ^ { 2 } - 3 ) ^ { 2 }
+MfrDB2965	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+KME2G3_28_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB2863	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+2009213-139-85	\sqrt { \frac { 2 z ^ { 3 } } { \sqrt { \frac { 3 z ^ { 2 } } { \sqrt { 4 z } } } } }
+KME2G3_21_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB1448	\frac { x ^ { 4 } } { 2 ^ { 3 } } - ( \frac { 2 } { x } ) ^ { - 4 }
+MfrDB3036	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+TrainData2_12_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB2858	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+200923-1553-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+KME2G3_26_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_24_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_22_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+TrainData2_11_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+73_Frank	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_13_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3120	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB1603	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+KME2G3_14_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+200922-947-15	\int \limits _ { C } ^ { d ( B ) } \tan ^ { \alpha } q d s
+MfrDB3175	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB1736	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+TrainData2_17_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_19_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB2957	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+KME2G3_9_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB3194	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+formulaire005-equation048	\sqrt { 1 + \frac { 1 } { \sqrt { 2 } } } + \sqrt { 1 - \frac { 1 } { \sqrt { 2 } } }
+200926-1617-120	\sqrt { \int \limits _ { s + \phi } ^ { 3 } z + [ 4 ] d u }
+MfrDB2859	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+82_rosario	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+82_leissi	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData1_0_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+200924-1312-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+TrainData2_11_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB2845	( 1 + x ) ^ { n } = \sum \limits _ { k = 0 } ^ { \infty } n k x ^ { k }
+TrainData2_15_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2864	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+200924-1331-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+TrainData2_16_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB3390	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+TrainData2_10_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB1290	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+KME2G3_15_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+200926-131-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+101_fujita	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+200923-1553-184	\sqrt { \int y d w } ^ { \sqrt { \sigma } } + \sqrt { C } ^ { k }
+MfrDB2427	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+TrainData2_7_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+73_carlos	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+73_jorge	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+KME2G3_30_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+KME2G3_22_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+KME2G3_2_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData1_4_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_5_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB1481	\int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } x ^ { 2 } y ^ { 2 } d x d y
+MfrDB3001	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+TrainData2_15_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+KME2G3_12_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData2_0_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+130_caue	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+TrainData2_7_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } a _ { n } + \beta - 3 \beta
+formulaire005-equation051	\sqrt { 3 } = \frac { 1 1 \alpha - \alpha ^ { 3 } } { 2 }
+MfrDB2130	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+MfrDB3034	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+73_edwin	| \frac { a x _ { 0 } + b y _ { 0 } + c } { \sqrt { a ^ { 2 } + b ^ { 2 } } } |
+2009213-139-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+MfrDB1731	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+89_daniel	x ^ { \prime } = x \cos \theta + y \sin \theta
+MfrDB1995	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+MfrDB2995	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+130_david	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+130_rosario	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+200923-1251-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+MfrDB0020	\frac { \sqrt { 1 - x } } { \sum \limits _ { i = 1 } ^ { 3 } x _ { i } }
+101_Fabricio	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+101_jorge	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3441	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+TrainData1_1_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+TrainData2_18_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_10_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+130_user0	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+85_rosario	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+KME2G3_0_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+formulaire005-equation042	\lim \limits _ { h \rightarrow 0 } \frac { f ( z + h ) - f ( z ) } { h }
+200922-949-87	\frac { \cdots - g + M } { \int \int b d R d H } N
+85_david	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+MfrDB0006	\sum \limits _ { n } x ^ { 2 } ( t ) = \frac { \sum \limits _ { n } | X ( f ) | ^ { 2 } } { n }
+formulaire002-equation003	X ^ { 3 } - \sqrt { 7 } X ^ { 2 } - 7 X - \sqrt { 7 } = 0
+MfrDB3384	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+101_carlos	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3122	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+TrainData1_3_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+KME2G3_13_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData1_8_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+MfrDB1950	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+MfrDB0008	\sqrt { \frac { \sum \limits _ { i = 1 } ^ { n } x _ { i } ^ { 2 } } { n } } \geq \frac { \sum \limits _ { i = 1 } ^ { n } x _ { i } } { n }
+MfrDB2877	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+MfrDB2645	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n + 1 } ) = 0
+130_leissi	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+TrainData2_26_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB0049	( a + b ) ^ { 3 } = a ^ { 3 } + 3 a ^ { 2 } b + 3 a b ^ { 2 } + b ^ { 3 }
+MfrDB3203	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+TrainData1_2_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+MfrDB3261	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+MfrDB3136	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+TrainData1_8_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+82_carlos	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+KME1G3_8_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData1_6_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB3523	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+MfrDB3368	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+130_bruno	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB1733	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+MfrDB2984	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+MfrDB3160	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+200924-1312-240	\sum \limits _ { L = c } ^ { \sqrt { f } } \cdots + \int o d m
+TrainData1_6_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+formulaire039-equation024	4 l ^ { 2 } ( 1 + \sqrt { 2 } ) ( 1 + \sqrt { 4 - 2 \sqrt { 2 } } )
+TrainData2_19_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB3042	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+82_Nina	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+200926-1617-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+2009213-137-184	- q _ { \mu } + \frac { B } { \frac { R } { \pi ^ { y } } }
+TrainData2_16_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+117_rosario	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+2009213-137-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+KME2G3_30_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData1_2_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+200923-1556-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+200922-947-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+MfrDB2440	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+200924-1312-168	\sqrt { - \sum 1 + j - \frac { s } { \theta - G } }
+MfrDB3532	( 1 + x ) ^ { n } = \sum \limits _ { k = 0 } ^ { \infty } n k x ^ { k }
+MfrDB3010	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+MfrDB2966	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB3038	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+KME2G3_3_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB3170	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+KME1G3_4_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData1_3_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_6_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB1952	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+200925-1126-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+101_caue	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB2916	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+KME2G3_20_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+85_Nina	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+MfrDB3015	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+MfrDB2425	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+MfrDB3527	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+TrainData2_6_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+formulaire002-equation006	x ^ { 3 } + 3 x ^ { 2 } \sqrt { 3 } - 3 x - \sqrt { 3 }
+MfrDB2915	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB2177	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+TrainData2_20_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+TrainData2_2_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+101_alfonso	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB1598	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+formulaire003-equation024	p _ { 1 } ^ { \alpha _ { 1 } } p _ { 2 } ^ { \alpha _ { 2 } } \ldots p _ { k } ^ { \alpha _ { k } }
+KME2G3_26_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+MfrDB0061	\frac { f ^ { \prime } ( c ) } { g ^ { \prime } ( c ) } = \frac { f ( b ) - f ( a ) } { g ( b ) - g ( a ) }
+TrainData2_22_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB1711	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB3272	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB3103	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+130_Nina	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB3475	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+200925-1126-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+MfrDB2960	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+82_caue	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB2896	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+MfrDB1958	\int \limits _ { 0 } ^ { R } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+TrainData2_11_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+TrainData2_17_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+TrainData2_25_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB2521	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB3273	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+KME2G3_19_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData2_13_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_21_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+130_carlos	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB2999	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+TrainData2_15_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+KME2G3_27_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+formulaire037-equation002	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { 1 } { n + 1 } - \frac { 1 } { n } )
+MfrDB3134	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB2821	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+2009212-952-72	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+formulaire019-equation043	x _ { 0 } = \sqrt { 2 - \sqrt { 2 + \sqrt { 2 + \sqrt { 2 + \sqrt { 3 } } } } }
+82_Fabricio	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB3300	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { k } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB2112	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { \pi } { 2 }
+MfrDB2967	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB3240	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+TrainData2_12_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3060	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+KME2G3_25_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+TrainData2_23_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+117_jorge	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+KME2G3_4_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+KME2G3_8_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+KME2G3_1_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData2_6_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_9_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+101_Nina	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+TrainData2_18_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+82_bruno	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData2_10_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB1918	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+MfrDB2993	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+TrainData1_0_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+MfrDB3188	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB1600	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+101_mijail	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB3304	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+MfrDB3476	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+200923-1251-35	\frac { - h - e _ { C } } { \sum \limits _ { 6 > S } \sin ^ { G } k }
+85_miguel	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+TrainData1_4_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+MfrDB3378	( 1 + x ) ^ { n } = \sum \limits _ { k = 0 } ^ { \infty } n k x ^ { k }
+MfrDB3433	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+TrainData2_8_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+TrainData1_2_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_3_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB1292	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+MfrDB1309	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+formulaire038-equation044	h _ { n } = \frac { a } { \sqrt { 2 } } \times \sqrt { \frac { n + 1 } { n } }
+MfrDB3073	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+130_edwin	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+TrainData2_15_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3227	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+KME1G3_2_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB2994	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+130_leo	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+TrainData2_14_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB2122	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+TrainData1_7_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+89_rosario	x ^ { \prime } = x \cos \theta + y \sin \theta
+TrainData2_3_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB0005	\lim \limits _ { n \rightarrow \infty } \frac { ( n ! ) ^ { \frac { 1 } { n } } } { n } = e
+TrainData2_5_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+KME1G3_0_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData1_0_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME2G3_11_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+KME1G3_9_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+MfrDB2715	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+200926-131-121	\sum \limits _ { E = n } ^ { \sum f } z + \frac { \sum \theta } { C }
+MfrDB1278	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+82_david	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData1_1_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_1_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+85_edwin	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+KME2G3_12_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB2822	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+MfrDB3202	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB3399	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+85_alfonso	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+TrainData2_2_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2890	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+MfrDB1295	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+85_user0	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+85_carlos	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+MfrDB2420	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+TrainData2_9_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+85_herbert	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+MfrDB3140	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+85_leissi	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+formulaire005-equation071	c = \sqrt { a ^ { 2 } + b ^ { 2 } - 2 a b \cos \gamma }
+MfrDB3144	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+2009212-952-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+82_hirata	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData2_13_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+85_maira	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+TrainData2_20_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire013-equation058	\int \frac { 1 } { y } + \frac { 1 } { 1 - y } d y = \int d x
+200922-1017-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+TrainData2_21_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2151	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+130_hirata	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB2025	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+TrainData2_21_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+formulaire002-equation059	3 = \sqrt { 6 + \sqrt { 6 + \sqrt { 6 + \sqrt { 6 + \ldots } } } }
+MfrDB3283	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+TrainData2_21_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+130_alfonso	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB2850	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+TrainData2_26_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB1516	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+200922-949-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+KME2G3_5_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+TrainData2_24_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+TrainData2_10_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire015-equation015	( ( 2 6 / 9 9 ) / 1 9 0 ) - ( ( 1 3 5 \times 1 1 4 ) / 1 0 8 ) \geq - 1 4 2
+KME2G3_5_sub_95	\sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } }
+MfrDB3389	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+82_edwin	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+KME2G3_6_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_0_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+82_user0	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB2119	\int \limits _ { 0 } ^ { P } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+MfrDB3445	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+200923-1253-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+TrainData2_14_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB1214	\sum \limits _ { i = 1 } ^ { \infty } \frac { 1 } { e ^ { i } }
+MfrDB2124	\int x ^ { 2 } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+TrainData2_0_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+TrainData1_1_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+formulaire018-equation008	\sin ( \pi - \theta ) = \sin ( \theta )
+TrainData2_26_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+KME2G3_11_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+KME1G3_9_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData1_7_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData2_8_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+82_herbert	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB3359	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+TrainData2_8_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB3385	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+89_alfonso	x ^ { \prime } = x \cos \theta + y \sin \theta
+101_leissi	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+formulaire015-equation048	x ^ { 5 } - 5 x ^ { 4 } \sqrt { 5 + 2 \sqrt { 5 } } - 1 0 x ^ { 3 }
+MfrDB2036	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { 2 } } = 1
+96_rosario	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+82_alfonso	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB1976	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+MfrDB1310	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+MfrDB2853	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+TrainData2_11_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2860	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { k } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+TrainData2_12_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+117_user0	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+KME2G3_25_sub_74	\int \limits _ { \log 3 } ^ { 0 } \frac { 1 } { e ^ { t } + 1 } d t
+KME1G3_12_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+TrainData2_26_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+101_edwin	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+TrainData2_13_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB0064	\lim \limits _ { n \rightarrow \infty } f ( x _ { n } ) = f ( \lim \limits _ { n \rightarrow \infty } x _ { n } )
+MfrDB3538	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+MfrDB3044	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+89_Nina	x ^ { \prime } = x \cos \theta + y \sin \theta
+200924-1312-12	\int \limits _ { 0 } ^ { \pi } \cos ( \frac { \theta } { 2 } ) d \theta
+formulaire016-equation011	\frac { \alpha - 1 } { \alpha + \beta - 2 }
+KME1G3_1_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+TrainData2_7_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+KME2G3_26_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB3111	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB0016	| x - f ( x ) | \leq 2 \cdot ( x - 1 ) \cdot | x ^ { 2 } - 1 |
+TrainData2_23_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB3483	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+MfrDB3310	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3167	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3146	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+TrainData2_4_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+82_miguel	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+200926-131-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+MfrDB2815	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+2009213-139-224	\frac { - I + \frac { \sigma } { e } } { [ \phi ] }
+MfrDB3094	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+MfrDB0088	\frac { \frac { 1 } { 2 } - \frac { 1 } { 3 } + \frac { 1 7 } { 9 } } { 3 2 + 1 }
+82_Frank	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB2883	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+TrainData2_20_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB3455	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+TrainData2_17_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_3_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+KME2G3_7_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_20_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3393	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { k } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+TrainData2_16_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+formulaire035-equation072	\lim \limits _ { x \rightarrow - \infty } \frac { f ( x ) } { x } = a
+formulaire035-equation007	\lim \limits _ { x \rightarrow - \infty } \frac { f ( x ) } { x } = a
+82_leo	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData2_1_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_7_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+TrainData2_14_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+formulaire019-equation052	\frac { 1 } { 2 } l ( 1 + \sqrt { 2 } ) ( 1 + \sqrt { 4 - 2 \sqrt { 2 } } )
+MfrDB1513	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+TrainData2_7_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+TrainData2_3_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+TrainData2_22_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB2422	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+formulaire017-equation004	f ( s ) = \sum \limits _ { n = 1 } ^ { \infty } \frac { a _ { n } } { n ^ { s } }
+TrainData2_20_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+TrainData2_9_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB2775	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+KME2G3_20_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_5_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB3206	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+MfrDB1719	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+MfrDB2908	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+MfrDB2972	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+130_miguel	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB1581	\int \limits _ { o } ^ { R } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+TrainData2_11_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+formulaire035-equation026	\frac { ( z - a ) ^ { n } } { ( \gamma ( \theta ) - a ) ^ { n + 1 } }
+85_Frank	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+TrainData2_5_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2970	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+89_hirata	x ^ { \prime } = x \cos \theta + y \sin \theta
+TrainData2_10_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB2870	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3356	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+MfrDB1881	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+85_fujita	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+85_Fabricio	( a \frac { 1 - t ^ { 2 } } { 1 + t ^ { 2 } } , \frac { 2 b t } { 1 + t ^ { 2 } } )
+96_david	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+MfrDB2992	| \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x
+MfrDB2523	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+TrainData2_18_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+formulaire016-equation072	l ( 1 - \cos ( \theta _ { 0 } ) ) = ( l - a ) ( 1 - \cos ( \theta ) )
+TrainData2_6_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB2813	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+MfrDB2857	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB3195	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+MfrDB2148	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+96_user0	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+TrainData2_13_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB2880	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+117_leo	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+2009213-139-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+TrainData2_15_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+MfrDB3282	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+117_leissi	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+130_danilo	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+MfrDB3197	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+TrainData1_6_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+formulaire032-equation045	( ( 9 3 + 1 7 2 ) - ( 7 8 \times 2 6 ) ) - ( 6 2 \times 8 1 ) \geq - 6 7 8 5
+89_Frank	x ^ { \prime } = x \cos \theta + y \sin \theta
+MfrDB3082	\lim \limits _ { n \rightarrow \infty } ( \frac { x _ { n } } { y _ { n } } ) = \frac { L _ { 1 } } { L _ { 2 } }
+MfrDB3519	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { k } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+101_herbert	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+KME2G3_18_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_21_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+KME1G3_10_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+MfrDB2021	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+KME2G3_5_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB2924	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+TrainData2_26_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+TrainData2_24_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+formulaire035-equation042	\lim \limits _ { x \rightarrow + \infty } a ^ { x } = 0
+MfrDB1573	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+TrainData2_22_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB1271	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB1862	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB3429	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+TrainData2_12_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+101_hirata	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+formulaire020-equation055	( 8 9 - ( 8 6 \times 4 ) ) / ( ( 1 9 6 / 1 6 8 ) + 1 2 5 ) \leq - 1
+MfrDB1584	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+TrainData2_14_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire003-equation032	h ( r ) = \int \limits _ { - \infty } ^ { \infty } g ( u ) e ^ { i r u } d u
+TrainData2_2_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB2717	\int \limits _ { 0 } ^ { 2 \pi } \frac { \sin ( x ) } { x } d x
+TrainData1_7_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+MfrDB3349	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+MfrDB1986	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+TrainData2_21_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB3200	\lim \limits _ { n \rightarrow \infty } ( x _ { n } / y _ { n } ) = L _ { 1 } / L _ { 2 }
+200924-1331-130	\frac { \frac { b } { P ^ { I - e ^ { \gamma } ( V ) } } - \sqrt { H } } { w }
+82_jorge	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+MfrDB1900	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+200926-1617-40	- \int \limits _ { \sqrt { r } } ^ { C } \frac { z - A } { y r } d X _ { M }
+MfrDB1732	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+KME1G3_4_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+KME1G3_3_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+MfrDB1306	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+MfrDB3187	\lim \limits _ { y \rightarrow \infty } y \sin ( \frac { c } { y } ) = c
+MfrDB1797	2 ^ { x ^ { 3 } } + 3 ^ { y ^ { x - 2 } } - 2 ^ { y + x ^ { 2 y } }
+MfrDB3805	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+117_lucelia	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+TrainData2_0_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB0113	\lim \limits _ { x \rightarrow 2 } \frac { f ( x ) } { x - 2 } = \infty
+MfrDB1989	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+89_caue	x ^ { \prime } = x \cos \theta + y \sin \theta
+formulaire011-equation072	f ( s ) = \sum \limits _ { n = 0 } ^ { \infty } \frac { a ( n ) } { n ^ { s } }
+MfrDB3037	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+TrainData1_5_sub_28	( z ^ { \frac { n } { 2 } } + y ^ { \frac { n } { 2 } } ) ( z ^ { \frac { n } { 2 } } - y ^ { \frac { n } { 2 } } ) = x
+TrainData2_13_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+TrainData2_14_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+KME2G3_0_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+89_herbert	x ^ { \prime } = x \cos \theta + y \sin \theta
+MfrDB2922	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3000	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+TrainData2_25_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData1_8_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_11_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+110_david	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+94_caue	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+TrainData1_5_sub_9	\sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1
+formulaire022-equation069	\lim \limits _ { n } \frac { 1 } { n } \sum \limits _ { k = 0 } ^ { n - 1 } f ( X _ { k } )
+110_user0	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+TrainData2_13_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB1291	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+TrainData2_22_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+TrainData2_19_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB1599	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+91_rosario	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+formulaire039-equation041	e ^ { i \theta } = \cos ( \theta ) + i \sin ( \theta )
+formulaire034-equation055	( ( 1 4 9 \div 1 2 0 ) \div 6 1 ) \div ( ( 5 + 1 4 3 ) \times ( 1 5 9 - 5 8 ) ) \neq 0
+91_david	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+70_rosario	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+2009212-1031-132	\sum \limits _ { \Delta \geq \sum H } \cdots + \int \frac { H } { b } d T
+MfrDB0058	\frac { g ( c ) - g ( a ) } { c - a } - \frac { g ( b ) - g ( a ) } { b - a } > 0
+82_daniel	q = \sqrt { ( \frac { B - A } { C } ) ^ { 2 } + 1 } + \frac { B - A } { C }
+TrainData2_20_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+89_user0	x ^ { \prime } = x \cos \theta + y \sin \theta
+MfrDB2923	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB2162	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+MfrDB3810	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+MfrDB0109	\sum \limits _ { a = 0 } ^ { p - 1 } \sum \limits _ { n = 0 } ^ { p - 1 } \sum \limits _ { m = 0 } ^ { p - 1 } ( \frac { n } { p } ) ^ { a } ( \frac { m } { p } )
+TrainData2_1_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+KME2G3_24_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB2988	\frac { 3 x + y } { z } = ( \frac { A - 1 } { x ^ { 2 } + y ^ { 2 } } )
+91_Nina	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB3235	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+117_Nina	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+101_miguel	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+89_edwin	x ^ { \prime } = x \cos \theta + y \sin \theta
+96_Nina	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+TrainData2_2_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+TrainData2_8_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB2146	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+MfrDB1883	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+MfrDB3546	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+TrainData2_23_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+TrainData2_11_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3295	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+2009213-139-120	\frac { k } { \sqrt { g + \frac { X } { z } } ^ { R - \sqrt { l } } }
+130_Frank	\frac { 1 } { 4 } + ( \frac { 1 } { 4 } ) ^ { 2 } + ( \frac { 1 } { 4 } ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+91_caue	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+formulaire037-equation047	\pm \sum \limits _ { i = 0 } ^ { + \infty } ( - 1 ) ^ { i } a _ { i }
+MfrDB0105	( 4 + 3 i ) x ^ { 3 } + ( 1 - 8 i ) x ^ { 2 } + ( - 1 + 3 i ) x + ( 5 - i )
+MfrDB1735	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+MfrDB1921	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+KME2G3_22_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_12_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+91_leissi	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_21_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+MfrDB2778	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+MfrDB1497	\lim \limits _ { n \rightarrow \infty } n ^ { \frac { 1 } { n } } = 1
+formulaire004-equation034	x = \alpha _ { 1 } y _ { 1 } + \ldots + \alpha _ { n + 1 } y _ { n + 1 }
+KME2G3_21_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+KME1G3_12_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+MfrDB1705	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+96_caue	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+MfrDB3230	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB1579	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+TrainData2_7_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+96_mijail	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+MfrDB3138	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+200926-1550-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+89_jorge	x ^ { \prime } = x \cos \theta + y \sin \theta
+117_carlos	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+TrainData2_5_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+117_hirata	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+KME1G3_5_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+TrainData2_2_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+formulaire004-equation000	( ( 5 6 \times 5 2 ) \div 1 3 5 ) + ( 3 4 - ( 7 4 \times 9 2 ) ) \geq - 6 7 5 2
+89_leissi	x ^ { \prime } = x \cos \theta + y \sin \theta
+formulaire021-equation059	f ( z ) = \sum \limits _ { n = - \infty } ^ { + \infty } a _ { n } ( z - a ) ^ { n }
+MfrDB2948	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+MfrDB3139	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+formulaire012-equation032	f ( z ) = \sum \limits _ { n = - \infty } ^ { \infty } a _ { n } ( f ) z ^ { n }
+TrainData2_24_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+formulaire021-equation038	( 2 \sqrt { 2 1 } - 9 ) x ^ { 2 } + x + 8 - 2 \sqrt { 2 1 } = 0
+117_alfonso	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+MfrDB3039	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+TrainData2_17_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+200924-1312-111	- \sum \frac { \frac { j } { \alpha _ { u } } } { T _ { T } ^ { \phi } }
+MfrDB2353	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+formulaire032-equation015	( ( 1 9 8 / 1 5 9 ) + ( 1 6 3 / 1 3 5 ) ) - ( ( 1 3 5 \times 1 0 7 ) / ( 1 5 4 / 1 6 ) ) \leq - 1 4 9 7
+MfrDB2968	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB1472	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+TrainData2_17_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB3068	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB0034	\frac { 1 ^ { 2 } + 2 ^ { 3 } + 3 ^ { 4 } + 4 ^ { 5 } } { 5 ^ { 6 } + 6 ^ { 7 } + 7 ^ { 8 } + 8 ^ { 9 } }
+formulaire007-equation006	x ^ { \frac { 1 } { 2 } ( 1 + \frac { 1 } { 2 ^ { 2 } } ) ( 1 + \frac { 1 } { 2 ^ { 4 } } ) ( 1 + \frac { 1 } { 2 ^ { 8 } } ) }
+89_danilo	x ^ { \prime } = x \cos \theta + y \sin \theta
+TrainData2_18_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB1745	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+117_david	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+MfrDB2878	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+formulaire036-equation071	a = \frac { \pm 1 } { \sqrt { 1 - \beta ^ { 2 } } }
+MfrDB2114	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+TrainData2_5_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+91_edwin	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+200923-131-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+MfrDB1716	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+117_caue	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+117_Frank	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+MfrDB1708	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+TrainData2_25_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+MfrDB1886	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+MfrDB0055	\frac { 1 } { 2 } + \frac { 2 } { 3 } + \frac { 3 } { 4 } + \frac { 4 } { 5 } + \frac { 5 } { 6 }
+formulaire005-equation055	( ( 9 8 + 1 5 0 ) + ( 7 6 \div 1 6 ) ) + ( ( 9 7 \div 9 2 ) \times 1 5 1 ) \neq 3 2 6
+MfrDB1744	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+TrainData2_14_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+MfrDB3031	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+formulaire011-equation054	u ^ { 3 } = 2 + \sqrt { - 1 2 1 } = 2 + 1 1 \sqrt { - 1 }
+70_Nina	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+KME2G3_4_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+96_carlos	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+2009213-139-104	- \frac { \sum \gamma - \int X d \beta } { \sqrt { z } }
+TrainData2_25_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+117_edwin	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+KME2G3_2_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+KME2G3_14_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB2026	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+MfrDB2147	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+KME2G3_17_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_10_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+91_user0	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB3076	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+TrainData2_6_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+formulaire026-equation065	( 1 3 9 + 3 3 - 1 7 6 ) / ( ( 1 3 2 - 9 8 ) / ( 1 8 7 + 3 6 ) ) \neq - 4
+formulaire003-equation025	2 6 \pm ( 1 0 9 + 1 1 9 - 8 2 ) \div ( ( 1 6 9 - 1 2 3 ) + ( 2 0 \div 1 7 5 ) )
+96_leissi	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+TrainData2_24_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB3172	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+KME2G3_23_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_22_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3271	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+TrainData2_19_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+formulaire025-equation013	\cos ^ { 2 } \phi + \sin ^ { 2 } \phi = 1
+MfrDB3171	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+101_danilo	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+MfrDB2980	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB0026	\frac { A ^ { 2 } - B ^ { 3 } + C ^ { 4 } } { \int \limits _ { 0 } ^ { \infty } ( A + B + C ) d x }
+110_rosario	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+formulaire002-equation053	\cos ( 4 a ) = 8 \cos ^ { 4 } ( a ) - 8 \cos ^ { 2 } ( a ) + 1
+110_jorge	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+200922-947-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+formulaire007-equation050	( 1 6 6 - 1 2 2 + 3 2 ) + ( ( 1 0 6 \div 3 0 ) \div ( 3 0 \div 1 8 ) ) \geq 7 7
+MfrDB0090	\lim \limits _ { x \rightarrow 0 } \frac { \cos x - 1 } { x } = 0
+formulaire018-equation004	( 1 , \alpha , \alpha ^ { 2 } , \ldots , \alpha ^ { n - 1 } )
+MfrDB2027	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+TrainData2_17_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB1520	\sum \limits _ { i = 0 } ^ { \infty } \sum \limits _ { j = 0 } ^ { \infty } \frac { 1 } { ( 1 - a _ { i j } ) ^ { 2 } }
+MfrDB1499	\lim \limits _ { n \rightarrow \infty } | x _ { n + 1 } - x _ { n } |
+KME2G3_9_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+KME2G3_27_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB3473	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+formulaire036-equation053	1 0 x ^ { 2 } \sqrt { 5 + 2 \sqrt { 5 } } + 5 x - \sqrt { 5 + 2 \sqrt { 5 } }
+MfrDB1265	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+formulaire001-equation016	\cos ( a + b ) = \cos a \cos b - \sin a \sin b
+TrainData2_6_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+110_herbert	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+126_rosario	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+MfrDB1882	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+KME2G3_29_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB3016	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB3033	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x + y ) ^ { 2 } ) ^ { | t | }
+80_user0	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+126_jorge	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+formulaire015-equation000	( ( 4 0 \times 1 0 2 ) \times 1 9 5 ) - ( 8 2 \times ( 1 4 2 \div 1 3 ) ) \leq 7 9 4 7 0 4
+MfrDB3014	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB1502	\lim \limits _ { n \rightarrow \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0
+TrainData2_17_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+MfrDB2982	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+formulaire025-equation064	\frac { d ^ { 2 } r } { d t ^ { 2 } } = - \alpha \frac { r } { r ^ { 3 } }
+MfrDB1276	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+110_leissi	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+MfrDB1478	\int \limits _ { 0 } ^ { + \infty } x ^ { n } e ^ { - x } d x = n !
+MfrDB3276	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+TrainData2_15_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+TrainData2_2_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+117_Fabricio	y ^ { 2 } \pm \sqrt { u - p } ( y - \frac { q } { 2 ( u - p ) } ) + \frac { u } { 2 } = 0
+TrainData2_15_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+formulaire027-equation008	y _ { 4 } = \frac { 1 } { 2 } ( - \sqrt { z _ { 1 } } - \sqrt { z _ { 2 } } + \sqrt { z _ { 3 } } )
+MfrDB1869	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+formulaire019-equation049	h ( f , \alpha ) = \lim \limits _ { n \rightarrow + \infty } \frac { 1 } { q n }
+MfrDB1979	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+formulaire039-equation005	( 1 + ( 4 7 \times 3 0 ) ) \div ( ( 4 9 \times 9 2 ) + 9 1 ) \neq 0
+TrainData2_4_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 3 } { 2 } \alpha _ { n } + \beta - 3 \beta
+formulaire029-equation009	\lim \limits _ { X \rightarrow + \infty } \int \limits _ { 0 } ^ { X } f ( x ) d x
+TrainData2_19_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+126_edwin	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+MfrDB2515	\int \limits _ { 0 } ^ { \infty } \sqrt { x } e ^ { - x } d x = \frac { 1 } { 2 } \sqrt { \pi }
+MfrDB3028	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+TrainData2_4_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_8_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB0012	| \sum \limits _ { i = 1 } ^ { n } x _ { i } y _ { i } | ^ { 2 } \leq \sum \limits _ { j = 1 } ^ { n } | x _ { i } | ^ { 2 } \sum \limits _ { k = 1 } ^ { n } | y _ { i } | ^ { 2 }
+200922-1017-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+MfrDB2176	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m _ { 1 } n }
+formulaire004-equation047	f ( x ) = \sum \limits _ { n = - \infty } ^ { \infty } a _ { n } = x ^ { \alpha _ { n } }
+MfrDB1266	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+MfrDB0046	e ^ { - 2 \pi i \alpha } = \cos \alpha - i \cdot \sin \alpha
+MfrDB3133	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+MfrDB2037	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+96_Fabricio	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+70_leo	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_4_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+TrainData2_10_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+93_leo	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+TrainData2_26_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+TrainData2_4_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB2017	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x + y } { 2 } )
+2009213-137-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+MfrDB1480	\int \limits _ { 0 } ^ { R } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+formulaire005-equation016	\sin ( a - b ) = \sin a \cos b - \cos a \sin b
+TrainData2_1_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+KME2G3_8_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_18_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+KME1G3_6_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+93_rosario	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+MfrDB3158	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+KME2G3_28_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+MfrDB3251	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+KME2G3_25_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+formulaire015-equation060	( ( 1 7 7 - 7 2 ) \times ( 1 0 4 \times 1 6 4 ) ) \div ( 7 9 \times ( 1 1 3 \times 1 8 ) ) = 1 1 . 1 5
+formulaire029-equation023	X ^ { 7 } + 1 = ( X + 1 ) ( X ^ { 3 } + X + 1 ) ( X ^ { 3 } + X ^ { 2 } + 1 )
+MfrDB1713	\int \limits _ { 0 } ^ { R } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+TrainData2_24_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+MfrDB2160	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+70_leissi	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_6_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+2009212-952-16	\sum x - \frac { \beta } { k } \neq \frac { T - o } { y ^ { e } ( \phi ) }
+200923-1556-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+MfrDB1586	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+formulaire035-equation030	0 \pm ( 7 4 - 1 6 2 + 6 0 - 0 ) + ( ( 1 1 \times 1 5 7 ) / ( 1 2 8 + 7 0 ) )
+200922-1017-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+TrainData2_12_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+TrainData2_26_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+KME1G3_7_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+formulaire028-equation000	( ( 1 2 3 + 7 7 ) / 1 2 3 ) - ( ( 1 7 2 \times 9 1 ) + ( 1 6 8 \times 6 2 ) ) \neq 4 9 6 0
+MfrDB3847	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+TrainData2_11_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+MfrDB1268	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+formulaire036-equation062	d s ^ { 2 } = c ^ { 2 } d t ^ { 2 } - d x ^ { 2 } - d y ^ { 2 } - d z ^ { 2 }
+200923-131-10	\int \sum \limits _ { d \geq \int C d X } \cdots + a ^ { h } 1 d q _ { r _ { E } }
+MfrDB2325	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+TrainData2_10_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire035-equation064	d _ { 1 , 0 } ^ { 1 } = \frac { - \sin \theta } { \sqrt { 2 } }
+MfrDB3239	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+MfrDB1864	\int \limits _ { 0 } ^ { R } \frac { 2 x d x } { 1 + x ^ { 2 } } = \log ( 1 + R ^ { 2 } )
+formulaire030-equation008	\gamma = \frac { 1 } { \sqrt { 1 - \beta ^ { 2 } } }
+TrainData2_0_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB3161	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+80_leo	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+126_Frank	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+70_david	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB3150	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+formulaire005-equation005	( 2 / ( 5 9 / 1 5 ) ) - ( ( 3 9 - 7 2 ) \times ( 1 8 \times 8 1 ) ) \geq 4 8 1 1 4
+MfrDB2977	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 1 2 ) = 1 2
+110_Nina	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+formulaire012-equation037	\lim \limits _ { x \rightarrow - \infty } f ( x ) = - \infty
+MfrDB2900	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+TrainData2_4_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+formulaire006-equation003	\cos ( a + b ) = \cos ( a ) \cos ( b ) - \sin ( a ) \sin ( b )
+formulaire031-equation061	\sin ^ { 2 } \phi = 1 - n _ { x } ^ { 2 } - n _ { y } ^ { 2 }
+110_caue	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+101_Frank	S = ( \sum \limits _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi ) r ^ { 2 }
+TrainData2_2_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+TrainData2_25_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+126_Nina	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+MfrDB1706	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+MfrDB3278	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+126_leo	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+MfrDB0044	( a + b ) ^ { 3 } = a ^ { 3 } + 3 a ^ { 2 } b + 3 a b ^ { 2 } + b ^ { 3 }
+TrainData2_1_sub_11	\sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } }
+formulaire036-equation020	( ( 1 3 - 1 1 2 ) + ( 1 5 0 \times 1 9 8 ) ) \div ( ( 1 2 1 + 1 3 4 ) \times ( 1 7 8 - 1 7 7 ) ) = 1 1 6 . 0 8
+KME1G3_2_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+KME1G3_10_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+TrainData2_0_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire005-equation068	x ^ { 4 } - 4 x ^ { 3 } \sqrt { 2 } + 2 x ^ { 2 } + 4 x \sqrt { 2 } + 1
+MfrDB2351	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+110_miguel	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+formulaire022-equation050	1 5 5 \pm ( ( 1 1 \div 8 3 ) \div 9 4 ) \times ( ( 2 4 \times 8 6 ) \times ( 9 7 \times 1 3 6 ) )
+110_carlos	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+KME1G3_11_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+MfrDB1483	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+MfrDB3246	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+KME1G3_8_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+126_leissi	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+80_leissi	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+KME2G3_3_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+formulaire034-equation036	( a - b ) ^ { 3 } = a ^ { 3 } - 3 a ^ { 2 } b + 3 a b ^ { 2 } - b ^ { 3 }
+formulaire020-equation070	( ( 3 - 9 0 ) - ( 1 4 9 \times 3 7 ) ) - ( ( 1 2 9 - 7 8 ) \div 1 5 ) \geq - 5 6 0 3
+formulaire038-equation024	d p ^ { 3 } + 4 e p ^ { 2 } - c ^ { 2 } p ^ { 2 } - 2 c d p - d ^ { 2 } = 0
+70_hirata	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+200922-949-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+96_leo	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+formulaire013-equation049	\frac { e ^ { i a t } } { n } \sum \limits _ { k = 0 } ^ { n - 1 } e ^ { i k t }
+TrainData2_11_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+MfrDB3191	\lim \limits _ { n \rightarrow \infty } \frac { 1 } { n ^ { p } } = 0
+80_david	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+93_Nina	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+MfrDB3005	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+200924-1312-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+110_Fabricio	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+200926-1550-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+89_leo	x ^ { \prime } = x \cos \theta + y \sin \theta
+94_rosario	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire022-equation044	\alpha = \lim \limits _ { n \rightarrow \infty } \frac { d _ { n } } { d _ { n + 1 } }
+MfrDB3572	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+MfrDB3052	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+formulaire004-equation072	( - a ) ^ { n } = ( - a ) \times ( - a ) \times ( - a ) \times \ldots \times ( - a )
+TrainData2_23_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+formulaire024-equation048	a ^ { 2 } - 2 a b + b ^ { 2 } = ( a - b ) ^ { 2 } = ( b - a ) ^ { 2 }
+TrainData2_18_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_13_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire006-equation064	d t = \sqrt { \frac { l } { 2 g } } \frac { d \theta } { \sqrt { \cos \theta - \cos \theta _ { 0 } } }
+96_alfonso	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+MfrDB2956	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB0054	\frac { 1 } { 2 } + \frac { 1 } { 3 } + \frac { 1 } { 4 } = \frac { 6 + 4 + 3 } { 1 2 } = \frac { 1 3 } { 1 2 }
+91_daniel	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+98_herbert	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+70_user0	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_22_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+70_daniel	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+91_jorge	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB0079	\lim \limits _ { x \rightarrow a } \frac { f ( x ) } { g ( x ) } = \lim \limits _ { x \rightarrow a } \frac { f ^ { \prime } ( x ) } { g ^ { \prime } ( x ) }
+93_david	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+MfrDB3845	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+MfrDB3428	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+89_carlos	x ^ { \prime } = x \cos \theta + y \sin \theta
+formulaire027-equation048	4 X ^ { 3 } - 7 X ^ { 2 } + 3 X - 5 = ( X - 2 ) ( 4 X ^ { 2 } + X + 5 ) + 5
+formulaire004-equation062	f ( x ) = \sum \limits _ { k = 1 } ^ { + \infty } \frac { 1 } { k } \sin ( k ^ { 2 } x )
+TrainData2_3_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire020-equation024	\lim \limits _ { n \rightarrow \infty } ( u _ { n } - u _ { n - 1 } ) = l
+formulaire006-equation020	7 \pm ( 1 1 1 \div ( 2 8 + 2 3 ) ) \times ( ( 5 3 + 1 8 7 ) \times ( 1 7 9 \div 1 4 7 ) )
+formulaire002-equation047	f ( r , \theta ) = r ^ { 2 } ( \cos \theta ^ { 2 } + \sin \theta ^ { 2 } ) = r ^ { 2 }
+formulaire010-equation008	x ^ { 4 } + 6 x ^ { 3 } \sqrt { 3 } + 8 x ^ { 2 } - 2 x \sqrt { 3 } - 1
+80_caue	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+80_jorge	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+TrainData2_22_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+93_user0	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+formulaire003-equation053	\frac { ( 2 d _ { 1 } + d _ { 2 } - 2 ) \sqrt { 8 ( d _ { 2 } - 4 ) } } { ( d _ { 2 } - 6 ) \sqrt { d _ { 1 } ( d _ { 1 } + d _ { 2 } - 2 ) } }
+formulaire022-equation035	( ( 1 9 0 \div 1 9 6 ) \times ( 1 6 5 - 1 0 0 ) ) \div ( 7 3 + ( 9 1 \times 9 7 ) ) \leq 0
+80_rosario	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+MfrDB2953	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+80_hirata	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+formulaire025-equation011	x ^ { 6 } - x ^ { 5 } - x ^ { 4 } + x ^ { 2 } - 1
+formulaire009-equation010	( ( 9 6 / 4 3 ) / 1 5 9 ) - ( 1 7 2 + 1 0 1 + 8 9 - 1 2 5 ) \neq - 1 5 3
+MfrDB2944	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+formulaire010-equation073	x ^ { 7 } - x ^ { 6 } - x ^ { 4 } - x ^ { 2 } - 1
+MfrDB2129	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+formulaire021-equation027	\lim \limits _ { x \rightarrow + \infty } \sqrt { x } = + \infty
+formulaire013-equation050	( 1 3 3 \times ( 1 7 6 / 6 7 ) ) - ( ( 1 1 9 \times 1 4 ) - 1 9 0 ) \geq - 1 1 2 7
+91_alfonso	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB0045	\sum \limits _ { i = 0 } ^ { \infty } c \cdot a _ { i } = c \cdot \sum \limits _ { i = 0 } ^ { \infty } a _ { i }
+MfrDB2979	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+formulaire029-equation060	1 3 0 \pm ( ( 1 1 5 \div 1 4 8 ) - ( 1 4 0 + 6 0 ) ) \times ( ( 1 7 7 - 1 7 9 ) - ( 1 7 0 \div 7 5 ) )
+94_herbert	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+MfrDB1867	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+MfrDB1909	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+formulaire022-equation057	( - \sin \phi \cos \theta , - \sin \phi \sin \theta , \cos \phi )
+KME2G3_13_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+formulaire011-equation032	\int \limits _ { - \infty } ^ { + \infty } p _ { X } ( x ) d x = 1
+KME2G3_9_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire029-equation012	( d t ) ^ { 2 } = \frac { l ( d \theta ) ^ { 2 } } { 2 g ( \cos ( \theta ) - \cos ( \theta _ { 0 } ) ) }
+MfrDB3117	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB1273	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+126_david	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+formulaire027-equation034	\lim \limits _ { t \rightarrow t _ { 0 } } \frac { y ( t ) } { x ( t ) } = \pm \infty
+formulaire012-equation035	( 7 4 - 1 1 5 - 0 - 1 7 1 ) \times ( ( 7 2 / 1 9 8 ) + 3 7 ) \leq 4 8 5 7
+formulaire016-equation066	a = \frac { c \sin \alpha } { \sin ( \alpha + \beta ) }
+MfrDB2873	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+124_rosario	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+91_miguel	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB2991	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+MfrDB3143	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+96_Frank	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+126_caue	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+MfrDB1304	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+MfrDB1920	\sum \limits _ { m = 0 } ^ { M } \sum \limits _ { n = 0 } ^ { N } a _ { m , n }
+formulaire006-equation050	1 2 \pm ( ( 2 9 \times 6 ) + 2 2 ) + ( ( 4 7 \times 1 3 3 ) - ( 8 6 - 1 8 7 ) )
+TrainData2_12_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+93_daniel	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+TrainData2_16_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire006-equation037	- a ^ { n } = - a \times a \times a \times \ldots \times a
+TrainData2_23_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB2954	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+110_Frank	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+MfrDB3006	( \frac { 1 + x ^ { 2 } } { 1 + y ^ { 2 } } ) ^ { t } \leq 2 ^ { | t | } ( 1 + ( x - y ) ^ { 2 } ) ^ { | t | }
+MfrDB2157	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+124_silas	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+2009220-1327-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+MfrDB3192	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+MfrDB1485	\int x ^ { n } d x = \frac { x ^ { n + 1 } } { n + 1 } + C
+TrainData2_1_sub_46	\lim \limits _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 }
+formulaire004-equation024	k = k _ { m - 1 } 2 ^ { m - 1 } + k _ { m - 2 } 2 ^ { m - 2 } + \ldots + k _ { 1 } 2 + k _ { 0 }
+formulaire029-equation051	2 i \sin ( \alpha ) e ^ { i \alpha } - e ^ { 2 i \alpha } + 1 = 0
+formulaire021-equation071	2 x ^ { 4 } + ( 1 + \sqrt { 1 7 } ) x ^ { 3 } - ( 3 - \sqrt { 1 7 } ) x ^ { 2 } + 2 ( 2 - \sqrt { 1 7 } ) x - 2
+MfrDB3529	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+93_caue	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+89_miguel	x ^ { \prime } = x \cos \theta + y \sin \theta
+TrainData1_5_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+KME1G3_7_sub_21	A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b }
+70_Frank	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB0094	\frac { 1 } { q _ { m } \cdot q _ { m + 1 } } \leq \frac { 1 } { g _ { m } \cdot ( n + 1 ) }
+89_bruno	x ^ { \prime } = x \cos \theta + y \sin \theta
+89_david	x ^ { \prime } = x \cos \theta + y \sin \theta
+MfrDB3021	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+TrainData2_25_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+MfrDB1602	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+TrainData2_5_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+96_miguel	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+131_rosario	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire039-equation040	( ( 1 0 9 - 1 6 4 ) + ( 1 2 2 / 1 4 ) ) + ( 2 3 \times ( 1 9 6 + 8 1 ) ) \geq 6 3 2 4
+formulaire037-equation070	( ( 1 2 4 \div 1 0 6 ) + 1 3 2 ) + ( ( 1 6 - 1 4 5 ) \times ( 1 0 0 \times 1 2 0 ) ) \geq - 1 5 4 7 8 6 7
+formulaire021-equation050	( ( 1 2 6 \times 1 3 0 ) \times 1 6 2 ) \div ( 1 6 8 - 1 6 1 - 3 2 ) \neq - 1 1 5 4 2
+MfrDB1574	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } = \frac { \pi } { 2 }
+formulaire027-equation021	\sqrt { \frac { 1 + \sin ^ { 2 } \alpha } { 2 } } = \cos \alpha
+MfrDB3443	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+MfrDB1517	\sqrt { \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } ( a _ { k } ) ^ { 2 } } \geq \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k }
+MfrDB3115	\int \limits _ { 0 } ^ { \infty } f ( x ) d x = \lim \limits _ { b \rightarrow \infty } \int \limits _ { 0 } ^ { b } f ( x ) d x
+91_fujita	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_7_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+200922-949-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+200924-1312-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+126_miguel	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+TrainData2_8_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+2009213-137-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+formulaire003-equation007	x ^ { 2 } + y ^ { 2 } + z ^ { 2 } + w ^ { 2 } = a ^ { 2 }
+formulaire033-equation020	( 5 5 - 1 4 0 - 1 6 8 ) \times ( ( 7 6 \div 7 7 ) - ( 1 6 2 \times 6 8 ) ) \neq - 1 1 6 4 3 5
+TrainData2_16_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+TrainData2_7_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+TrainData2_1_sub_73	\alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta
+formulaire035-equation043	d s ^ { 2 } = d r ^ { 2 } + r ^ { 2 } d \theta ^ { 2 } + r ^ { 2 } \sin ^ { 2 } \theta d \phi ^ { 2 }
+formulaire016-equation008	a ^ { 2 } ( a ^ { 4 } - 6 a ^ { 2 } + 9 ) - 3 6 = - 8 a ^ { 2 }
+formulaire031-equation016	2 x ^ { 3 } + ( 1 - \sqrt { 2 1 } ) x ^ { 2 } - ( 1 + \sqrt { 2 1 } ) x + 5 + \sqrt { 2 1 }
+TrainData2_2_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire027-equation053	\sqrt { 2 } ^ { \sqrt { 2 } \times \sqrt { 2 } } = \sqrt { 2 } ^ { 2 } = 2
+formulaire013-equation060	( ( 1 8 \div 1 2 3 ) + 1 2 3 ) \times ( 1 0 7 + ( 1 0 0 \div 1 4 2 ) ) \geq 1 3 2 6 2
+200922-947-1	\int \limits _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ { 3 } + 1 4 } } d z
+200922-947-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+formulaire006-equation012	d _ { 2 , 0 } ^ { 2 } = \frac { \sqrt { 6 } } { 4 } \sin ^ { 2 } \theta
+MfrDB0043	\frac { 1 } { a } + \frac { 1 } { b } + \frac { 1 } { c } = \frac { b c + a c + a b } { a b c }
+70_jorge	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+MfrDB2906	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+formulaire006-equation015	( 4 5 - ( 1 0 6 \times 1 7 ) ) / ( ( 4 2 \times 3 7 ) - ( 4 2 \times 3 1 ) ) = - 6 . 9 7
+TrainData2_23_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+KME2G3_30_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+KME2G3_15_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+70_Fabricio	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+KME1G3_0_sub_22	\lim \limits _ { x \rightarrow \infty } \int \limits _ { 0 } ^ { x } e ^ { - y ^ { 2 } } d y = \frac { \sqrt { \pi } } { 2 }
+93_leissi	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+96_bruno	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+formulaire027-equation004	\lim \limits _ { n \rightarrow + \infty } \frac { b - a } { n } f ( x _ { 0 } ) = 0
+70_edwin	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+91_leo	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+formulaire005-equation065	( 5 1 - 5 3 + 3 1 ) - ( ( 1 8 6 \times 2 1 ) \times ( 1 6 1 \div 1 0 3 ) ) \neq - 8 2 4 8
+80_Nina	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+formulaire021-equation015	( ( 5 7 + 8 8 ) \div 4 5 ) \times ( ( 1 0 4 + 1 7 1 ) \div 7 7 ) \geq 1 1
+126_user0	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+TrainData2_3_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+98_rosario	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire019-equation028	x ^ { 4 } - x ^ { 3 } \sqrt { 2 } - 3 x ^ { 2 } + 3 x \sqrt { 2 } - 1
+MfrDB1294	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+110_leo	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+MfrDB2150	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+93_carlos	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+KME2G3_12_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+TrainData2_21_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_24_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+TrainData2_19_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+formulaire007-equation037	\sum \limits _ { i = 1 } ^ { n } k _ { i } = \sum \limits _ { j = 1 } ^ { m } q _ { j }
+MfrDB0032	\frac { \int \sqrt { 1 + y ^ { \prime } ( t ) ^ { 2 } } d t } { \int \sqrt { x ^ { \prime } ( t ) ^ { 2 } + y ^ { \prime } ( t ) ^ { 2 } } d t }
+TrainData2_7_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+MfrDB3154	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3808	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+TrainData2_8_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+200923-1556-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+formulaire034-equation073	x ^ { 1 9 } - x ^ { 1 8 } - x ^ { 1 7 } + x ^ { 2 } - 1
+70_caue	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+89_Fabricio	x ^ { \prime } = x \cos \theta + y \sin \theta
+TrainData2_13_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+MfrDB3217	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+80_daniel	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+TrainData2_2_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_11_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_12_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+110_danilo	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+110_alfonso	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+KME2G3_10_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_18_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+70_alfonso	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_0_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_22_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire019-equation025	( 1 2 2 \div ( 1 9 7 + 9 4 ) ) + ( ( 1 2 6 \div 0 ) \times ( 1 7 9 - 9 7 ) ) \neq 2 1 4 7 4 8 3 6 4 7
+TrainData2_20_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+MfrDB3137	\int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2
+94_Nina	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire025-equation024	1 - \cos ^ { 2 } x = ( 1 - \cos x ) ( 1 + \cos x )
+MfrDB2998	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+formulaire030-equation065	2 4 \pm ( ( 5 6 / 1 1 0 ) - ( 5 4 / 1 4 4 ) ) - ( 2 2 + 1 0 4 + 3 0 - 7 7 )
+KME2G3_16_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+formulaire028-equation052	\lim \limits _ { n \rightarrow + \infty } ( u _ { 2 n + 1 } ) = - \infty
+formulaire009-equation023	2 x ^ { 3 } + ( 1 - \sqrt { 1 3 } ) x ^ { 2 } - 2 x - 3 + \sqrt { 1 3 }
+formulaire024-equation074	p ( \theta ) = ( n + 1 ) \sin \theta \cos ^ { n } \theta
+formulaire006-equation060	( ( 1 3 3 \div 3 6 ) + 1 3 5 ) - ( ( 3 8 \div 1 8 6 ) \times ( 3 3 \times 1 9 3 ) ) = - 1 1 6 2 . 5 0
+MfrDB3114	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+126_alfonso	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+TrainData2_5_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+MfrDB1475	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+TrainData2_3_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+formulaire029-equation053	\cos ( \theta ) = \frac { 1 - 2 } { 1 + 2 } = - \frac { 1 } { 3 }
+formulaire003-equation060	( ( 1 1 7 \times 5 4 ) \div ( 1 4 1 \times 1 2 4 ) ) - ( ( 7 0 \div 1 9 3 ) \div 1 5 9 ) \geq 0
+formulaire004-equation036	( z ^ { 2 } + y _ { 0 } - a _ { 0 } z - b _ { 0 } ) ( z ^ { 2 } + y _ { 0 } + a _ { 0 } z + b _ { 0 } ) = 0
+TrainData2_16_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+MfrDB3163	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+94_leissi	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+94_jorge	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+TrainData2_6_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+KME2G3_19_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+TrainData2_18_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+126_Fabricio	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+94_user0	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+TrainData2_19_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+80_Fabricio	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+TrainData2_24_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire029-equation011	\int \limits _ { a } ^ { b } f ( x ) d x \leq \int \limits _ { a } ^ { b } g ( x ) d x
+formulaire019-equation068	3 = - 1 ^ { 2 } + 2 ^ { 2 } - 3 ^ { 2 } - 4 ^ { 2 } + 5 ^ { 2 }
+MfrDB3440	\int \limits _ { 0 } ^ { R } \frac { 2 x } { 1 + x ^ { 2 } } d x = \log ( 1 + R ^ { 2 } )
+MfrDB1473	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+formulaire020-equation043	x ^ { 7 } + 7 x ^ { 6 } d X + 2 1 x ^ { 5 } d X ^ { 2 } + 3 5 x ^ { 4 } d X ^ { 3 }
+MfrDB1576	\int \limits _ { 0 } ^ { 1 } \frac { x ^ { 3 } } { e ^ { x } - 1 } d x = \frac { \pi ^ { 4 } } { 1 5 }
+formulaire027-equation066	( 2 \sqrt { 7 } - 3 \sqrt { 3 } ) x ^ { 3 } + x ^ { 2 } - ( 2 \sqrt { 7 } - \sqrt { 3 } ) x + 1
+111_herbert	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire004-equation069	r _ { k } = \frac { \int \limits _ { t _ { k } } ^ { t _ { k + 1 } } x p _ { X } ( x ) } { \int \limits _ { t _ { k } } ^ { t _ { k + 1 } } p _ { X } ( x ) }
+formulaire020-equation041	( x ^ { 2 } + y ^ { 2 } ) ^ { 2 } - ( a ^ { 2 } + 2 b y ) ( x ^ { 2 } + y ^ { 2 } ) + b ^ { 2 } y ^ { 2 } = 0
+MfrDB3109	m ( b - a ) \leq \int \limits _ { a } ^ { b } f ( x ) d x \leq M ( b - a )
+formulaire017-equation058	( 2 \sqrt { 2 1 } - 9 ) x ^ { 2 } + x + 3 \sqrt { 2 1 } - 1 3 - ( 5 \sqrt { 7 } - 7 \sqrt { 3 } ) i = 0
+MfrDB1885	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+TrainData2_4_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+111_rosario	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+TrainData2_17_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire012-equation009	( a ^ { 2 } + b ^ { 2 } ) ( q ^ { 2 } + p ^ { 2 } ) = ( a q + b p ) ^ { 2 } + ( a p - b q ) ^ { 2 }
+formulaire001-equation003	\log _ { c } ( a - b ) = \log _ { c } ( c ^ { ( \log _ { c } a - \log _ { c } b ) } - 1 ) + \log _ { c } b
+TrainData2_17_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire039-equation050	( 6 2 \times ( 1 4 4 - 5 5 ) ) \times ( ( 1 4 3 \times 1 6 2 ) - 3 2 ) \geq 1 2 7 6 5 3 4 1 1
+2009220-1327-8	\int \frac { \sin ( x ) + 1 } { \sqrt { \cos ^ { 3 } ( x ) + \tan ( x ) } } d x
+98_user0	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+MfrDB1301	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+TrainData2_19_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_11_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+MfrDB3454	\cos ^ { 3 } y = \frac { 1 } { 4 } ( \cos 3 y + 3 \cos y )
+formulaire033-equation030	( 1 2 2 - 1 0 3 + 1 4 1 - 3 3 ) \times ( ( 2 2 \times 9 2 ) - ( 6 5 - 1 1 3 ) ) \leq 2 6 3 1 4 4
+TrainData2_9_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+98_Nina	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+70_maira	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+124_daniel	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+96_edwin	y = a S ( t ) = a \int \limits _ { 0 } ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ { 2 } ) d s
+formulaire036-equation016	x ^ { 1 1 } - x ^ { 1 0 } - x ^ { 8 } - x ^ { 6 } - x ^ { 4 } - x ^ { 2 } - 1
+formulaire011-equation057	\lim \limits _ { x \rightarrow 0 } \log _ { a } x = + \infty
+formulaire036-equation021	\frac { x ^ { 2 } + y ^ { 2 } } { a ^ { 2 } } - \frac { z ^ { 2 } } { b ^ { 2 } } = 1
+TrainData2_20_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+formulaire006-equation062	a ^ { n } = - p _ { n - 1 } a ^ { n - 1 } b + \ldots + p _ { 0 } b ^ { n }
+111_Nina	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire027-equation041	2 \times 2 - 2 \times 1 - 2 \times 1 = 2 \times 1 - 1 \times 1 - 1 \times 1
+TrainData2_9_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+TrainData2_17_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_21_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire023-equation015	( 1 8 4 - 1 8 8 - 1 5 8 + 1 3 5 ) / ( ( 3 4 - 1 1 8 ) + ( 8 1 \times 2 0 ) ) = - 0 . 1 9
+TrainData2_20_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire016-equation022	( 1 - t ^ { n } ) a _ { n } ( t ) = \frac { 1 - t ^ { n } } { n ( 1 - t ) } - t ^ { n }
+131_leo	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+91_Frank	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_4_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_0_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+92_rosario	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+80_miguel	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+91_carlos	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+KME2G3_1_sub_22	x _ { x } ^ { x } + y _ { y } ^ { y } + z _ { z } ^ { z } - x - y - z
+111_user0	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+MfrDB3198	\lim \limits _ { n \rightarrow \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1
+MfrDB1498	\lim \limits _ { x \rightarrow 0 } \frac { 1 - \cos x } { x } = 0
+formulaire037-equation026	a _ { \gamma } b ^ { \gamma } = \sum \limits _ { i = 1 } ^ { n } a _ { i } b ^ { i }
+TrainData2_12_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_9_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+98_leissi	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+131_Nina	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+126_danilo	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+94_david	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+TrainData2_18_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+93_edwin	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+formulaire020-equation054	\frac { a _ { 1 } + \ldots + a _ { n } } { b _ { 1 } + \ldots + b _ { n } }
+formulaire008-equation033	d x ^ { 3 } + ( 4 e - c ^ { 2 } ) x ^ { 2 } - 2 c d x - d ^ { 2 } = 0
+MfrDB3204	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+93_Fabricio	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+MfrDB2516	\int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { x ^ { 2 } } d x = \frac { \pi } { 2 }
+80_carlos	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+70_miguel	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+124_user0	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+98_leo	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+TrainData2_9_sub_43	\frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha }
+94_miguel	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+92_user0	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+131_caue	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire025-equation033	a = \sqrt { b ^ { 2 } - c ^ { 2 } \sin ^ { 2 } \beta } + c \cos \beta
+formulaire011-equation002	( 1 + \alpha ^ { - 1 } \beta ) ^ { - 1 } = \sum \limits _ { i = 0 } ^ { \infty } ( - 1 ) ^ { i } ( \alpha ^ { - 1 } \beta ) ^ { i }
+80_edwin	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+MfrDB3542	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+formulaire033-equation001	\sin ( a + b ) = \sin a \cos b + \cos a \sin b
+126_carlos	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+131_leissi	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire024-equation031	c ^ { 2 } = a ^ { 2 } + b ^ { 2 } - 2 a b \cos \gamma
+124_Nina	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+KME2G3_16_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire004-equation014	\lim \limits _ { x \rightarrow - \infty } \frac { 1 } { x ^ { n } } = \lim \limits _ { x \rightarrow + \infty } \frac { 1 } { x ^ { n } } = 0
+formulaire008-equation037	x = \beta _ { 3 } y _ { 3 } + \ldots + \beta _ { n + 1 } y _ { n + 1 }
+formulaire034-equation056	x ^ { 3 } - 3 a x ^ { 2 } + ( 3 a ^ { 2 } - 3 b c ) x + 3 a b c - a ^ { 3 } - b ^ { 3 } - c ^ { 3 } = 0
+TrainData2_14_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_0_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+TrainData2_5_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_13_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+124_carlos	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+formulaire007-equation046	0 X ^ { 3 } + a _ { 3 } X ^ { 2 } + ( a _ { 2 } + a _ { 3 } ) X + ( a _ { 1 } + a _ { 2 } + a _ { 3 } )
+110_edwin	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+formulaire032-equation063	x = \frac { z - 3 } { - z - 3 } = \frac { 3 - z } { 3 + z }
+formulaire025-equation065	( ( 4 2 \times 1 9 3 ) \times ( 4 6 \times 1 9 7 ) ) \times 3 1 \neq - 1 3 2 1 7 0 1 6 5 6
+93_alfonso	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+KME2G3_17_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+111_leissi	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire023-equation001	\int \limits _ { a } ^ { c } f ( x ) d x = \int \limits _ { a } ^ { b } f ( x ) d x + \int \limits _ { b } ^ { c } f ( x ) d x
+80_Frank	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+TrainData2_5_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+124_edwin	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+KME2G3_29_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+TrainData2_14_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+70_carlos	\cos \theta = \frac { x } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+TrainData2_23_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+91_Fabricio	\sin \theta = \frac { y } { \sqrt { x ^ { 2 } + y ^ { 2 } } }
+111_caue	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+131_user0	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire009-equation042	h _ { k + q ( k + 1 ) } ^ { 2 } - p k _ { k + q ( k + 1 ) } ^ { 2 } = ( - 1 ) ^ { q ( k + 1 ) }
+KME2G3_23_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire025-equation010	( ( 1 1 1 - 1 9 0 ) + ( 3 1 \times 1 2 2 ) ) \div ( ( 9 6 \times 1 4 3 ) + ( 3 7 + 1 4 5 ) ) \neq 0
+92_leo	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+98_caue	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire014-equation023	\frac { x ^ { 2 } + y ^ { 2 } } { a ^ { 2 } } - \frac { z ^ { 2 } } { c ^ { 2 } } + 1 = 0
+formulaire035-equation047	\sum \limits _ { i = 1 } ^ { m } \frac { ( n _ { i } - n \times p _ { i } ) ^ { 2 } } { n \times p _ { i } }
+TrainData2_16_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire025-equation000	( ( 1 1 4 + 1 1 8 ) \times ( 1 1 4 \times 5 9 ) ) + ( ( 1 9 8 - 2 0 ) \times ( 5 6 / 1 6 8 ) ) \neq - 5 5 3 1 7 3
+formulaire025-equation022	\lim \limits _ { n \rightarrow + \infty } u _ { n } = - \infty
+formulaire017-equation069	q = - \sum \limits _ { i = 1 } ^ { s } l _ { i } ^ { 2 } + \sum \limits _ { i = s + 1 } ^ { r } l _ { i } ^ { 2 }
+131_Frank	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+TrainData2_24_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+124_Frank	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+126_fujita	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+93_miguel	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+TrainData2_26_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+131_jorge	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+TrainData2_23_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+TrainData2_9_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+TrainData2_4_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_1_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+MfrDB0023	\frac { \frac { 1 + \frac { 1 } { 2 } } { 3 } + \frac { 1 } { 4 } } { \frac { 1 } { 3 } + 1 + \frac { 2 } { 4 } }
+MfrDB2450	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+TrainData2_19_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+98_miguel	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire009-equation063	\sin ^ { 2 } ( x ) ( 1 - \sin ^ { 2 } ( y ) ) = \sin ^ { 2 } ( y ) ( 1 - \sin ^ { 2 } ( x ) )
+TrainData2_3_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+131_david	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire037-equation046	\frac { 1 } { 1 0 } = \frac { 3 } { 5 } - \frac { 1 } { 2 } = - 1 + \frac { 3 } { 5 } + \frac { 1 } { 2 }
+98_Frank	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+92_Nina	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+98_maira	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+KME2G3_13_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+111_Fabricio	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire009-equation044	p = \frac { p _ { \alpha } + p _ { \beta } } { \sin \alpha + \sin \beta }
+KME2G3_20_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire025-equation050	( ( 8 \div 1 3 0 ) \div ( 1 9 0 \times 1 2 ) ) \times ( ( 8 6 + 1 4 7 ) - ( 8 4 \div 0 ) ) \neq 2 1 4 7 4 8 3 6 4 7
+formulaire009-equation039	X ^ { 2 } - 1 = - 1 - ( X + 1 ) + ( X ^ { 2 } + X + 1 ) = - p _ { 1 } - p _ { 2 } + p _ { 3 }
+TrainData2_3_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+111_miguel2	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+MfrDB1501	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+formulaire030-equation017	e ^ { x } = e ( 1 + ( x - 1 ) + \frac { ( x - 1 ) ^ { 2 } } { 2 } + o ( ( x - 1 ) ^ { 2 } ) )
+92_Frank	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+92_lucelia	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+124_david	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+124_leissi	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+93_herbert	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+formulaire030-equation027	1 ^ { 3 } + 2 ^ { 3 } + 3 ^ { 3 } + \ldots + x ^ { 3 } = y ^ { 2 }
+formulaire006-equation044	f ( x ) = \frac { \sqrt { x } - 2 } { x - 4 } = \frac { u - 2 } { u ^ { 2 } - 4 }
+formulaire007-equation019	- \frac { h _ { 3 } ^ { 2 } + h _ { 2 } ^ { 2 } } { h _ { 3 } } = \frac { h _ { 3 } } { h _ { 3 } h _ { 0 } - h _ { 2 } h _ { 1 } }
+98_Fabricio	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire019-equation013	( a + b ) ^ { 4 } = a ^ { 4 } + 4 a ^ { 3 } b + 6 a ^ { 2 } b ^ { 2 } + 4 a b ^ { 3 } + b ^ { 4 }
+formulaire015-equation004	\lim \limits _ { x \rightarrow + \infty } x - \sqrt { x ^ { 2 } - x } = \lim \limits _ { h \rightarrow 0 } \frac { \frac { 1 } { 2 \sqrt { 1 - h } } } { 1 }
+111_leo	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+110_fujita	\frac { 1 } { \frac { 1 } { 2 } ( \frac { 1 } { a } + \frac { 1 } { b } ) } = \frac { 2 a b } { a + b }
+111_carlos	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+MfrDB0102	y ^ { 2 } + a _ { 1 } x y + a _ { 3 } y = x ^ { 3 } + a _ { 2 } x ^ { 2 } + a _ { 4 } x + a _ { 6 }
+formulaire013-equation016	3 \times ( 4 \times x + 1 ) \times ( 5 \times x \times y - 2 ) \times z
+MfrDB3447	\lim \limits _ { n \rightarrow \infty } \frac { n ^ { 2 } + 3 n } { 2 n ^ { 2 } + 1 } = \frac { 1 } { 2 }
+formulaire002-equation054	1 + d - 1 ^ { \frac { m } { 2 } - 1 } + m \sum \limits _ { i = 0 } ^ { \frac { m - 4 } { 2 } } ( d - 1 ) ^ { i }
+TrainData2_16_sub_71	\frac { \sin B + \sin C } { \cos B + \cos C }
+131_miguel	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+formulaire017-equation027	\frac { d } { d t } e ^ { X ( t ) } = \int \limits _ { 0 } ^ { 1 } e ^ { ( 1 - \alpha ) X ( t ) } \frac { d X ( t ) } { d t } e ^ { \alpha X ( t ) } d \alpha
+TrainData2_9_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
+126_herbert	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } < \frac { 1 } { q _ { n } ^ { 2 } }
+131_Fabricio	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+TrainData2_3_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_25_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire032-equation016	\cos ( x ) + \cos ( x + \frac { 2 } { 3 } \pi ) + \cos ( x + \frac { 4 } { 3 } \pi ) = 0
+formulaire027-equation002	\lim \limits _ { X \rightarrow + \infty } \frac { 1 - \cos ( X ) } { X } = 0
+92_herbert	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+124_alfonso	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+TrainData2_25_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+98_carlos	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+TrainData2_1_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+formulaire022-equation046	x ^ { 3 } - x ^ { 2 } \sqrt { 7 } + x + \frac { 1 } { \sqrt { 7 } }
+TrainData2_14_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+formulaire021-equation066	x ^ { 1 6 } - x ^ { 1 5 } - x ^ { 1 4 } + x ^ { 2 } - 1
+131_alfonso	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+94_edwin	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire013-equation071	\frac { a } { b } \frac { e } { f } + \frac { c } { d } \frac { e } { f } = \frac { ( a d + c b ) e } { b d f }
+92_david	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+80_alfonso	\frac { 1 } { r ^ { 2 } } = \frac { 1 } { ( R - m ) ^ { 2 } } + \frac { 1 } { ( R + m ) ^ { 2 } }
+formulaire030-equation003	0 = \int \limits _ { a } ^ { a } f ( x ) d x = \int \limits _ { a } ^ { c } f ( x ) d x + \int \limits _ { c } ^ { a } f ( x ) d x
+MfrDB1511	\sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } )
+TrainData2_19_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+98_daniel	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+124_jorge	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+131_mijail	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+92_carlos	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+formulaire028-equation032	\int \limits _ { 0 } ^ { + \infty } \frac { \sin ( x ) } { x } d x = \frac { \pi } { 2 }
+formulaire008-equation021	f ( x ) = \frac { x ^ { 2 } - 4 } { 4 x ^ { 2 } } \frac { 1 } { x - 2 } = \frac { x + 2 } { 4 x ^ { 2 } }
+TrainData2_8_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+TrainData2_25_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+formulaire011-equation018	x = \sqrt { r ^ { 2 } + a ^ { 2 } } \sin \theta \cos \phi
+105_Nina	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire033-equation037	u ^ { n } = \sum \limits _ { i = 0 } ^ { n - 1 } ( - 1 ) ^ { i } \beta ^ { n - 1 - i } \gamma ^ { i }
+TrainData2_6_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+98_david	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+92_leissi	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+111_edwin	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+MfrDB2941	3 a ^ { 2 } b ^ { 3 } + 5 a ^ { 3 } b ^ { 2 } - \frac { a ^ { 5 } b ^ { 8 } } { 2 }
+formulaire002-equation007	\frac { m l ^ { 2 } ( \frac { d \theta } { d t } ) ^ { 2 } } { 2 } - m g l \cos ( \theta ) = - m g l \cos ( \theta _ { 0 } )
+KME2G3_7_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire027-equation047	\lim \limits _ { a \rightarrow + \infty } \int \limits _ { 0 } ^ { a } \frac { \sin ( x ) } { x } d x
+92_jorge	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+TrainData2_26_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+98_fujita	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+111_jorge	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+111_alfonso	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire011-equation034	v ^ { n } = \sum \limits _ { i = 0 } ^ { n - 1 } ( - 1 ) ^ { i } \alpha ^ { n - 1 - i } \beta ^ { i }
+94_danilo	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire014-equation024	w ^ { \alpha } = \frac { 2 } { \sqrt { 3 } } ( \cos ( \frac { \alpha \pi } { 3 } + \frac { \pi } { 6 } ) + w \sin \frac { \alpha \pi } { 3 } )
+KME2G3_2_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+98_jorge	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire009-equation053	\frac { 1 } { x ^ { 3 } } - \frac { 1 } { x ^ { 4 } } = \frac { 1 } { x ^ { 4 } } \times ( x - 1 )
+94_Frank	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+124_miguel	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+TrainData2_23_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+KME2G3_19_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+98_alfonso	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+MfrDB3412	\sum \limits _ { n = 1 } ^ { \infty } ( \frac { \sum \limits _ { i = 1 } ^ { n } a _ { i } } { n } ) ^ { p } < ( \frac { p } { p - 1 } ) ^ { p } \sum \limits _ { n = 1 } ^ { \infty } a _ { n } ^ { p }
+92_caue	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+92_edwin	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+formulaire027-equation037	d _ { 2 , - 1 } ^ { 2 } = - \frac { 1 - \cos \theta } { 2 } \sin \theta
+93_Frank	r ( r _ { 0 } \sin ( \theta - \theta _ { 0 } ) - r _ { 1 } \sin ( \theta - \theta _ { 1 } ) ) = r _ { 0 } r _ { 1 } \sin ( \theta _ { 1 } - \theta _ { 0 } )
+formulaire023-equation034	\lim \limits _ { x \rightarrow - \infty } \frac { f ( x ) } { x } = \pm \infty
+111_Frank	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+105_david	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+98_edwin	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+111_david	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+131_carlos	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+KME2G3_11_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire007-equation001	f ( x ) = \frac { x _ { b } - x } { x _ { b } - x _ { a } } y _ { a } + \frac { x - x _ { a } } { x _ { b } - x _ { a } } y _ { b }
+KME2G3_18_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+131_edwin	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+94_leo	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+94_Fabricio	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire011-equation019	a ^ { p } - b ^ { p } = ( a - b ) ( a ^ { p - 1 } + a ^ { p - 2 } b + \ldots + a b ^ { p - 2 } + b ^ { p - 1 } )
+111_hirata	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire010-equation032	\alpha _ { 1 } y _ { 1 } + \ldots + \alpha _ { i - 1 } y _ { i - 1 } + \alpha _ { i + 1 } y _ { i + 1 } + \ldots + \alpha _ { n + 1 } y _ { n + 1 }
+KME2G3_14_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire016-equation004	1 + \frac { h ^ { 2 } } { r ^ { 2 } } = \frac { 1 } { \sin ^ { 2 } \alpha }
+formulaire009-equation033	( \cos ( x ) + i \sin ( x ) ) ^ { n } = \cos ( n x ) + i \sin ( n x )
+TrainData2_24_sub_98	\lim \limits _ { x \rightarrow \frac { 1 } { 4 } } \frac { 1 - 4 ^ { x - \frac { 1 } { 4 } } } { 1 - 4 x }
+MfrDB1508	\sin \frac { \pi } { 4 } = \cos \frac { \pi } { 4 } = \frac { \sqrt { 2 } } { 2 }
+formulaire038-equation063	- 8 x ^ { 5 } - 8 x y ^ { 4 } - 6 x ^ { 3 } y ^ { 2 } - 4 8 x ^ { 3 } z ^ { 2 } - 5 2 x y ^ { 2 } z ^ { 2 } - 8 x z ^ { 4 }
+formulaire028-equation057	\lim \limits _ { x \rightarrow 1 } f ( x ) = \lim \limits _ { x \rightarrow 1 } \frac { x + 4 } { 2 x + 1 } = \frac { 5 } { 3 }
+formulaire009-equation067	x = \alpha _ { 1 } y _ { 1 } + \ldots + \alpha _ { i - 1 } y _ { i - 1 } + \alpha _ { i + 1 } y _ { i + 1 } + \ldots \alpha _ { x n + 1 } y _ { n + 1 }
+111_miguel	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+formulaire033-equation052	\frac { 1 } { 1 } + \frac { 1 } { 2 } + \frac { 1 } { 3 } + \ldots + \frac { 1 } { n }
+92_miguel	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+124_caue	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+131_maira	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+124_Fabricio	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+KME2G3_24_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+105_user0	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire013-equation027	\lim \limits _ { x \rightarrow 0 } \frac { e ^ { x } - 1 } { x } = 1
+formulaire029-equation057	a _ { 1 } \ldots a _ { g } b _ { 1 } \ldots b _ { g } a _ { 1 } ^ { - 1 } \ldots a _ { g } ^ { - 1 } b _ { 1 } ^ { - 1 } \ldots b _ { g } ^ { - 1 } = 1
+TrainData2_23_sub_51	\lim \limits _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty
+KME2G3_1_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+TrainData2_16_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+105_herbert	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+94_bruno	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+94_carlos	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+KME2G3_28_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire014-equation067	\sum \limits _ { k = 0 } ^ { m - 1 } k ^ { n } = 0 ^ { n } + 1 ^ { n } + 2 ^ { n } + \ldots + ( m - 1 ) ^ { n }
+105_carlos	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire024-equation053	\frac { 5 } { n } = \frac { 1 } { a } + \frac { 1 } { b } + \frac { 1 } { c }
+KME2G3_6_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+92_alfonso	y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w }
+formulaire019-equation058	\frac { 2 } { 1 5 } \times 7 \times \frac { 1 } { 1 1 } = \frac { 2 \times 7 } { 1 5 } \times \frac { 1 } { 1 1 }
+105_rosario	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+124_maira	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+98_silas	\cos \alpha = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } + c ^ { 2 } } }
+formulaire012-equation068	a _ { 5 } x ^ { 5 } + a _ { 4 } x ^ { 4 } + a _ { 3 } x ^ { 3 } + a _ { 2 } x ^ { 2 } + a _ { 1 } x ^ { 1 } + a _ { 0 } = 0
+formulaire017-equation053	- x _ { 0 } ^ { 2 } - x _ { 1 } ^ { 2 } + \sum \limits _ { i = 2 } ^ { n } x _ { i } ^ { 2 } = - \alpha ^ { 2 }
+105_lucelia	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire026-equation019	( x _ { 1 } , x _ { 2 } , x _ { 3 } , \ldots ) + ( y _ { 1 } , y _ { 2 } , y _ { 3 } , \ldots ) = ( x _ { 1 } + y _ { 1 } , x _ { 2 } + y _ { 2 } , x _ { 3 } + y _ { 3 } , \ldots )
+TrainData2_8_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+124_leo	\sum \limits _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+formulaire020-equation014	c _ { n } = \frac { 1 } { n } \sum \limits _ { k = 1 } ^ { n } a _ { k } = \frac { a _ { 1 } + \ldots + a _ { n } } { n }
+formulaire025-equation058	( x + 2 ) ( a x ^ { 2 } + b x + c ) = a x ^ { 3 } + ( 2 a + b ) x ^ { 2 } + ( 2 b + c ) x + 2 c = x ^ { 3 } - 5 x - 2
+KME2G3_0_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire023-equation007	t ( z ) = \frac { h _ { 3 } h _ { 1 } } { h _ { 3 } h _ { 0 } - h _ { 2 } h _ { 1 } } + \frac { h _ { 3 } ^ { 2 } } { h _ { 3 } h _ { 0 } - h _ { 2 } h _ { 1 } } z ^ { - 1 }
+formulaire009-equation068	\frac { x ^ { 2 } } { n _ { x } ^ { 2 } } + \frac { y ^ { 2 } } { n _ { y } ^ { 2 } } + \frac { z ^ { 2 } } { n _ { z } ^ { 2 } } = 1
+KME2G3_3_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+105_mijail	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+TrainData2_1_sub_13	\frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z }
+94_alfonso	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+KME2G3_26_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire013-equation024	z ( X ) = \sum \limits _ { i = 1 } ^ { n } x _ { i } p _ { i } + \sum \limits _ { i = 1 } ^ { n } \sum \limits _ { j = 1 } ^ { n } x _ { i } x _ { j } g _ { i j }
+formulaire005-equation062	\frac { 1 + \frac { 7 } { 9 } t ^ { 2 } + \frac { 6 4 } { 9 4 5 } t ^ { 4 } } { 1 + \frac { 1 0 } { 9 } t ^ { 2 } + \frac { 5 } { 2 1 } t ^ { 4 } }
+formulaire003-equation074	u _ { n + p } = a _ { 0 } u _ { n } + a _ { 1 } u _ { n + 1 } + \ldots + a _ { p - 1 } u _ { n + p - 1 }
+formulaire024-equation013	\frac { 3 } { 4 } = \frac { 3 \times 3 \times 3 \times 5 } { 4 \times 3 \times 3 \times 5 } = \frac { 1 3 5 } { 1 8 0 }
+105_Fabricio	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+105_hirata	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+105_caue	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+KME2G3_15_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire012-equation044	q ( x ) = x _ { 1 } ^ { 2 } + x _ { 2 } ^ { 2 } + x _ { 3 } ^ { 2 } - 2 x _ { 1 } x _ { 2 } - 2 x _ { 2 } x _ { 3 } - 2 x _ { 3 } x _ { 1 }
+105_leissi	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+105_miguel	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+KME2G3_22_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+105_leo	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+105_Frank	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+94_fujita	\frac { a } { \sin A } = \frac { b } { \sin B } = \frac { c } { \sin C }
+formulaire008-equation011	\frac { x ^ { 2 } + y ^ { 2 } } { a ^ { 2 } } - \frac { z ^ { 2 } } { c ^ { 2 } } - 1 = 0
+105_edwin	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire020-equation056	\frac { 1 } { 1 - x } = \sum \limits _ { i = 0 } ^ { n } x ^ { i } + \frac { x ^ { n + 1 } } { 1 - x }
+formulaire009-equation014	p = \frac { v _ { 0 } ^ { 2 } \sin ( 2 \alpha ) } { 2 a } + \sqrt { \frac { ( v _ { 0 } ^ { 2 } \sin ( 2 \alpha ) ) ^ { 2 } } { 4 a ^ { 2 } } + \frac { 2 z _ { 0 } ( v _ { 0 } \cos \alpha ) ^ { 2 } } { a } }
+formulaire006-equation024	\frac { \pi } { 4 } = 1 - \frac { 1 } { 3 } + \frac { 1 } { 5 } - \frac { 1 } { 7 } + \ldots + \frac { ( - 1 ) ^ { n } } { 2 n + 1 } + \ldots = \sum \limits _ { k = 0 } ^ { \infty } \frac { ( - 1 ) ^ { k } } { 2 k + 1 }
+formulaire025-equation003	\sum \limits _ { i = 1 } ^ { 6 } i ^ { 2 } = 1 ^ { 2 } + 2 ^ { 2 } + 3 ^ { 2 } + 4 ^ { 2 } + 5 ^ { 2 } + 6 ^ { 2 }
+KME2G3_5_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire023-equation069	f ( a i + b j + c k ) = \frac { 1 + i + j + k } { 2 } ( a i + b j + c k ) \frac { 1 - i - j - k } { 2 }
+formulaire023-equation031	y ^ { 2 } + a _ { 1 } y + a _ { 3 } = x ^ { 3 } + a - 2 x ^ { 2 } + a _ { 4 } x + a _ { 6 }
+formulaire032-equation014	\frac { \pi ^ { 2 } } { 8 } = \frac { 1 } { 1 ^ { 2 } } + \frac { 1 } { 3 ^ { 2 } } + \frac { 1 } { 5 ^ { 2 } } + \ldots + \frac { 1 } { ( 2 n + 1 ) ^ { 2 } } + \ldots = \sum \limits _ { k = 0 } ^ { \infty } \frac { 1 } { ( 2 k + 1 ) ^ { 2 } }
+KME2G3_10_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+KME2G3_8_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+KME2G3_21_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire030-equation023	\frac { 1 + \frac { 3 } { 5 } x + \frac { 3 } { 2 0 } x ^ { 2 } + \frac { 1 } { 6 0 } x ^ { 3 } } { 1 - \frac { 2 } { 5 } x + \frac { 1 } { 2 0 } x ^ { 2 } }
+105_alfonso	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+KME2G3_30_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+KME2G3_4_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire031-equation031	a _ { 6 } x ^ { 6 } + a _ { 5 } x ^ { 5 } + a _ { 4 } x ^ { 4 } + a _ { 3 } x ^ { 3 } + a _ { 2 } x ^ { 2 } + a _ { 1 } x + a _ { 0 } = 0
+105_fujita	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+KME2G3_25_sub_38	\frac { 2 } { \frac { 3 m - 2 n \times 9 ^ { n } - 9 ^ { m } } { 2 n - 1 } }
+formulaire008-equation034	- m \frac { v ^ { 2 } } { r } = - \frac { e ^ { 2 } } { r ^ { 2 } }
+formulaire014-equation037	\frac { 1 } { 1 + x } = 1 - x + x ^ { 2 } - x ^ { 3 } + \ldots + ( - 1 ) ^ { n } x ^ { n } + o ( x ^ { n } )
+formulaire026-equation049	j = - \frac { 1 } { 2 } + i \frac { \sqrt { 3 } } { 2 } = e ^ { i \frac { 2 \pi } { 3 } }
+formulaire029-equation062	a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \ldots + a _ { 1 } x ^ { 1 } + a _ { 0 } = 0
+formulaire013-equation038	\frac { 1 + \frac { 3 } { 4 } x + \frac { 1 } { 4 } x ^ { 2 } + \frac { 1 } { 2 4 } x ^ { 3 } } { 1 - \frac { 1 } { 4 } x }
+105_danilo	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+formulaire035-equation053	4 + \frac { 1 } { 2 + \frac { 1 } { 1 + \frac { 1 } { 3 + \frac { 1 } { 1 + \frac { 1 } { 2 } } } } } = \frac { 1 7 0 } { 3 9 }
+MfrDB3493	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+formulaire021-equation072	x = a _ { 0 } + \frac { 1 } { a _ { 1 } + \frac { 1 } { a _ { 2 } + \frac { 1 } { a _ { 3 } + \ldots } } }
+formulaire013-equation046	\frac { \sin x } { x } = \frac { \sin x - \sin 0 } { x - 0 }
+formulaire018-equation059	\alpha ^ { n } + a _ { n - 1 } \alpha ^ { n - 1 } + \ldots + a _ { 1 } \alpha + a _ { 0 } = 0
+formulaire027-equation007	x _ { 1 } ^ { 2 } + \ldots + x _ { i } ^ { 2 } - x _ { i + 1 } ^ { 2 } - \ldots - x _ { j } ^ { 2 } = x _ { n }

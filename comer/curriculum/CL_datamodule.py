@@ -160,7 +160,34 @@ def build_dataset(archive, folder: str, batch_size: int):
             data += extract_data(archive, folder)
     return data_iterator(data, batch_size)
 
+def build_curriculum_dataset(archive, folder: str, batch_size: int):
+    if folder == 'train':
+        simple_data = []
+        medium_data = []
+        hard_data = []
+        data = [simple_data, medium_data, hard_data]
+        captions = ['simple.txt','medium.txt','complex.txt']
+        for i in range(len(captions)):
+            data[i] = extract_data_train(archive, caption = captions[i])
+            data[i] = data_iterator(data[i], batch_size)
+    return data
 
+def extract_data_train(archive: ZipFile, caption) -> Data: # return data as follow: [(fname1, fea1, lab1), (fname2, fea2, lab2), ...]
+    with archive.open(f"classified_data/{caption}", "r") as f:
+        captions = f.readlines()
+    data = []
+    for line in captions:
+        tmp = line.decode().strip().split()
+        img_name = tmp[0]
+        formula = tmp[1:]
+        with archive.open(f"data/train/img/{img_name}.bmp", "r") as f:
+            # move image to memory immediately, avoid lazy loading, which will lead to None pointer error in loading
+            img = Image.open(f).copy()
+        data.append((img_name, img, formula))
+
+    print(f"Extract data from: {caption}, with data size: {len(data)}")
+
+    return data
 
 
 
@@ -190,8 +217,7 @@ class CL_CROHMEDatamodule(pl.LightningDataModule):
         with ZipFile(self.zipfile_path) as archive:
             if stage == "fit" or stage is None:
                 # Train_dataset
-                self.original_train_dataset = extract_data(archive, "train")
-                self.len_original_train_dataset = len(self.original_train_dataset)
+                self.original_train_dataset = build_curriculum_dataset(archive, 'train',  self.train_batch_size)
                 self.train_dataset = None
                 # Val_dataset
                 self.val_dataset = CROHMEDataset(

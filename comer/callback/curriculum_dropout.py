@@ -92,22 +92,15 @@ class CurriculumDropout(Callback):
     
     def _calculate_train_step(self, trainer, pl_module):
         if self.config.curriculum.learning.type == "Vanilla":
-            cl_start = int(self.config.curriculum.learning.start_percent*10)
-            # calculate total batch model will train in CL mode
+            # calculate total step model will train in CL mode
             origin_dataset = trainer.datamodule.original_train_dataset
-            cl_total_batch = 0
-            for i in range(cl_start, 11):
-                batch = len(data_iterator(
-                    data = origin_dataset[:int(len(origin_dataset)*i/10)],
-                    batch_size= self.config.data.train_batch_size
-                ))
-                cl_total_batch += batch
-            cl_total_step = cl_total_batch*self.pacing_epoch
-            
-            # calculate the rest of step in the rest of epoch
-            rest_epoch = self.config.trainer.max_epochs - (11-cl_start)*self.pacing_epoch
-            rest_step =  rest_epoch*batch
-            total_step = cl_total_step + rest_step
+            curriculum_step = 1
+            total_step = 0
+            for i in range(len(origin_dataset)):
+                batch = len(origin_dataset[i])
+                step = batch*self.config.curriculum.pacing_epoch*curriculum_step
+                total_step += step
+                curriculum_step *= 2
         else:
             origin_dataset = trainer.datamodule.train_dataset
             total_step = len(origin_dataset)*self.config.trainer.max_epochs

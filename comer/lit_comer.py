@@ -144,7 +144,7 @@ class LitCoMER(pl.LightningModule):
 
         reduce_scheduler = optim.lr_scheduler.CosineAnnealingWarmRestarts(
             optimizer,
-            T_0=10,  # Restart every 10 epochs
+            T_0=50,  # Restart every 50 epochs
             T_mult=2,  # Increase the period by a factor of 2 after each restart
         )
         scheduler = {

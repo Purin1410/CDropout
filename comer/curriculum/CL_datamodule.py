@@ -173,7 +173,7 @@ def build_curriculum_dataset(archive, folder: str, batch_size: int):
     return data
 
 def extract_data_train(archive: ZipFile, caption) -> Data: # return data as follow: [(fname1, fea1, lab1), (fname2, fea2, lab2), ...]
-    with archive.open(f"classified_data/{caption}", "r") as f:
+    with open(f"classified_data/{caption}", "r") as f:
         captions = f.readlines()
     data = []
     for line in captions:

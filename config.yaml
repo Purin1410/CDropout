@@ -64,6 +64,9 @@ curriculum:
   learning:
     type: "Vanilla"
     pacing_epoch: 50
+  blur:
+    sigma: 1.0
+
 
     
     

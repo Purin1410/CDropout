@@ -105,5 +105,6 @@ class CurriculumDropout(Callback):
             origin_dataset = trainer.datamodule.train_dataset
             total_step = len(origin_dataset)*self.config.trainer.max_epochs
         return total_step
-            
+
+        
             

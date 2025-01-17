@@ -2,10 +2,10 @@ import torch
 from pytorch_lightning.callbacks import Callback
 import torchvision.transforms.functional as F
 from torchvision.transforms import GaussianBlur
-
+from comer.callback.curriculum_dropout import _calculate_train_step
 
 class CurriculumInputBlur(Callback):
-    def __init__(self, sigma_init: float):
+    def __init__(self, config):
         """
         Callback for progressively reducing Gaussian blur on input images during training.
 
@@ -14,14 +14,28 @@ class CurriculumInputBlur(Callback):
             max_steps (int): Total steps over which to reduce the blur.
         """
         super().__init__()
-        self.sigma_init = sigma_init
+        self.config = config
+        self.sigma_init = self.config.curriculum.blur.sigma
         self.max_steps = 0
-        self.kernel_size = int(6*sigma_init + 1)
+        self.kernel_size = int(6*self.sigma_init + 1)
         
     def on_validation_start(self, trainer, pl_module):
-        origin_dataset = trainer.datamodule.train_dataset
-        self.max_steps = len(origin_dataset)*trainer.max_epochs
-        print("self.max_steps: ", self.max_steps)
+        if self.config.curriculum.learning.type != "Vanilla":
+            origin_dataset = trainer.datamodule.train_dataset
+            self.max_steps = len(origin_dataset)*trainer.max_epochs
+            print("self.max_steps: ", self.max_steps)
+        else:
+            origin_dataset = trainer.datamodule.original_train_dataset
+            curriculum_step = 1
+            total_step = 0
+            for i in range(len(origin_dataset)):
+                batch = len(origin_dataset[i])
+                step = batch*self.config.curriculum.pacing_epoch*curriculum_step
+                self.max_steps += step
+                curriculum_step *= 2
+            print("self.max_steps: ", self.max_steps)
+            
+            
     
     def on_train_batch_start(self, trainer, pl_module, batch, *args, **kwargs):
         """

@@ -55,7 +55,7 @@ def train(config):
 
     curriculum_dropout = CurriculumDropout(config = config)
     
-    gaussian_blur = CurriculumInputBlur(sigma_init = 1.0)
+    gaussian_blur = CurriculumInputBlur(config = config)
 
     local_dir = "/kaggle/working/CoMER_checkpoints"
     remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_310_VCL_DROPOUT"
@@ -63,7 +63,7 @@ def train(config):
         local_dir = local_dir,
         remote_dir = remote_dir)
     
-    # update_data = CurriculumUpdateData(config = config)
+    update_data = CurriculumUpdateData(config = config)
     
     skip_validation = SkipValidation(skip_val_epoch= 10)
     
@@ -81,6 +81,7 @@ def train(config):
                     r_clone_callback,
                     curriculum_dropout,
                     gaussian_blur,
+                    update_data,
                     skip_validation],
         default_root_dir=local_dir,
         resume_from_checkpoint=config.trainer.resume_from_checkpoint,

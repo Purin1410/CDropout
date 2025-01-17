@@ -29,7 +29,7 @@ class CurriculumDropout(Callback):
         self.total_step = 0
         self.slope = config.curriculum.dropout.slope
         self.total_batch = 0
-        self.pacing_epoch = config.curriculum.learning.pacing_epoch
+        self.pacing_epoch = self.config.curriculum.learning.pacing_epoch
         self.check_resume_checkpoint = bool(config.trainer.resume_from_checkpoint)
 
     def on_train_start(self, trainer, pl_module, *args, **kwargs):
@@ -98,7 +98,7 @@ class CurriculumDropout(Callback):
             total_step = 0
             for i in range(len(origin_dataset)):
                 batch = len(origin_dataset[i])
-                step = batch*self.config.curriculum.pacing_epoch*curriculum_step
+                step = batch*self.pacing_epoch*curriculum_step
                 total_step += step
                 curriculum_step *= 2
         else:

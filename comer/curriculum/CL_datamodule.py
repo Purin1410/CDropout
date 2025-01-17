@@ -160,16 +160,7 @@ def build_dataset(archive, folder: str, batch_size: int):
             data += extract_data(archive, folder)
     return data_iterator(data, batch_size)
 
-# def build_and_sort_dataset(archive, folder: str, batch_size: int, model = None):
-#     data = extract_data(archive, folder)
-#     key_loss = CalculateLoss(dataset = data, model = model)
-#     ignore_list = key_loss.ignore
-#     key_loss.calculate_all_samples_loss()
-#     key_loss = key_loss.sample_losses
-#     # delete ignore image and sort
-#     data = [item for item in data if item[0] not in ignore_list]
-#     data = sorted(data, key=lambda x: key_loss.get(x[0], float('inf')))
-#     return data_iterator(data, batch_size)
+
 
 
 

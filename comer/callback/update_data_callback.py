@@ -16,13 +16,13 @@ class CurriculumUpdateData(Callback):
         self.original_dataset = trainer.datamodule.original_train_dataset
         if self.config.trainer.resume_from_checkpoint is not None:
             self.step = self._update_step(trainer)
-        self._update_data(trainer)
+        self._update_data(trainer, pl_module)
             
     def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
         prev_step = self.step
         self.step = self._update_step(trainer)
         if prev_step != self.step:
-            self._update_data(trainer)
+            self._update_data(trainer, pl_module)
         trainer.logger.log_metrics({"Curriculum_step": self.step}, step=trainer.global_step)
         
     def _update_step(self, trainer):
@@ -33,7 +33,7 @@ class CurriculumUpdateData(Callback):
             step = 2
         return step
     
-    def _update_data(self,trainer):
+    def _update_data(self,trainer, pl_module):
         if self.step == 0:
             trainer.datamodule.train_dataset = CROHMEDataset(
                         self.original_dataset[self.step],
@@ -47,12 +47,14 @@ class CurriculumUpdateData(Callback):
                         True,
                         self.config.data.scale_aug,
                     )
+
         elif self.step == 2:
             trainer.datamodule.train_dataset = CROHMEDataset(
                         self.original_dataset,
                         True,
                         self.config.data.scale_aug,
                     )
+        trainer.reset_train_dataloader(model = pl_module)
         
     # def _update_data_percent(self, trainer, pl_module, data_percent):
     #     assert self.data_percent <= 1

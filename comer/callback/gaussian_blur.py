@@ -29,6 +29,7 @@ class CurriculumInputBlur(Callback):
                 origin_dataset = trainer.datamodule.original_train_dataset
                 curriculum_step = 1
                 step = 0
+                batch = 0
                 for i in range(len(origin_dataset)):
                     batch += len(origin_dataset[i])
                     step = batch*self.config.curriculum.learning.pacing_epoch*curriculum_step

@@ -17,6 +17,7 @@ class CurriculumInputBlur(Callback):
         self.sigma_init = self.config.curriculum.blur.sigma
         self.max_steps = 0
         self.kernel_size = int(6*self.sigma_init + 1)
+        self.global_step = 0
         
     def on_validation_start(self, trainer, pl_module):
         if self.config.curriculum.learning.type != "Vanilla":
@@ -26,7 +27,6 @@ class CurriculumInputBlur(Callback):
         else:
             origin_dataset = trainer.datamodule.original_train_dataset
             curriculum_step = 1
-            total_step = 0
             step = 0
             for i in range(len(origin_dataset)):
                 batch = len(origin_dataset[i])
@@ -42,7 +42,7 @@ class CurriculumInputBlur(Callback):
         """
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
-        current_step = 2*trainer.global_step
+        current_step = 2*self.global_step
         
         if current_step > self.max_steps:
             return 
@@ -50,6 +50,8 @@ class CurriculumInputBlur(Callback):
         current_sigma = max(self.sigma_init*(1 - current_step / self.max_steps), 0)
         
         trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
+
+        self.global_step += 1
 
         if current_sigma <= 0:
             return
@@ -66,6 +68,7 @@ class CurriculumInputBlur(Callback):
             F.gaussian_blur(img, kernel_size=self.kernel_size, sigma=current_sigma) for img in batch.imgs
         ]
         batch.imgs = torch.stack(blurred_imgs, dim=0)
+
         
         
     

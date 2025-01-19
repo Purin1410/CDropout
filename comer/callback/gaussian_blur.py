@@ -17,10 +17,10 @@ class CurriculumInputBlur(Callback):
         self.sigma_init = self.config.curriculum.blur.sigma
         self.max_steps = 0
         self.kernel_size = int(6*self.sigma_init + 1)
-        self.global_step = 0
+        self.resume_training  = bool(config.trainer.resume_from_checkpoint)
         
     def on_validation_start(self, trainer, pl_module):
-        if trainer.current_epoch == 0:
+        if trainer.current_epoch == 0 or self.resume_training:
             if self.config.curriculum.learning.type != "Vanilla":
                 origin_dataset = trainer.datamodule.train_dataset
                 self.max_steps = len(origin_dataset)*trainer.max_epochs
@@ -38,6 +38,7 @@ class CurriculumInputBlur(Callback):
                 step = 0
                 batch = 0
                 print("self.max_steps: ", self.max_steps)
+            self.resume_training = False
             
             
     
@@ -45,7 +46,7 @@ class CurriculumInputBlur(Callback):
         """
         Apply progressive Gaussian blur to input images at the start of each batch during training.
         """
-        current_step = 2*self.global_step
+        current_step = 2*trainer.global_step
         
         if current_step > self.max_steps:
             return 
@@ -53,8 +54,6 @@ class CurriculumInputBlur(Callback):
         current_sigma = max(self.sigma_init*(1 - current_step / self.max_steps), 0)
         
         trainer.logger.log_metrics({"sigma": current_sigma}, step=trainer.global_step)
-
-        self.global_step += 1
 
         if current_sigma <= 0:
             return

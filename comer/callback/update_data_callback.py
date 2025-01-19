@@ -49,7 +49,7 @@ class CurriculumUpdateData(Callback):
                     )
 
         elif self.step == 2:
-            data = self.original_dataset[self.step] + self.original_dataset[self.step - 1] + + self.original_dataset[self.step - 2]
+            data = self.original_dataset[self.step] + self.original_dataset[self.step - 1] + self.original_dataset[self.step - 2]
             trainer.datamodule.train_dataset = CROHMEDataset(
                         data,
                         True,

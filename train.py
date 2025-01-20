@@ -65,7 +65,7 @@ def train(config):
     
     update_data = CurriculumUpdateData(config = config)
     
-    skip_validation = SkipValidation(skip_val_epoch= 10)
+    skip_validation = SkipValidation(skip_val_epoch= 200)
     
     trainer = pl.Trainer(
         devices=config.trainer.gpus,

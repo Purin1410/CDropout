@@ -17,24 +17,28 @@ class CurriculumInputBlur(Callback):
         self.sigma_init = self.config.curriculum.blur.sigma
         self.max_steps = 0
         self.kernel_size = int(6*self.sigma_init + 1)
+        self.resume_training  = bool(config.trainer.resume_from_checkpoint)
         
     def on_validation_start(self, trainer, pl_module):
-        if self.config.curriculum.learning.type != "Vanilla":
-            origin_dataset = trainer.datamodule.train_dataset
-            self.max_steps = len(origin_dataset)*trainer.max_epochs
-            print("self.max_steps: ", self.max_steps)
-        else:
-            origin_dataset = trainer.datamodule.original_train_dataset
-            curriculum_step = 1
-            total_step = 0
-            step = 0
-            for i in range(len(origin_dataset)):
-                batch = len(origin_dataset[i])
-                step = batch*self.config.curriculum.learning.pacing_epoch*curriculum_step
-                self.max_steps += step
-                curriculum_step *= 2
-            step = 0
-            print("self.max_steps: ", self.max_steps)
+        if trainer.current_epoch == 0 or self.resume_training:
+            if self.config.curriculum.learning.type != "Vanilla":
+                origin_dataset = trainer.datamodule.train_dataset
+                self.max_steps = len(origin_dataset)*trainer.max_epochs
+                print("self.max_steps: ", self.max_steps)
+            else:
+                origin_dataset = trainer.datamodule.original_train_dataset
+                curriculum_step = 1
+                step = 0
+                batch = 0
+                for i in range(len(origin_dataset)):
+                    batch += len(origin_dataset[i])
+                    step = batch*self.config.curriculum.learning.pacing_epoch*curriculum_step
+                    self.max_steps += step
+                    curriculum_step *= 2
+                step = 0
+                batch = 0
+                print("self.max_steps: ", self.max_steps)
+            self.resume_training = False
             
             
     
@@ -66,6 +70,7 @@ class CurriculumInputBlur(Callback):
             F.gaussian_blur(img, kernel_size=self.kernel_size, sigma=current_sigma) for img in batch.imgs
         ]
         batch.imgs = torch.stack(blurred_imgs, dim=0)
+
         
         
     

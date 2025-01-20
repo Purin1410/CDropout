@@ -1,13 +1,11 @@
 import re
 from collections import defaultdict
 
-# Đọc file dictionary.txt để kiểm tra từ vựng hợp lệ
 def load_dictionary(dictionary_file):
     with open(dictionary_file, 'r', encoding='utf-8') as f:
         valid_tokens = set(line.strip() for line in f)
     return valid_tokens
 
-# Đọc file caption.txt
 def load_captions(caption_file):
     captions = []
     with open(caption_file, 'r', encoding='utf-8') as f:
@@ -16,7 +14,6 @@ def load_captions(caption_file):
             captions.append((image_name, label))
     return captions
 
-# Tính toán độ phức tạp của nhãn
 def calculate_complexity(label, valid_tokens):
     # Tiêu chí 1: Số lượng ký tự
     length = len(label.split())

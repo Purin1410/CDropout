@@ -147,12 +147,7 @@ def collate_fn(batch):
 
 
 def build_dataset(archive, folder: str, batch_size: int):
-    if folder != 'all':
-        data = extract_data(archive, folder)
-    else:
-        data = []
-        for folder in ['2014', '2016', '2019']:
-            data += extract_data(archive, folder)
+    data += extract_data(archive, folder)
     return data_iterator(data, batch_size)
 
 

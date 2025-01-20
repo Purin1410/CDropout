@@ -10,7 +10,7 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: 'D5_M5_F5_slope5{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: 'D5_M5_F5_slope5_{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu

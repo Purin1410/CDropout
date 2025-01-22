@@ -8,7 +8,7 @@ class SkipValidation(Callback):
     def on_validation_start(self, trainer, pl_module):
         if trainer.current_epoch < 190:
             trainer.check_val_every_n_epoch = 200
-        elif trainer.current_epoch >= 200 and trainer.current_epoch < 330:
+        elif trainer.current_epoch >= 190 and trainer.current_epoch < 330:
             trainer.check_val_every_n_epoch = 10
         else:
             trainer.check_val_every_n_epoch = 1
@@ -16,7 +16,7 @@ class SkipValidation(Callback):
     def on_train_start(self, trainer, pl_module):
         if trainer.current_epoch < 190:
             trainer.check_val_every_n_epoch = 200
-        elif trainer.current_epoch >= 200 and trainer.current_epoch < 330:
+        elif trainer.current_epoch >= 190 and trainer.current_epoch < 330:
             trainer.check_val_every_n_epoch = 10
         else:
             trainer.check_val_every_n_epoch = 1

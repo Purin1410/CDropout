@@ -49,23 +49,23 @@ class CurriculumDropout(Callback):
         
     def _update_dropout(self, trainer):
         dropout_map = {
-            "MHA": (self.mha_dropout_layer, self.mha_end_dropout),
-            "DenseNet": (self.densenet_dropout_layer, self.densenet_end_dropout),
-            "FFN": (self.ffn_dropout_layer, self.ffn_end_dropout),
+            "MHA": (self.mha_dropout_layer, self.mha_start_dropout, self.mha_end_dropout),
+            "DenseNet": (self.densenet_dropout_layer, self.densenet_start_dropout , self.densenet_end_dropout),
+            "FFN": (self.ffn_dropout_layer,self.ffn_start_dropout , self.ffn_end_dropout),
         }
         
         metrics = {}
-        for key, (dropout_layer_list, end_dropout) in dropout_map.items():
+        for key, (dropout_layer_list,start_dropout, end_dropout) in dropout_map.items():
             if getattr(self.config.curriculum.dropout, key.lower(), False):  # Check if enabled
-                current_dropout = self._dropout(trainer, end_dropout)
+                current_dropout = self._dropout(trainer,start_dropout, end_dropout)
                 self._update_dropout_layer(current_dropout, dropout_layer_list)
                 metrics[f"{key}_dropout"] = current_dropout
 
         trainer.logger.log_metrics(metrics, step=trainer.global_step)
 
         
-    def _dropout(self, trainer, end_dropout):
-        return (1 - (( end_dropout)*math.exp(-self.slope*trainer.global_step/self.total_step) + (1 - end_dropout)))
+    def _dropout(self, trainer,start_dropout, end_dropout):
+        return start_dropout + (end_dropout - start_dropout) * (1 - math.exp(-self.slope * trainer.global_step / self.total_step))
     
     def _update_dropout_layer(self,current_dropout, dropout_layer_list):
         for layer in dropout_layer_list:

@@ -1,4 +1,3 @@
-%%writefile /kaggle/working/CDropout/comer/callback/skip_validation.py
 from pytorch_lightning.callbacks import Callback
 
 class SkipValidation(Callback):

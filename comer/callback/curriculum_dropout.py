@@ -65,9 +65,19 @@ class CurriculumDropout(Callback):
 
         
     def _dropout(self, trainer,start_dropout, end_dropout):
+        if self.config.curriculum.dropout.type == 'sigmoid':
+            return start_dropout + (end_dropout - start_dropout) * (1 / (1 + math.exp(-self.slope * (trainer.global_step / self.total_step - 0.5))))
+        elif self.config.curriculum.dropout.type == 'exp':
+            return start_dropout + (end_dropout - start_dropout) * (math.exp(self.slope * trainer.global_step / self.total_step) - 1) / (math.exp(self.slope) - 1)
+        else:
+            return start_dropout + (end_dropout - start_dropout) * (1 - math.exp(-self.slope * trainer.global_step / self.total_step))
+            
+        # Sigmoid
         # return start_dropout + (end_dropout - start_dropout) * (1 / (1 + math.exp(-self.slope * (trainer.global_step / self.total_step - 0.5))))
+        # E**x
         # return start_dropout + (end_dropout - start_dropout) * (math.exp(self.slope * trainer.global_step / self.total_step) - 1) / (math.exp(self.slope) - 1)
-        return start_dropout + (end_dropout - start_dropout) * (1 - math.exp(-self.slope * trainer.global_step / self.total_step))
+        # Traditional
+        # return start_dropout + (end_dropout - start_dropout) * (1 - math.exp(-self.slope * trainer.global_step / self.total_step))
     
     def _update_dropout_layer(self,current_dropout, dropout_layer_list):
         for layer in dropout_layer_list:

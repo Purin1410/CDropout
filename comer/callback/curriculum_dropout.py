@@ -65,6 +65,8 @@ class CurriculumDropout(Callback):
 
         
     def _dropout(self, trainer,start_dropout, end_dropout):
+        # return start_dropout + (end_dropout - start_dropout) * (1 / (1 + math.exp(-self.slope * (trainer.global_step / self.total_step - 0.5))))
+        # return start_dropout + (end_dropout - start_dropout) * (math.exp(self.slope * trainer.global_step / self.total_step) - 1) / (math.exp(self.slope) - 1)
         return start_dropout + (end_dropout - start_dropout) * (1 - math.exp(-self.slope * trainer.global_step / self.total_step))
     
     def _update_dropout_layer(self,current_dropout, dropout_layer_list):

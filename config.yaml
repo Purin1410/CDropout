@@ -14,8 +14,8 @@ trainer:
   # gpus: 1
   gpus: 1
   accelerator: gpu
-  check_val_every_n_epoch: 5
-  max_epochs: 310
+  check_val_every_n_epoch: 2
+  max_epochs: 350
   deterministic: true
   resume_from_checkpoint: null
 model:

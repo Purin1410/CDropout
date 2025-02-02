@@ -19,7 +19,7 @@ class CurriculumUpdateData(Callback):
                 self.step = self._update_step(trainer)
             self._update_data(trainer, pl_module)
             
-    def on_epoch_end(self, trainer, pl_module, *args, **kwargs):
+    def on_epoch_start(self, trainer, pl_module, *args, **kwargs):
         prev_step = self.step
         self.step = self._update_step(trainer)
         if prev_step != self.step:

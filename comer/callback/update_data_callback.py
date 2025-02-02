@@ -27,7 +27,7 @@ class CurriculumUpdateData(Callback):
         
     def _update_step(self, trainer):
         step = 0
-        if trainer.current_epoch > self.pacing_epoch and trainer.current_epoch < 3*self.pacing_epoch:
+        if trainer.current_epoch >= self.pacing_epoch and trainer.current_epoch < 3*self.pacing_epoch:
             step = 1
         elif trainer.current_epoch >= 3*self.pacing_epoch:
             step = 2

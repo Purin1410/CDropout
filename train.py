@@ -15,6 +15,7 @@ from comer.callback.curriculum_dropout import CurriculumDropout
 from comer.curriculum.CL_datamodule import CL_CROHMEDatamodule
 import subprocess
 from comer.callback.update_data_callback import CurriculumUpdateData
+from comer.callback.skip_validation import SkipValidation
 from comer.callback.gaussian_blur import CurriculumInputBlur
 
 Type = ['Vanilla', 'Self-Paced','Self-Paced-CL']
@@ -64,6 +65,7 @@ def train(config):
     
     update_data = CurriculumUpdateData(config = config)
     
+    skip_validation = SkipValidation(skip_val_epoch= 200)
     
     trainer = pl.Trainer(
         devices=config.trainer.gpus,
@@ -79,7 +81,8 @@ def train(config):
                     r_clone_callback,
                     curriculum_dropout,
                     gaussian_blur,
-                    update_data],
+                    update_data,
+                    skip_validation],
         default_root_dir=local_dir,
         resume_from_checkpoint=config.trainer.resume_from_checkpoint,
     )

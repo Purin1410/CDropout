@@ -13,7 +13,7 @@ class CurriculumUpdateData(Callback):
         
         
     def on_validation_start(self, trainer, pl_module, *args, **kwargs):
-        if trainer.current_epoch == 0 or trainer.resume_from_checkpoint is not None:
+        if trainer.current_epoch == 0 or self.config.trainer.resume_from_checkpoint is not None:
             self.original_dataset = trainer.datamodule.original_train_dataset
             if self.config.trainer.resume_from_checkpoint is not None:
                 self.step = self._update_step(trainer)

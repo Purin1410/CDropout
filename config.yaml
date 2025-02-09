@@ -10,7 +10,7 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: 'D5_M5_F5_slope5_{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: 'FINAL_{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu
@@ -45,8 +45,8 @@ model:
 data:
   zipfile_path: data.zip
   test_year: 'all'
-  train_batch_size: 64
-  eval_batch_size: 32
+  train_batch_size: 8
+  eval_batch_size: 4
   num_workers: 4
   scale_aug: true
 curriculum:
@@ -55,13 +55,13 @@ curriculum:
     slope: 10 # from 1 to 10
     mha: true
     mha_start_dropout: 0.0
-    mha_end_dropout: 0.5
+    mha_end_dropout: 0.3
     ffn: true
     ffn_start_dropout: 0.0
-    ffn_end_dropout: 0.5
+    ffn_end_dropout: 0.3
     densenet: true
     densenet_start_dropout: 0.0
-    densenet_end_dropout: 0.5
+    densenet_end_dropout: 0.2
   learning:
     type: "Vanilla"
     pacing_epoch: 50

@@ -149,7 +149,6 @@ class LitCoMER(pl.LightningModule):
         )
         scheduler = {
             "scheduler": reduce_scheduler,
-            "monitor": "val_ExpRate",
             "interval": "epoch",
             "frequency": 1,
             "strict": True,

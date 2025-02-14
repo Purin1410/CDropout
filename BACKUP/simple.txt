@@ -511,7 +511,6 @@ formulaire022-equation041	f ( y )
 200922-949-128	T
 200923-1251-104	\sqrt { L }
 2009212-952-63	- X
-200922-949-52	\sqrt { \gamma }
 2009213-137-57	q
 200923-131-234	t
 200922-947-107	\sqrt { j }
@@ -659,7 +658,6 @@ MfrDB0912	\sqrt { 5 }
 200923-1556-124	6 . 8
 200923-1254-315	3 . 3
 200925-1126-159	[ N ]
-200923-1251-238	\sqrt { \alpha }
 2009213-139-23	( 2 )
 200924-1312-134	9 j
 200925-1126-94	4 . 6
@@ -798,10 +796,8 @@ formulaire028-equation008	f ^ { - 1 }
 200923-1253-168	Y
 200922-1017-10	p _ { c }
 200923-131-186	7
-200926-1617-218	\sum \theta
 200926-131-197	8 4
 200923-1556-237	( x )
-2009213-137-237	\sum \phi
 200925-1126-34	3 . 2
 200923-1253-39	5 . 6
 2009213-139-40	7 7 . 1
@@ -859,7 +855,6 @@ MfrDB2272	\sqrt [ 5 ] { 5 5 }
 200926-1550-70	[ Y ]
 2009212-952-45	B o S
 formulaire012-equation063	f ( z )
-formulaire030-equation071	\alpha \beta 0
 formulaire037-equation032	\theta ( t )
 200923-1553-45	9 . 0
 formulaire023-equation054	p ( b )
@@ -875,7 +870,6 @@ MfrDB1666	\sqrt [ 5 ] { 5 5 }
 200923-1251-185	d ( A )
 200923-1251-112	y - b
 formulaire026-equation039	p ( t )
-200923-1253-181	\sum \mu
 200923-131-100	2 G
 200922-949-59	( \sqrt { 3 } )
 200924-1312-167	( [ 1 ] )
@@ -937,7 +931,6 @@ formulaire011-equation069	a ( l )
 200923-1553-220	T
 formulaire005-equation003	f = g
 2009213-137-129	\sum v
-200922-949-82	\sqrt { \alpha }
 200923-1253-236	[ A _ { g } ]
 200922-949-9	- N V
 200924-1331-252	m d
@@ -948,7 +941,6 @@ formulaire029-equation073	y = z
 200923-131-235	\pi
 MfrDB0137	x ^ { 2 }
 2009212-1031-151	\sum o
-2009210-947-199	\sqrt { \sqrt { y } }
 200924-1331-151	Y
 200923-1556-248	1 0 . 6
 200923-1556-155	0 . 4
@@ -994,7 +986,6 @@ formulaire001-equation051	\beta ( s )
 200926-131-129	H = o
 2009210-947-189	a c
 200924-1312-155	w X
-200924-1331-115	\sum \alpha
 200923-1553-172	( \sum b )
 200924-1331-118	e ^ { q }
 5_em_30	\{ c _ { s } \}
@@ -1056,7 +1047,6 @@ formulaire036-equation032	X _ { p + 1 }
 200922-947-170	\sum N
 200923-1553-165	( d ^ { w } )
 200926-1550-63	L + V
-200922-1017-140	\sqrt { \frac { c } { N } }
 200924-1312-93	y o
 2009210-947-115	- l T
 2009210-947-206	t _ { X }
@@ -1118,7 +1108,6 @@ formulaire022-equation023	y ( z )
 200923-1253-250	i
 formulaire030-equation063	Y _ { 3 } ^ { 2 }
 200923-1253-286	9 . 4 3
-formulaire013-equation006	\int \limits _ { a } ^ { b } f
 2009210-947-124	( B _ { E } ) ^ { j }
 200923-1251-71	- H
 200923-1556-65	\beta r
@@ -1139,9 +1128,7 @@ formulaire015-equation011	\gamma _ { 1 3 }
 MfrDB1754	\sqrt [ 5 ] { 5 5 }
 200923-131-107	\pi
 200922-949-168	\sigma = 6
-200926-1617-27	\sqrt { V } ^ { \beta }
 2009213-137-177	\sum P
-200922-947-27	\sum \mu
 200923-131-133	q ( I )
 200923-1253-182	[ \sqrt { c } ]
 formulaire027-equation029	s ( t )
@@ -1193,7 +1180,6 @@ MfrDB0002	2 + 3
 200925-1126-183	3 4 . 8
 200923-1254-102	q + \phi
 formulaire035-equation017	t _ { i k }
-200923-1556-157	\sqrt { \pi }
 200923-1253-71	3 S
 200925-1126-124	\sqrt { H _ { u } }
 200924-1312-112	- f ^ { w }
@@ -1226,7 +1212,6 @@ formulaire022-equation049	p o \beta
 formulaire005-equation038	2 ^ { 6 9 }
 200924-1312-241	X ^ { Y }
 MfrDB0992	1 + 6
-200923-1556-101	[ \sigma ^ { \gamma } ]
 formulaire038-equation048	c _ { 0 } ( f )
 MfrDB2384	x - 3
 200923-131-291	\sum n
@@ -1249,7 +1234,6 @@ formulaire019-equation048	\gamma _ { 1 4 }
 formulaire036-equation054	s p _ { t }
 200926-1617-121	i
 2009210-947-195	4 8 6 2
-formulaire014-equation011	\beta \sqrt { n }
 formulaire021-equation067	p ( z )
 200924-1331-242	( \int h d z )
 200922-947-46	( \int t d d )
@@ -1263,7 +1247,6 @@ formulaire037-equation054	q ( t )
 200924-1312-281	\sqrt { z - f }
 MfrDB1812	\sqrt [ 5 ] { 5 5 }
 2009212-952-81	4 P _ { t }
-formulaire004-equation011	\frac { \sqrt { 3 } } { 4 }
 200923-131-124	v _ { i }
 formulaire031-equation028	c ( s )
 200923-1251-81	2 . 8
@@ -1296,7 +1279,6 @@ formulaire003-equation013	2 ^ { 1 7 }
 formulaire023-equation018	\frac { a } { b }
 200924-1312-124	- f \sqrt { M }
 200923-1254-144	- \sqrt { 0 }
-2009212-1031-43	\sin \gamma
 200926-1550-135	Y \sum B
 formulaire031-equation042	X _ { i j }
 200923-131-46	t i
@@ -1311,13 +1293,10 @@ MfrDB0603	2 + 2
 200923-1253-148	( z ( w ) )
 2009212-1031-88	m _ { N }
 200922-947-180	\pi ( p )
-9_em_71	T _ { \mu } ^ { \mu }
 200923-1251-135	\sum E
 formulaire033-equation031	y ^ { - 1 }
 MfrDB2045	\sqrt [ 5 ] { 5 5 }
-11_em_99	P ^ { \mu } P _ { \mu }
 200923-1251-232	6 . 5
-formulaire015-equation016	\alpha \sqrt { n }
 200923-1253-174	x d _ { n }
 200926-1550-94	\mu _ { b X }
 200923-1254-199	( l ) = ( \lambda )
@@ -1345,7 +1324,6 @@ MfrDB0637	x ^ { 2 }
 200924-1312-118	[ Y - f ]
 2009213-139-185	( N ^ { L } )
 200923-1553-142	( \sqrt { H } )
-200924-1331-261	\log \phi
 200926-1617-191	c _ { f }
 200922-949-123	- \sum r
 2009220-1327-95	- \sum g
@@ -1358,7 +1336,6 @@ formulaire037-equation036	1 6 ^ { 5 }
 200923-1251-225	0 . 4
 200922-947-194	- F - 2
 2009212-1031-16	\sin 5
-200923-131-253	\sum \sqrt { x }
 formulaire016-equation026	f ^ { - 1 } ( 1 )
 200924-1331-178	- ( v )
 200923-1251-149	2 . 6
@@ -1380,10 +1357,7 @@ MfrDB0119	1 ^ { 2 } + 3
 formulaire004-equation029	( p , l )
 formulaire013-equation018	f _ { n + 1 }
 200923-131-202	F l _ { X }
-200924-1312-183	\sqrt { \sum V }
 MfrDB0216	1 + 1
-MfrDB1808	( a ) ^ { - 1 } - 1
-MfrDB3902	( a ) ^ { - 1 } - 1
 200922-1017-176	( 4 . 8 )
 formulaire020-equation018	a b c d
 200922-949-85	2 . 9
@@ -1403,14 +1377,12 @@ formulaire015-equation007	\alpha _ { 1 1 }
 200924-1331-244	( B ) ^ { \mu }
 200923-131-257	S - p
 formulaire028-equation031	2 ^ { 6 4 }
-200923-1251-243	\sqrt { \sqrt { q } ^ { p } }
 formulaire027-equation063	c _ { 1 2 }
 200923-1251-148	y + ( T )
 2009213-137-226	\cos m
 MfrDB2769	\cos x
 200926-131-210	v _ { a } \Delta
 200924-1331-144	\sqrt { [ P ] }
-2009213-137-88	\sqrt { B } ^ { \phi }
 2009210-947-157	[ \sum x ]
 200926-1550-119	[ x _ { i } ]
 200923-1254-100	T C
@@ -1424,7 +1396,6 @@ formulaire039-equation043	( a _ { i } )
 formulaire015-equation058	x = 1
 200926-1550-81	f + L V
 200926-1550-162	X \geq 7
-200926-131-133	\sigma ( \sqrt { \beta } )
 200923-1251-114	r ( ( \sum F ) )
 200922-1017-52	1 . 4 0
 200923-1253-177	\int 9 d B
@@ -1440,9 +1411,7 @@ formulaire032-equation049	\frac { p } { 2 }
 200923-131-141	t F L
 2009213-137-53	R ( s ^ { q } )
 2009213-139-195	L + v
-200922-949-254	\int \sigma d g
 2009212-1031-68	\sqrt { y } ^ { y }
-MfrDB1546	( a ) ^ { - 1 } - 1
 200923-1254-115	S _ { d } ( E )
 9_em_77	H \in P
 200922-1017-106	6 - [ E ]
@@ -1455,13 +1424,10 @@ formulaire010-equation054	( j , k )
 formulaire021-equation073	( r _ { 2 } ^ { n } )
 2009220-1327-104	\sqrt { X }
 MfrDB1434	\sqrt [ 5 ] { 5 5 }
-200923-1553-85	\log \Delta
 200923-1251-99	Y - S _ { C }
 MfrDB1079	1 + 1 = 2
-2009213-137-156	\sqrt { \mu + 6 }
 2009212-952-112	( 9 - 0 )
 200923-131-159	[ P _ { I } ]
-200923-1253-197	o ( \sum \gamma )
 200922-947-57	R ( V ) ^ { m }
 200922-949-255	w \sum P
 formulaire012-equation017	( 1 - j )
@@ -1473,7 +1439,6 @@ formulaire032-equation017	i _ { 1 } ( t )
 MfrDB1799	\sqrt [ 5 ] { 5 5 }
 200922-949-121	\alpha _ { z }
 formulaire010-equation021	( a ^ { b } ) ^ { c }
-200922-947-35	\sqrt { \lambda ^ { A } }
 200923-1251-146	\frac { r } { P }
 200923-1254-57	g - ( \theta )
 200926-131-104	0 . 5
@@ -1481,18 +1446,15 @@ formulaire010-equation021	( a ^ { b } ) ^ { c }
 200924-1312-210	\sum b
 2009212-1031-47	E
 2009212-952-117	\cdots + s
-200924-1331-226	\theta ^ { \infty } ( n )
 formulaire015-equation001	c = 1 3
 200924-1331-205	i
 200923-1553-263	\sum q - 2
-200926-131-58	y - \sum \phi
 200922-947-207	- g m
 formulaire034-equation012	1 0 ^ { m }
 2009220-1327-27	- h ( i )
 200922-949-262	n ^ { B }
 MfrDB3491	( 1 2 - x ) ^ { 2 }
 MfrDB1436	\sqrt [ 5 ] { 5 5 }
-200925-1126-40	\sqrt { V } ^ { \phi }
 200922-947-70	[ G ] ^ { 0 }
 MfrDB0692	4 + 3
 formulaire023-equation017	p _ { 2 } ( s )
@@ -1501,7 +1463,6 @@ MfrDB2811	x ^ { 2 } + 1
 formulaire020-equation053	1 0 ^ { 1 2 }
 200926-1617-231	- f ( X )
 200922-949-251	\int C d s
-200926-131-246	8 \Delta \sum a
 200924-1312-255	u T
 2009213-137-118	z B _ { B }
 MfrDB0464	1 + 1
@@ -1524,7 +1485,6 @@ MfrDB0731	x ^ { 2 }
 200923-1251-259	E A c
 formulaire022-equation064	( 5 , 7 )
 MfrDB1045	2 + 3
-200925-1126-138	\cdots + \gamma
 formulaire020-equation068	y = 0
 MfrDB0922	2 + 2
 200923-1251-74	e _ { f _ { g _ { h } } }
@@ -1537,7 +1497,6 @@ MfrDB0922	2 + 2
 formulaire029-equation021	( \gamma _ { n } )
 200923-1254-34	- l
 200925-1126-189	\sqrt { 3 } ^ { H }
-2009212-1031-131	y \leq \sum j
 formulaire029-equation052	a ( u )
 200923-1556-179	- \sum 0
 200926-1617-76	- \int C d V
@@ -1554,10 +1513,8 @@ MfrDB1545	( 1 2 - x ) ^ { 2 }
 200922-949-105	\tan 9
 127_edwin	n ! - 1
 200922-947-116	X 5 . 7
-formulaire015-equation056	\theta = \phi
 200923-131-344	Y + e
 200923-1253-241	- q - z
-2009210-947-192	z ^ { \Delta } \mu
 MfrDB2773	\sin x
 2009213-137-227	f + [ F ]
 200923-1251-76	V + V _ { b }
@@ -1574,8 +1531,6 @@ formulaire022-equation053	\frac { f _ { 2 } } { g _ { 2 } }
 formulaire033-equation057	q \neq 1
 200923-1254-284	\mu _ { p j }
 127_david	n ! - 1
-formulaire007-equation007	( \theta , \phi )
-2009212-952-22	\cdots - \sum T
 2009212-1031-136	\int S ^ { t } d C
 formulaire019-equation004	( 0 , 0 )
 MfrDB1229	\sqrt [ 5 ] { 5 5 }
@@ -1589,7 +1544,6 @@ MfrDB0972	2 \times 2
 formulaire016-equation064	j = s
 2009213-137-87	e ^ { \sqrt { g } } ( L )
 200923-131-320	G - 3
-2009213-137-151	\int 3 . 1 d \alpha
 formulaire026-equation069	( X , p )
 200923-1556-161	\sqrt { H Y }
 MfrDB1778	3 ^ { 2 } - 1 = 8
@@ -1597,7 +1551,6 @@ MfrDB1778	3 ^ { 2 } - 1 = 8
 200924-1312-64	8 . 5
 2009212-952-4	j - o
 200926-1617-135	0 . 7
-9_em_76	\phi \in S
 200923-1254-256	o ( a C )
 200923-1553-82	3 . 4 \beta
 200926-1617-105	9 . 2 R _ { \beta }
@@ -1642,7 +1595,6 @@ formulaire017-equation013	y _ { 1 } ( x )
 200923-1556-215	- \sum N
 200922-1017-177	\sum T
 200924-1312-266	j ( \sum i )
-MfrDB1789	( a ) ^ { - 1 } - 1
 formulaire012-equation001	\beta ( x )
 MfrDB0533	2 + 2
 2009213-137-127	l _ { d _ { A } }
@@ -1654,7 +1606,6 @@ MfrDB2048	\sin x ^ { 2 }
 formulaire030-equation011	1 0 ^ { 3 }
 200926-1550-108	M < 4 8
 formulaire039-equation056	2 \pi f
-200923-1553-74	\theta < \sqrt { z }
 200926-1617-118	H - \sum n
 MfrDB0328	4 + 2
 2009213-139-74	e _ { f _ { g _ { h } } }
@@ -1678,7 +1629,6 @@ formulaire014-equation073	1 0 ^ { 4 6 }
 formulaire015-equation021	( k - 1 ) \theta
 200926-1617-69	y ^ { o _ { \mu } }
 formulaire028-equation047	v ^ { ( 0 ) }
-formulaire039-equation028	\pm \sqrt { - 1 }
 2009213-139-17	- \int A d V
 formulaire030-equation022	m _ { g } d _ { g }
 MfrDB0587	4 + 4
@@ -1702,7 +1652,6 @@ formulaire030-equation039	e _ { i } ( t )
 2009212-1031-129	F _ { C }
 formulaire015-equation064	p _ { X } ( x )
 MfrDB0686	2 + 3 = 5
-200926-131-76	- \lambda \sum B
 200923-1254-138	e + ( P )
 200923-1254-146	x > X q
 200923-1553-257	\sqrt { b - V }
@@ -1720,11 +1669,9 @@ formulaire032-equation056	1 0 ^ { 3 2 }
 formulaire005-equation056	x - n
 200923-1254-208	\frac { y } { q }
 200922-947-88	\sin L
-2009213-137-219	M - q = - \sigma
 MfrDB1142	1 + 1 = 2
 200923-131-22	M - F
 200922-947-222	9 . 8 u
-formulaire022-equation001	\gamma ^ { - 1 }
 200922-949-216	\cos 3
 MfrDB0532	x = 5 + 1
 formulaire022-equation047	( Y , d _ { Y } )
@@ -1732,9 +1679,7 @@ formulaire022-equation047	( Y , d _ { Y } )
 200923-1553-57	5 . 3
 formulaire015-equation006	1 0 ^ { 1 5 }
 200925-1126-29	w ^ { b }
-MfrDB1825	( a ) ^ { - 1 } - 1
 200926-1550-76	u _ { c _ { \mu } }
-200923-1553-155	\int l ^ { B } d \beta
 formulaire005-equation026	( n + 3 )
 MfrDB3901	( 1 2 - x ) ^ { 2 }
 200923-1254-103	q ( F )
@@ -1748,7 +1693,6 @@ MfrDB1200	Y = A X ^ { 2 }
 200926-131-218	j
 formulaire026-equation018	\sqrt { 2 } - 1
 2009213-137-193	e _ { j _ { X } }
-MfrDB2588	( a ) ^ { - 1 } - 1
 MfrDB0944	1 + 1 = 2
 MfrDB1807	( 1 2 - x ) ^ { 2 }
 2009210-947-131	S i A _ { \sigma }
@@ -1756,7 +1700,6 @@ MfrDB1807	( 1 2 - x ) ^ { 2 }
 formulaire001-equation047	( c , d )
 formulaire020-equation011	7 \times 7 3
 2009210-947-126	i _ { e _ { V } }
-2009213-139-95	\gamma ^ { \sqrt { v } }
 2009210-947-211	\sum j - f
 200926-1617-108	3 7 . 4
 MfrDB1671	3 ^ { 2 } - 1 = 8
@@ -1765,11 +1708,9 @@ MfrDB1671	3 ^ { 2 } - 1 = 8
 200923-1253-171	\sqrt { o - 0 }
 MfrDB2263	2 ^ { 2 } / 3
 200923-1251-275	f ^ { P - 5 }
-200923-1556-244	( \sqrt { i } ) ^ { - M }
 200924-1331-141	( t ) ^ { l } ( I )
 200922-947-110	j _ { X } - ( \phi )
 200924-1331-78	- a
-200926-1617-145	\frac { l } { \beta }
 2009210-947-15	k _ { I }
 200925-1126-107	- \int V d t
 formulaire012-equation007	p _ { n } ( z )
@@ -1778,8 +1719,6 @@ formulaire012-equation007	p _ { n } ( z )
 formulaire037-equation064	h _ { z _ { i } }
 200923-1253-140	e + ( h )
 200924-1331-204	\sqrt { 5 . 1 }
-200923-1253-231	\frac { \sqrt { V } } { h }
-7_em_59	\forall g \in G
 formulaire009-equation032	x _ { l b }
 MfrDB0332	1 + 1 = 2
 200924-1331-200	6 \int N _ { u } d A
@@ -1789,10 +1728,8 @@ MfrDB0332	1 + 1 = 2
 200926-131-10	- \sigma E z
 200926-1617-70	[ A + H ]
 formulaire035-equation069	\beta _ { m } ^ { 2 }
-200924-1331-23	- \alpha + k
 200922-949-144	6 . 1 \sum e
 200924-1331-199	\sqrt { A _ { z } 6 . 5 }
-200923-1253-193	\int \gamma ^ { f } d m
 MfrDB0724	1 + 1 = 3
 200922-1017-143	\cos 2
 formulaire003-equation003	( 2 - 1 )
@@ -1804,7 +1741,6 @@ formulaire030-equation041	\frac { a } { 4 }
 MfrDB1674	1 2 - x ^ { 2 }
 formulaire003-equation051	- 2 x
 200924-1331-234	\sqrt { v - q }
-2009213-137-141	\sqrt { \tan B }
 127_Frank	n ! - 1
 formulaire037-equation061	\phi _ { c } ( n )
 2009213-139-22	( m ) ^ { \phi }
@@ -1812,36 +1748,22 @@ formulaire031-equation023	\frac { a b } { 2 }
 200926-131-224	j _ { k }
 formulaire029-equation041	b _ { 1 5 }
 formulaire016-equation006	r _ { i } ( s )
-formulaire032-equation036	\frac { \sqrt { 0 } } { 2 }
-formulaire008-equation067	\alpha , \gamma
 200926-1617-225	I
-MfrDB1676	( a ) ^ { - 1 } - 1
-200924-1312-175	\frac { \phi } { 5 }
-MfrDB3409	( a ) ^ { - 1 } - 1
 200926-1617-228	3 3 . 5
-formulaire004-equation013	\theta + \pi
 formulaire028-equation029	h _ { i j }
 formulaire031-equation001	1 = 1 ^ { 2 }
-200922-949-217	\cdots - \sqrt { l }
 formulaire025-equation027	m = - 1
-200923-1253-246	\cdots - \lambda
 200922-947-3	\log v
 2009213-137-116	\sqrt { w + v }
-200926-131-112	\sqrt { c + \sqrt { b } }
 formulaire025-equation021	\frac { f _ { 1 } } { g _ { 1 } }
 MfrDB0435	1 - 3
 200924-1331-233	x \geq r
 2009213-139-118	\sqrt { M }
 formulaire007-equation043	X _ { 0 } ^ { i }
-MfrDB1238	( a ) ^ { - 1 } - 1
-formulaire029-equation064	\frac { d \theta } { d t }
 MfrDB3397	3 ^ { 2 } - 1 = 8
 formulaire013-equation028	2 ^ { 1 0 }
-MfrDB3488	( a ) ^ { - 1 } - 1
 200923-1254-16	- \int t d l
-200923-1251-255	( E ) ^ { h - j } \phi
 formulaire009-equation012	u \neq 0
-formulaire010-equation072	\cos ( \alpha )
 200923-1254-245	[ - \sigma ]
 200923-1251-220	8 3 9 . 2 E
 MfrDB2559	\sin n
@@ -1852,30 +1774,24 @@ formulaire020-equation048	( n \times n )
 formulaire003-equation031	2 ^ { 1 8 }
 10_em_89	T \in E
 formulaire005-equation037	3 ^ { p - 1 }
-200923-1253-176	\cdots - \sum i
 200923-1553-306	\sum G + B
 200923-1556-243	\theta + t
 formulaire031-equation062	( 1 + t ) ^ { n }
 formulaire031-equation057	( p , r )
-2009212-1031-139	\cdots - \sum j
 formulaire022-equation026	Y _ { 1 } ^ { ( n ) }
 formulaire011-equation004	f ( 0 , y )
 MfrDB0524	a = 1 + 2
 200923-1254-311	\frac { B } { c }
-formulaire013-equation017	\alpha , \beta
 formulaire017-equation003	\theta ^ { ( 0 ) }
 200923-131-111	\sum s - k
 2009212-1031-96	Y - \sum e
-MfrDB1803	V = a \cdot b \cdot c
 formulaire003-equation061	2 k \pi
 MfrDB1675	( 1 2 - x ) ^ { 2 }
 2009220-1327-120	n ( p N )
 formulaire032-equation054	p _ { h } - p
 formulaire003-equation041	X _ { n + k }
 200925-1126-131	\sqrt { b + f }
-2009210-947-162	\int s _ { \sigma } d z
 formulaire036-equation058	c = \sqrt { 2 }
-formulaire004-equation003	\theta _ { 2 } = \theta
 200923-1254-238	\sum M
 MfrDB1076	3 + 3 = 6
 200923-1254-327	Y + e
@@ -1907,7 +1823,6 @@ formulaire028-equation044	d ^ { 3 } u
 200922-949-107	\int T c d P
 formulaire023-equation002	( i , j )
 200924-1331-46	R _ { T } c
-200922-949-72	\sqrt { n - \gamma }
 formulaire022-equation061	\beta _ { n + 1 }
 formulaire033-equation006	\theta _ { 1 } ( r )
 formulaire024-equation054	( n , e )
@@ -1917,7 +1832,6 @@ formulaire024-equation054	( n , e )
 200923-1556-220	- q l
 formulaire038-equation043	f ^ { ( k ) } ( 0 )
 MfrDB0807	e = m c ^ { 2 }
-200923-1251-248	- u - \sqrt { e }
 formulaire015-equation022	f _ { j } ( e _ { i } )
 formulaire039-equation072	w ^ { 2 } ( z )
 formulaire024-equation036	1 0 ^ { 7 }
@@ -1927,7 +1841,6 @@ formulaire016-equation042	c _ { p d }
 200926-131-21	5 0 . 5 6 2
 200923-1254-347	\log g
 200923-1556-5	\sqrt { n + f }
-200922-949-214	\frac { \sum l } { s }
 2009213-139-71	f ^ { k } ( w )
 200924-1331-11	[ \int u d c ]
 200923-1253-23	r ^ { V w }
@@ -1937,7 +1850,6 @@ formulaire036-equation038	\frac { 1 } { g }
 200922-949-175	\tan s
 200923-1254-190	5 \sum i
 200922-947-178	\cos 2
-200926-1550-35	- \int \Delta d c
 formulaire002-equation004	v = 1
 200923-131-148	z + P
 200924-1312-120	- F + G
@@ -1945,7 +1857,6 @@ formulaire002-equation004	v = 1
 200926-1617-187	- v
 MfrDB0525	4 + 3
 200923-1253-146	1 + G ^ { g }
-200923-1253-167	\sqrt { \int \sqrt { n } d L }
 2009212-1031-27	- \frac { y } { e }
 formulaire031-equation059	( q _ { i } , p _ { i } )
 formulaire018-equation067	t = 1 8
@@ -1953,7 +1864,6 @@ formulaire009-equation038	c ( \pi )
 formulaire005-equation047	g = 9 , 8 1
 200923-1556-168	a f _ { Y }
 MfrDB0285	2 + 2 ^ { 2 }
-formulaire034-equation068	\cos ( \beta )
 2009210-947-33	\sqrt { z + V }
 MfrDB1367	1 + 1
 200923-131-326	c + z _ { q }
@@ -1965,11 +1875,8 @@ MfrDB1367	1 + 1
 200926-1550-125	n ^ { z - R }
 formulaire003-equation043	b = \sqrt { 2 }
 formulaire039-equation044	n m ^ { 2 }
-200923-1254-77	\sqrt { X - j - a }
-200923-1556-226	\cdots + C \theta
 200923-131-231	\sum v + f
 formulaire013-equation023	2 e _ { 1 }
-MfrDB2366	\frac { 3 } { \pi }
 formulaire012-equation056	c - a
 formulaire038-equation013	1 0 ^ { 2 0 }
 formulaire039-equation013	2 ^ { 1 7 7 }
@@ -1977,25 +1884,18 @@ formulaire039-equation013	2 ^ { 1 7 7 }
 formulaire015-equation069	\phi ( x , y )
 MfrDB1552	5 0 ! \cdot n = 4 8 !
 formulaire038-equation007	( n , 1 )
-200922-1017-180	\beta \leq P
-10_em_87	\sigma \in X
 MfrDB1001	c = 1 0
-formulaire035-equation031	\frac { 4 \pi } { 7 }
 formulaire030-equation009	h ( y ) = 1
 formulaire001-equation007	( n , 0 )
-formulaire005-equation021	\frac { \beta } { \alpha - 1 }
 MfrDB0982	i ^ { 2 } = x
 MfrDB0861	1 + 1 = 2
 formulaire030-equation052	q \times p
 2009220-1327-99	\sqrt { X + 7 }
-2009213-137-93	\sin ^ { \gamma } 7
 formulaire023-equation011	X - 2
-200923-1556-136	T \int \Delta d l
 formulaire022-equation073	a _ { n - 2 }
 MfrDB0266	f = a ^ { 2 }
 MfrDB1895	5 0 ! \cdot n = 4 8 !
 MfrDB0866	x = 1 3
-200926-131-217	\sqrt { \lambda - h }
 2009213-137-223	t \int r d L
 200923-1556-198	r - x
 200923-1553-41	\frac { 9 } { e }
@@ -2004,22 +1904,18 @@ MfrDB0945	1 = 2 - 1
 formulaire037-equation042	v _ { 1 4 }
 formulaire016-equation056	y z = z y
 MfrDB1106	2 + 1
-formulaire016-equation028	\alpha = \beta
 MfrDB0742	3 \times 3
 formulaire002-equation037	4 , 2 , 1
 formulaire002-equation044	( k , - k )
 formulaire033-equation016	3 - \alpha
 200923-1553-286	2 . 0
 formulaire024-equation017	( X , Y )
-200923-131-182	\sqrt { N \sum I }
 200923-1253-226	[ y + s ]
-2009213-139-247	\int \sqrt { L } d v _ { p }
 formulaire030-equation033	\int d x
 formulaire007-equation031	b d = Y
 MfrDB0721	x = 1
 formulaire039-equation027	\theta _ { m i n }
 200923-1254-147	\sqrt { T + N }
-formulaire031-equation073	\alpha = \sqrt { 2 }
 formulaire015-equation071	X = Y + 1
 200923-1553-197	z + B - i
 formulaire039-equation051	x ^ { 2 } y
@@ -2043,13 +1939,11 @@ formulaire016-equation071	2 i k \pi
 200926-1617-93	( S - l _ { C } )
 2009213-139-103	\sqrt { S - a }
 200923-131-292	[ p + s ]
-200923-131-328	\int \alpha d \Delta
 formulaire020-equation061	1 0 ^ { - 2 2 }
 200922-1017-11	V ^ { \frac { N } { v } }
 200923-1254-212	\sqrt { o - L }
 200924-1312-205	\int g h d v
 MfrDB2081	3 ^ { 2 } - 1 = 8
-formulaire022-equation056	( - 1 ) ^ { n + 1 }
 200926-1550-111	- r
 200923-1251-128	q > A ^ { d }
 200924-1331-166	( V ^ { E } ( k ) )
@@ -2059,8 +1953,6 @@ formulaire007-equation029	p = p _ { e }
 200923-1556-209	\sum [ [ Y ] ]
 200923-1553-276	\sqrt { Y - p a }
 MfrDB0151	5 + 3 = 8
-200924-1331-175	\sum \sqrt { x }
-200924-1331-17	\cdots + \sqrt { F }
 200923-1253-273	r _ { n } ^ { V }
 formulaire009-equation036	d = r
 formulaire015-equation032	( 2 l + 1 )
@@ -2069,19 +1961,13 @@ formulaire031-equation058	1 0 r _ { k }
 formulaire021-equation049	( x , y )
 200923-1253-127	P + \sum y
 200925-1126-82	- \theta n _ { Y }
-200922-949-135	\cdots - \Delta
 MfrDB1788	( 1 2 - x ) ^ { 2 }
-formulaire036-equation039	( r , \theta , \phi )
 formulaire017-equation044	b _ { i _ { j } }
 200923-1251-147	- b + s q
-200924-1331-293	- \sum R + \theta
 200923-1553-29	\frac { A } { S }
 2009210-947-208	e _ { G } ^ { \sum h }
-200922-947-155	\sqrt { \cdots + N }
-200925-1126-170	\sqrt { \phi + u }
 200924-1312-71	- s
 200924-1312-148	( a + 7 )
-200926-1550-64	\beta - L ^ { k } ( t )
 200923-1254-231	\int ( q ) d p
 formulaire037-equation049	Y ( u )
 MfrDB1821	3 ^ { 2 } - 1 = 8
@@ -2089,22 +1975,17 @@ MfrDB0333	\int x d x
 200923-1254-15	\frac { A - h } { N }
 formulaire015-equation003	k = 4 5 9
 200922-1017-133	C - H - q
-MfrDB2387	( a ) ^ { - 1 } - 1
 MfrDB0979	4 \pi r ^ { 2 }
 200925-1126-204	j _ { c }
-200923-1254-276	\sqrt { \cdots + u }
 MfrDB0212	1 + 2 + 3
 MfrDB1557	3 x - 5 < - 2
 formulaire027-equation042	h ( f , \alpha )
-200923-1556-137	- \sum m - T
 200922-947-21	\sum f + r
 200924-1312-259	h - C ^ { w }
 formulaire006-equation058	n - 1
 formulaire024-equation022	( u _ { i } ^ { n } )
 2009213-137-143	\cos R ^ { g }
 200926-131-82	\int 2 . 7 d H
-2009213-137-113	\frac { i } { \sqrt { R } }
-2009210-947-236	\frac { s } { \int 9 d N }
 formulaire030-equation024	x ( t _ { f } )
 MfrDB0318	2 = 3
 200922-949-137	n _ { e H }
@@ -2113,9 +1994,7 @@ formulaire030-equation021	X ^ { n } - a
 MfrDB0643	y = x ^ { 2 }
 200923-1254-353	E X
 200923-1556-252	- \int B d z
-formulaire012-equation073	\alpha \times \beta
 200922-949-27	\sqrt { y + l }
-MfrDB2085	( a ) ^ { - 1 } - 1
 formulaire022-equation051	\sqrt { x d }
 MfrDB3265	\sqrt { x ^ { 2 } } = | x |
 MfrDB2838	\sqrt { x ^ { 2 } } = | x |
@@ -2135,39 +2014,28 @@ formulaire010-equation024	a _ { 1 , j }
 formulaire025-equation073	a _ { i }
 200926-131-153	i
 MfrDB1111	x = y ^ { 2 }
-200923-1254-127	- \int z d \beta
 200923-1553-177	- [ X - C ]
 200923-1253-161	E
 200925-1126-209	z _ { j }
-2009213-137-190	\int - a d H _ { \gamma }
-formulaire013-equation042	\phi ( r , \theta )
 2009213-137-183	- w ( F )
 formulaire003-equation036	\frac { 4 } { 3 }
 formulaire020-equation001	2 ^ { 2 } = 4
 2009212-952-69	\int 0 . 0 d q
-MfrDB1541	V = a \cdot b \cdot c
 2009213-139-116	M + [ H ]
 formulaire031-equation072	( k _ { 2 } , l _ { 2 } )
 formulaire035-equation036	( x - 2 )
-8_em_62	\sigma \in G
 form000-equation001	M < N
 formulaire034-equation061	f ( x ) = f ( y )
-formulaire036-equation012	\beta _ { 2 } \ldots \beta _ { n }
 200926-1550-74	e _ { f _ { g _ { h } } }
 200926-131-229	i
 formulaire035-equation013	f ^ { n } ( x )
 MfrDB1234	3 ^ { 2 } - 1 = 8
-200926-1550-56	2 \alpha + 3 \sqrt { \beta }
 200923-1553-273	- ( F )
-2009213-139-59	j ^ { \sum T - v }
 MfrDB0121	2 + 4 5
 200926-131-53	x m x _ { z }
-200923-1553-99	\sqrt { j - \lambda }
-200922-949-81	Y - \gamma - x
 formulaire031-equation048	X \rightarrow k
 formulaire037-equation058	f ( x )
 200923-1251-288	z \leq R
-200924-1331-203	\int \sqrt { n } d w
 formulaire030-equation074	y \in Y
 200923-1556-207	5 5
 formulaire009-equation021	a + b
@@ -2180,12 +2048,10 @@ MfrDB1350	2 x = y
 formulaire037-equation038	2 \times e
 formulaire034-equation029	( b , a , a )
 200923-1553-108	[ \tan G ]
-2009212-1031-97	z ^ { \frac { s } { \beta } }
 formulaire009-equation007	X _ { - j }
 200922-947-232	\int ( x ) d T
 200926-131-184	i - a z
 200924-1331-224	\sum R
-200925-1126-9	\int \sum p d b
 2009213-139-213	T - f M
 formulaire007-equation003	g ( y ) = 1
 2009213-137-150	\cdots + 6 . 2
@@ -2194,7 +2060,6 @@ formulaire015-equation068	1 0 ^ { 4 7 }
 200922-947-139	s - b = 5
 MfrDB2365	a + b ^ { 2 }
 200923-131-290	4 2 7 7
-MfrDB2276	V = a \cdot b \cdot c
 formulaire017-equation068	f ( x _ { 0 } ) = Y
 formulaire003-equation023	\sin ( x )
 formulaire020-equation046	y - x
@@ -2202,7 +2067,6 @@ formulaire022-equation043	1 0 ^ { - n }
 200926-131-245	\int B _ { i } d m
 200923-1254-159	\sum u
 MfrDB0892	a = b + 1
-2009210-947-58	8 - \cdots - ( E )
 200923-1556-249	S + k = n
 MfrDB0707	1 + 1
 formulaire037-equation072	X _ { i , j }
@@ -2212,46 +2076,34 @@ TrainData1_2_sub_1	\log _ { 2 } 8 = 3
 formulaire025-equation046	( - a ) ^ { n }
 MfrDB1174	x + y = 3
 MfrDB2716	\frac { 8 } { 2 }
-formulaire003-equation016	r = \sqrt { \theta }
 formulaire014-equation064	p ^ { 0 } = 0
 200923-1556-104	[ N ] ^ { C - l }
 200926-1550-49	\cos ( 0 ) = 1
 2009213-139-237	- V z m
 formulaire016-equation063	Y _ { \alpha } ( x )
-200926-1617-164	\sqrt { V } ^ { m - P }
 MfrDB2552	1 + 3 7
 MfrDB1425	1 + 1 = 2
 formulaire031-equation068	2 + 2 = 4
 200923-1253-253	C > \sqrt { q }
 200923-1553-307	e _ { \pi } 2
 MfrDB1657	y = x ^ { z }
-200922-949-71	\cdots - \sqrt { t }
-formulaire029-equation036	\frac { 1 } { \sqrt { 2 } }
 200923-1254-53	( T ^ { T } ( \pi ) )
 formulaire018-equation018	z - 2
 formulaire009-equation056	k = 2 3 9
 formulaire007-equation036	\pi ( e _ { 1 } )
 MfrDB2810	| \sin z |
-200923-1254-305	\int - w d \Delta
 200923-1251-142	- \sum w
-formulaire004-equation052	t \rightarrow \infty
 formulaire016-equation069	\frac { l _ { 2 } } { l _ { 1 } }
 2009213-137-161	\sum o
 formulaire004-equation012	q \rightarrow 0
 MfrDB2241	\int x d x
 formulaire021-equation048	\theta ( x )
 formulaire016-equation049	\forall x , y
-200922-949-23	o ( \mu ) ^ { w - b }
 200922-947-49	\cos ( 0 ) = 1
 formulaire022-equation006	n = 1
-2009213-139-133	\sqrt { \mu _ { k } }
 200923-1251-184	t _ { T _ { x } }
 formulaire013-equation056	2 ^ { d } \alpha
-200923-1254-301	\sqrt { \phi + c }
 200922-1017-165	- c g v
-200923-1251-103	\sum t - \lambda
-200924-1312-214	d ^ { \cdots + A }
-formulaire033-equation023	b ^ { - \theta _ { 0 } }
 200923-1254-335	G + 6 . 2
 4_em_27	\{ \sigma , F \}
 formulaire028-equation022	v _ { x } ( f )
@@ -2266,15 +2118,10 @@ formulaire004-equation022	u _ { 1 } = 2
 200923-1253-261	\int [ M e ] d h
 MfrDB0215	x + 2 = 3
 MfrDB2008	\sqrt { x ^ { 2 } } = | x |
-200923-1251-272	L + C = \sqrt { \sigma }
 formulaire031-equation056	x _ { 1 } ( y )
 MfrDB1135	5 + 7 = x
 2009220-1327-83	7 . 7 + 1
-200923-1253-237	\frac { E } { S } \int q d Y
-MfrDB1670	V = a \cdot b \cdot c
-2009213-137-218	- \infty - 3 6 1 . 4
 200922-947-63	L ^ { L + V }
-200926-1617-103	\sum \frac { i } { k }
 2009213-137-74	e _ { f _ { g _ { h } } }
 formulaire011-equation038	1 = - 1
 MfrDB0262	A + b = 2
@@ -2296,10 +2143,8 @@ formulaire035-equation028	n ^ { ( r ) }
 127_alfonso	n ! - 1
 formulaire007-equation062	( a , c )
 200923-1253-232	\sqrt { n + S }
-200926-1617-226	- \sum i - k
 formulaire039-equation034	x ^ { a } ( p )
 MfrDB1150	x + y = 1 2
-MfrDB1233	V = a \cdot b \cdot c
 200923-1556-123	z a + l
 200923-131-180	\sum u
 200926-131-135	\cdots - n ( y )
@@ -2319,25 +2164,20 @@ formulaire028-equation027	\frac { p } { q }
 200922-947-149	\tan i
 formulaire030-equation056	d = k b
 2009213-139-10	i - R
-200923-1553-170	d + \pi ^ { X }
 formulaire034-equation011	9 = 3 ^ { 2 }
 formulaire003-equation011	1 0 ^ { 6 4 }
-formulaire033-equation073	\gamma = \gamma _ { 0 }
 MfrDB1083	1 + 2 = 3
-200924-1312-227	u \geq \sqrt { z }
 2009212-1031-37	\frac { R } { ( p ) }
 MfrDB0495	3 + 4
 formulaire004-equation049	( p , g , h )
 formulaire021-equation041	r = r ( \theta )
 200923-1254-274	\sum n
 formulaire015-equation026	\sum a _ { n } ( x )
-MfrDB1779	X ^ { y } - Y ^ { x }
 200924-1331-249	F ^ { G }
 formulaire037-equation052	u _ { 0 } ( x )
 2009213-137-243	p = I
 200923-1254-370	k < \sigma _ { G }
 200926-131-136	\int 0 . 4 d F
-MfrDB1820	V = a \cdot b \cdot c
 formulaire026-equation006	2 6 ^ { 1 0 }
 200923-1556-188	- \int z d n
 MfrDB0647	y = x + 1
@@ -2351,8 +2191,6 @@ formulaire035-equation052	n o n ( \phi )
 formulaire026-equation066	2 + \sqrt { 3 }
 formulaire018-equation007	t ^ { \frac { 2 } { 3 } }
 MfrDB1939	\sqrt { x ^ { 2 } } = | x |
-200926-131-200	\Delta \neq u S
-200924-1331-33	\int \frac { i } { \sigma } d I
 2009212-952-49	\cos ( 0 ) = 1
 2009210-947-74	e _ { f _ { g _ { h } } }
 formulaire005-equation054	u ( n + 1 )
@@ -2362,69 +2200,49 @@ formulaire025-equation072	w _ { 1 } = 1
 MfrDB1387	e = m c ^ { 2 }
 formulaire010-equation001	a _ { 0 } = 2
 formulaire036-equation057	a , b , c
-200924-1312-123	\sum \alpha
-200925-1126-56	2 \alpha + 3 \sqrt { \beta }
 MfrDB0633	2 \times 2 ^ { 8 }
 200923-1556-87	\sqrt { X } ^ { t }
 200922-947-130	\sin ^ { P } L
 MfrDB0166	2 x + 1 = 5
-formulaire005-equation017	2 ^ { p - 1 } - 1
 200923-1253-280	\frac { h } { k ( y ) }
 formulaire029-equation046	y = z y _ { 1 }
 formulaire027-equation028	\sqrt { a + b }
 formulaire038-equation073	2 i \pi
 200923-1556-162	i i _ { x }
-2009210-947-116	- F - F ^ { x }
 2009210-947-118	\frac { 9 4 . 7 } { Y h }
 200922-949-49	\cos ( 0 ) = 1
 formulaire015-equation054	\exists k , x _ { k }
 200924-1312-105	\sqrt { k - n }
-200923-1254-99	o + \theta \leq ( o )
 MfrDB2347	3 + 4
-formulaire015-equation046	\theta _ { 0 } = \pi
 200923-1556-250	C = s ^ { i }
 200922-949-142	\cdots + 2 . 6
 MfrDB1011	x = y ^ { 2 }
 200923-1254-261	S _ { C _ { z } }
 formulaire011-equation023	b = 4
 2009220-1327-4	\sqrt { X } ^ { 8 }
-200922-1017-69	\frac { e } { p } \gamma
 200923-1254-319	\frac { [ - X ] } { [ v ] }
-MfrDB1543	x ^ { y } - y ^ { x }
 formulaire018-equation063	b ^ { 1 } = b
 MfrDB0987	X = 1 + 4
-200923-1556-112	\cos ^ { \infty } \theta
 MfrDB2587	( 1 2 - x ) ^ { 2 }
 formulaire013-equation053	\log ( 2 )
 2009210-947-45	x + C > C
-200923-1253-105	\int \frac { l } { z } d f
 2009212-952-74	e _ { f _ { g _ { h } } }
 formulaire021-equation016	f ( z ) \neq 0
-200922-947-175	\sum \sigma + S
-formulaire008-equation001	\sqrt { 1 - z ^ { 2 } }
-200926-1550-112	\sigma + \sum n
 200922-1017-158	\cdots - 4 . 2
 2009210-947-41	e - N _ { L }
 MfrDB0131	x = 3 ^ { 2 }
-200923-1254-357	r < \int \gamma d B
 formulaire036-equation056	\frac { n + 1 } { 2 }
 200923-1553-202	A _ { k _ { Y } }
-200923-1253-28	\sqrt { \Delta }
-200925-1126-174	\sum 6 . 7 - \Delta
-2009213-137-56	2 \alpha + 3 \sqrt { \beta }
 formulaire030-equation062	( b _ { i , q _ { i } } )
 MfrDB1750	a _ { 1 } + a _ { 2 }
 formulaire023-equation026	a = c
-200923-1253-27	\Delta + \sum H
 formulaire009-equation004	\pi r l
 200922-947-228	q ^ { \gamma ( v ) } ( b )
-200926-1617-175	S \geq \sqrt { k }
 formulaire001-equation067	v ( y ) = y
 200923-1253-129	\sum p - V
 MfrDB2483	3 ^ { 2 } - 1 = 8
 200923-131-238	5 . 5
 2009220-1327-74	e _ { f _ { g _ { h } } }
-200923-131-223	\int \log L d g
 formulaire010-equation031	2 \neq 0
 formulaire037-equation016	x _ { 2 } ( y )
 200922-1017-33	t + Y _ { d }
@@ -2446,18 +2264,14 @@ formulaire011-equation073	f ( 0 ) = 0
 formulaire008-equation049	\phi ( u , v )
 formulaire033-equation058	1 0 ^ { 6 8 }
 200926-1550-127	X > \int 3 d S
-200922-947-190	\int \theta + F d n
-2009212-952-37	1 3 + \pi r ^ { 2 }
 formulaire026-equation061	z - 1
 MfrDB2584	3 ^ { 2 } - 1 = 8
-200923-1253-143	\sqrt { C - \lambda }
-formulaire031-equation012	\phi _ { 1 } , \phi _ { 2 }
+formulaire005-equation034	( r _ { i } r _ { j } ) ^ { \infty }
 MfrDB1199	2 + 5
 MfrDB2028	E = m c ^ { 2 }
 MfrDB0576	x = 4 y + 1 0
 200924-1312-170	\sin y
 200925-1126-74	e _ { f _ { g _ { h } } }
-2009213-137-34	\sqrt { N } ^ { u + 9 }
 2009213-139-117	\beta - 0 . 4
 formulaire032-equation026	g _ { n } ( x )
 200923-1253-74	e _ { f _ { g _ { h } } }
@@ -2473,7 +2287,6 @@ formulaire021-equation063	2 ^ { n } - i
 formulaire006-equation007	t \neq 0
 formulaire005-equation012	q ( t _ { f } ) = q _ { f }
 2009213-139-28	d L _ { x _ { \mu } }
-200923-1553-56	2 \alpha + 3 \sqrt { \beta }
 200925-1126-122	\sqrt { I - B }
 formulaire021-equation003	\pi - e
 200922-949-117	5 . 3 P _ { x }
@@ -2483,19 +2296,11 @@ MfrDB0450	2 + 2 = 4
 200923-1556-109	\sqrt { t } > I q
 formulaire018-equation051	a _ { n } ( x )
 formulaire035-equation022	u ( \theta , p )
-200922-1017-126	\Delta - \sum B
-MfrDB2046	a ^ { 3 } + a ^ { 4 }
 formulaire037-equation063	n ^ { 2 } + 1
 formulaire020-equation062	a p + b q
 formulaire033-equation012	c = 8 , 5
-200923-1251-193	\frac { L + L } { z - M }
-MfrDB1777	V = a \cdot b \cdot c
-200924-1331-126	\alpha ^ { h } \theta C
 MfrDB0194	2 + 1 = 3
-200926-1550-37	1 3 + \pi r ^ { 2 }
 formulaire032-equation039	z = t ^ { 2 }
-MfrDB0130	1 + 3 \times 8 / 3
-200923-1253-56	2 \alpha + 3 \sqrt { \beta }
 200922-947-10	P ^ { e o }
 MfrDB0786	f ( x ) = 1
 MfrDB3868	3 ^ { 2 } - 1 = 2
@@ -2503,7 +2308,6 @@ formulaire036-equation018	a _ { k + 1 }
 formulaire013-equation041	n = 1 6 3
 formulaire029-equation013	s n = 1
 formulaire012-equation024	X _ { ( m + 1 ) }
-200924-1312-176	\cdots + \sqrt { r }
 200922-1017-154	( C ) ^ { 9 + e }
 MfrDB2563	x + y = z
 formulaire039-equation068	\frac { b } { a }
@@ -2512,7 +2316,6 @@ formulaire027-equation018	b _ { n } = 1
 MfrDB3338	F = m g
 2009212-952-51	- G _ { m }
 200923-131-156	i z a
-formulaire020-equation031	\beta = \pi
 MfrDB1780	\sqrt [ 5 ] { 5 5 }
 200923-1253-145	- u
 200922-949-73	t \int z ( P ) d l
@@ -2521,14 +2324,12 @@ formulaire010-equation007	c ( x , y )
 MfrDB1540	1 2 3 4 + 5 6 7 8 > 9 0
 formulaire018-equation069	t _ { \gamma } ^ { k }
 MfrDB2486	( 1 2 - x ) ^ { 2 }
-200922-1017-91	\alpha \neq v \alpha
 formulaire037-equation071	( n - 1 ) ^ { 2 }
 TrainData2_10_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 MfrDB3823	a x + b < c
 formulaire007-equation072	( h , k ) = 1
 formulaire028-equation018	y _ { i } = 0
 formulaire004-equation038	n - i
-200923-1253-235	\sigma \geq C _ { l }
 MfrDB2594	5 0 ! \cdot n = 4 8 !
 200923-1253-216	p M ( - V ^ { d } )
 MfrDB1444	( 1 2 - x ) ^ { 2 }
@@ -2537,23 +2338,15 @@ formulaire038-equation003	b _ { 1 } = 1
 200923-1553-10	[ ( 3 . 3 ) ^ { L + e } ]
 200926-131-106	( ( \int [ o ] d G ) )
 MfrDB2182	2 + 2
-200923-1253-223	\cdots + \int f d G
-formulaire034-equation071	\beta \cos ( \theta )
 2009213-139-199	\sqrt { g - R }
 200922-949-116	\sqrt { V + p }
-200923-1254-56	2 \alpha + 3 \sqrt { \beta }
 formulaire008-equation039	d _ { i , j }
-2009213-139-168	l - \lambda - v
 form005-equation018	\exists M , R > 0
-MfrDB1178	\alpha + \beta = \pi
 MfrDB2238	x - 3 = 2
-200925-1126-162	\sin ^ { \mu } Y
 2009220-1327-110	- F _ { A }
 200923-1553-261	- d + y
 formulaire004-equation026	3 n - 5
-200923-1251-87	\frac { r } { \phi } u
 200923-1251-109	\frac { n } { P }
-MfrDB3460	x ^ { 2 } - x - 6 < 0
 formulaire026-equation003	f ( x ) \leq 0
 formulaire022-equation004	q = - 3 5
 2009213-137-201	\tan ^ { d } Y
@@ -2561,37 +2354,29 @@ formulaire019-equation064	2 j + 1
 formulaire035-equation071	( ( - 1 ) ^ { n } n )
 200924-1312-74	e _ { f _ { g _ { h } } }
 formulaire035-equation006	( ( - 1 ) ^ { n } n )
-formulaire015-equation024	p ^ { \alpha } \neq 0
 formulaire036-equation068	1 + 0 i
-formulaire039-equation016	\theta ^ { 3 ^ { n } }
 200923-1556-234	- \sigma m
 formulaire015-equation041	n = k + 1
 formulaire027-equation011	f ( c ) = 0
 200922-947-117	( F ) ^ { \pi } Y
-MfrDB1440	V = a \cdot b \cdot c
 MfrDB0611	y = x ^ { 2 }
 formulaire013-equation036	d = 2
 formulaire028-equation056	x + n
 200924-1312-185	- Y
 formulaire004-equation043	y = z x
-MfrDB1445	( a ) ^ { - 1 } - 1
 200924-1331-65	- w + 4 . 6
 MfrDB2480	\frac { 2 5 } { 3 + 1 }
 formulaire002-equation023	\sin ^ { 2 } ( x )
 2009213-139-101	k - a = h - f
-200924-1312-191	\sqrt { o + T } ^ { y }
 formulaire009-equation059	u _ { n + 1 }
 200923-1556-203	I ^ { 5 - c }
 200923-1251-166	- y < s ( A )
 MfrDB1394	E = m c ^ { 2 }
-MfrDB1235	x ^ { y } - y ^ { x }
-MfrDB0035	4 \cdot 5 \cdot 1 0 = 2 0 0
 formulaire007-equation058	\sqrt { 1 + x }
 formulaire019-equation044	h ( \theta ) = 0
 MfrDB2051	x + y = 1 2
 formulaire022-equation003	\frac { 1 } { r ^ { d } }
 200923-1553-179	\sum S - ( m )
-MfrDB1904	\log 5 + \log 4 = 2
 formulaire034-equation017	\alpha _ { b , c }
 200922-947-82	\tan 3 . 1
 200926-1617-195	6 . 3 \int m d r
@@ -2599,16 +2384,11 @@ formulaire034-equation017	\alpha _ { b , c }
 formulaire037-equation041	f ( r ) = 0
 formulaire004-equation073	r _ { 1 } + r _ { 2 }
 MfrDB0604	\frac { 1 + 2 } { 3 }
-200922-949-178	\sqrt { A + \infty }
 2009210-947-156	B ^ { B + 4 }
-2009213-137-121	\sqrt { \cdots + i _ { z } }
-200926-1617-197	\int \sqrt { c } d I
 formulaire014-equation027	\log _ { 2 } ( 4 )
 formulaire010-equation022	2 ^ { m ^ { p } }
-200923-131-83	- \sum \pi - k
 formulaire020-equation023	X Y = Y X
 formulaire012-equation039	x _ { p } ^ { 1 }
-200925-1126-37	1 3 + \pi r ^ { 2 }
 formulaire017-equation049	( x _ { a } , y _ { a } )
 formulaire026-equation052	( y , s - 1 )
 formulaire001-equation058	n ^ { \log _ { 2 } ( 3 ) }
@@ -2616,134 +2396,91 @@ MfrDB3314	a _ { 1 } + a _ { 2 }
 MfrDB1824	( 1 2 - x ) ^ { 2 }
 formulaire024-equation034	( m , n )
 MfrDB2381	3 ^ { 2 } - 1 = 8
-2009212-1031-128	\frac { b } { \sum N }
 MfrDB1538	a _ { 1 } + a _ { 2 }
-formulaire014-equation032	\frac { p \pi } { q }
-MfrDB2278	x ^ { y } - y ^ { x }
 formulaire002-equation016	2 ^ { s + 1 3 }
 MfrDB1141	2 x + 1 = 3
 TrainData1_4_sub_1	\log _ { 2 } 8 = 3
 formulaire004-equation063	e = 2
-MfrDB2585	x ^ { y } - y ^ { x }
-200924-1331-56	2 \alpha + 3 \sqrt { \beta }
-formulaire023-equation058	\pi ( \sqrt { n } )
-200923-1553-15	\int \Delta d M _ { H }
 formulaire023-equation073	f _ { 1 } + f _ { 2 }
-2009213-137-128	\sin T - \sqrt { \beta }
-MfrDB2683	V = a \cdot b \cdot c
 formulaire039-equation007	2 p x _ { 1 }
 MfrDB1206	4 + 3
-200923-1254-198	\cdots - z - \Delta
 MfrDB0469	f ( x ) = 1
 200923-1553-293	( \cdots + f )
-200926-1550-10	- \int \pi d I
 200923-1553-156	a > \sin 8
 formulaire033-equation071	y ( 0 ) = y _ { 0 }
 formulaire005-equation052	k ^ { m } + n
-200922-1017-130	\cdots - \int S d \sigma
-200923-1254-323	\sum \sqrt { C }
-2009213-139-56	2 \alpha + 3 \sqrt { \beta }
 formulaire007-equation004	\lim ( u _ { n } )
 formulaire006-equation061	( 2 + 3 i )
-MfrDB2080	V = a \cdot b \cdot c
 127_danilo	n ! - 1
 2009213-137-146	\sum E
 formulaire037-equation024	u \times v
 200926-1617-209	- E + B
 200926-1617-15	- p = \sum Y
-MfrDB1822	x ^ { y } - y ^ { x }
 MfrDB0580	2 + 4 = 6
 formulaire012-equation066	4 ^ { 5 } - 4
 formulaire014-equation004	v = - e u
-formulaire038-equation008	\frac { \alpha } { 2 }
 formulaire006-equation041	X \rightarrow Y
-11_em_95	\forall u \in V
 formulaire008-equation041	1 0 ^ { - 1 2 }
 formulaire003-equation071	y ( 0 ) = \alpha _ { 1 }
 formulaire023-equation066	c = 1 2
 formulaire039-equation038	X - x _ { 0 }
 200922-949-202	f < z _ { X }
 MfrDB0757	x + 2 = 1 0
-200922-949-56	2 \alpha + 3 \sqrt { \beta }
 200923-1251-144	P - \sqrt { 4 } < [ k ]
 MfrDB3461	\sqrt { x ^ { 2 } } = | x |
 formulaire006-equation022	b _ { i , n } ( t )
 formulaire001-equation023	e ^ { - 1 }
-200926-1617-63	q ( H ) ^ { \cdots + A }
 formulaire029-equation069	j ^ { 2 } = - 1
 formulaire013-equation054	f ( 0 , t )
 200926-131-127	- 1 . 5
 MfrDB0093	f ( g ( x ) ) = x
 200923-1556-49	\cos ( 0 ) = 1
-2009212-952-41	\frac { r } { \int q d R }
 formulaire013-equation051	k \leq 4
-200923-1251-270	b ^ { - S - [ w ] }
 2009213-139-238	A t + \sqrt { o }
 MfrDB1244	5 0 ! \cdot n = 4 8 !
 200922-949-115	\cdots + H
-200922-1017-56	2 \alpha + 3 \sqrt { \beta }
-MfrDB2770	3 ^ { x } - 2 ^ { x }
 200923-1556-40	9 5 0 9 . 9 8
 200922-949-78	\sqrt { g } ^ { ( 1 . 1 ) }
-MfrDB1786	x ^ { y } - y ^ { x }
 formulaire017-equation051	\log _ { b } ( b ) = 1
 formulaire037-equation008	\pi _ { 1 } ( X )
-200923-1553-140	\cdots - \sqrt { h }
-200923-1556-126	\sum s - \pi H
 MfrDB1627	( 3 1 - x ) \sqrt { x }
 formulaire012-equation041	\sqrt { 1 - x }
 formulaire023-equation051	y \neq 0
 200923-1253-21	i z u
 formulaire025-equation036	\sqrt { a ^ { 2 } }
-2009213-139-245	\sum \limits _ { \gamma > I } [ 2 ]
-200923-1556-245	\sqrt { - P + y }
 formulaire001-equation048	X ^ { 3 } - 1
 200923-1254-88	B ( p ) < q + G
 MfrDB2818	\cos ( x + 2 )
-formulaire004-equation009	\sqrt { 5 + 2 \sqrt { 6 } }
 200923-1254-354	F ( s _ { N } )
 2009213-139-173	\int I + n d Y
 MfrDB0191	5 + 5 = 1 0
-MfrDB1672	x ^ { y } - y ^ { x }
 formulaire003-equation067	x , y , z
 formulaire006-equation066	n = 0
-200923-131-339	\sqrt { a ^ { p - n } }
 formulaire033-equation038	X = \sqrt { x }
 MfrDB0594	x = y ^ { 2 }
 formulaire013-equation066	f ( z ) - 1
-200922-949-237	\pi ^ { - d \sum H }
-formulaire029-equation002	\gamma = \infty
 MfrDB1802	1 2 3 4 + 5 6 7 8 > 9 0
 200924-1312-164	\frac { [ F ] } { a - H }
 MfrDB0132	\sqrt { 3 5 + 3 }
 formulaire017-equation057	d ( x , y ) = 0
-200923-1553-37	1 3 + \pi r ^ { 2 }
-200926-1617-107	- \sum - \infty
 MfrDB1718	2 x + 4
 200923-1254-49	\cos ( 0 ) = 1
 formulaire033-equation014	\theta ( p _ { c } ) = 0
 formulaire027-equation017	u _ { 2 } = 1
-200923-1556-257	\sin b ^ { 7 - g }
 formulaire023-equation038	n = 2 5 5
 formulaire033-equation054	f _ { 0 } , \ldots , f _ { p }
-2009213-137-238	\frac { f } { \sum f }
-200923-1254-321	- s - \sum \alpha - k
 formulaire028-equation011	n = k ^ { 2 }
 formulaire002-equation038	9 \times 2 ^ { X }
 200922-949-98	\frac { n } { u }
 formulaire026-equation002	r ( u , v )
-2009210-947-59	\int - i \phi d I
 MfrDB0397	A + B = C
 200923-1253-185	B ^ { L } + o
 formulaire025-equation041	1 8 - 1 9
 MfrDB1687	3 x - 5 < - 2
-2009213-139-29	\sqrt { u } + H ^ { E }
 200924-1312-49	\cos ( 0 ) = 1
 formulaire019-equation021	x = b
 formulaire007-equation011	n \times d
-200923-1556-95	M - \gamma \neq b - p
 2009213-137-22	- c \theta
-formulaire011-equation051	r \sqrt { \pi }
 formulaire014-equation036	2 y - 3 = 7
 200923-1553-153	w + E
 200922-947-160	2 8 . 9 4 \pi
@@ -2757,7 +2494,6 @@ MfrDB2225	2 + 3 = 5
 200926-131-158	\cdots + o
 formulaire039-equation058	f ( x ) \leq a
 200923-1251-57	f - R = \sum z
-2009212-1031-58	\cdots + l - m
 200923-1553-250	C ^ { F + m }
 formulaire033-equation008	1 0 ^ { - 6 }
 200922-947-58	\sqrt { y } ^ { ( 0 . 0 ) }
@@ -2767,13 +2503,10 @@ formulaire021-equation037	f ( x , y )
 200923-1553-9	M \geq V + X
 200923-1251-279	5 - z \leq x
 formulaire012-equation069	q = ( 1 - p )
-200922-949-150	\sum \limits _ { S > f } t
 200923-1253-108	\sqrt { i + r }
 200922-949-167	\int p d e - [ h ]
 200923-1254-123	[ P + \beta ]
 200922-947-74	e _ { f _ { g _ { h } } }
-MfrDB1442	x ^ { y } - y ^ { x }
-MfrDB1805	x ^ { y } - y ^ { x }
 200926-131-189	h + e \geq [ z ]
 formulaire031-equation039	y _ { p } = - 3
 formulaire014-equation063	x _ { i } = 2
@@ -2784,17 +2517,12 @@ MfrDB0673	E = m c ^ { 2 }
 formulaire015-equation047	x ^ { 0 } = c t
 formulaire018-equation013	x + y
 200924-1331-247	\frac { h } { I }
-200922-947-99	- b \neq \sum V
 formulaire024-equation028	\cos ( n x )
 formulaire012-equation046	a ^ { \frac { 1 } { n } }
 formulaire038-equation032	a _ { i } , a _ { j }
 MfrDB2564	x + y = z
 formulaire033-equation063	a \leq b
-formulaire035-equation019	m ^ { 2 } s ^ { - 3 }
-2009210-947-56	2 \alpha + 3 \sqrt { \beta }
-200923-131-169	\sqrt { V + q } ^ { N }
 MfrDB2208	\sqrt { x ^ { 2 } } = | x |
-200923-1254-126	\sqrt { 9 } ^ { B + P }
 formulaire003-equation052	a _ { i j } ^ { k }
 formulaire033-equation041	1 0 ^ { 1 9 }
 MfrDB2569	a x + b < c
@@ -2807,43 +2535,33 @@ formulaire034-equation053	f ( z ) = z ^ { 2 } + 1
 MfrDB2311	x + y = z
 200923-1553-283	z T + T
 formulaire008-equation018	1 0 ^ { n } - k
-200922-949-240	\sqrt { - m + t }
 formulaire034-equation008	n ( n + 1 )
 formulaire014-equation003	i = 0
-200923-1253-89	\int - L - \mu d s
 formulaire012-equation053	X _ { 1 } = 1 0
 2009220-1327-116	t ( p ^ { ( ( 7 ) ) } )
-200923-1253-227	\sqrt { \cdots + u }
-200924-1331-5	\sum \limits _ { h \geq t } H
-formulaire014-equation018	5 \sqrt { 5 } + 2 \sqrt { 2 }
 200922-949-190	\frac { 8 . 1 } { - y }
 formulaire007-equation051	x = \phi _ { k i } ( z )
-formulaire038-equation026	r \cos \theta
 formulaire027-equation001	\frac { 7 } { 2 }
 MfrDB3560	\sqrt { x ^ { 2 } } = | x |
 MfrDB2084	( 1 2 - x ) ^ { 2 }
-2009212-1031-1	- \sum u + A
 2009213-137-158	Y _ { z H _ { o } }
 formulaire034-equation074	( f _ { 1 } , \ldots , f _ { n } )
 MfrDB2287	5 0 ! \cdot n = 4 8 !
-200922-1017-100	\cdots - x + R
 200924-1331-9	\Delta _ { p }
-200922-949-238	x - \int F d \lambda
 2009210-947-35	T + q \int S d x
 MfrDB1099	3 + 1 = 4
 formulaire008-equation069	f ( v , t )
 formulaire034-equation019	y = f ( x , \beta )
 formulaire030-equation066	7 \times 2
 formulaire038-equation016	\sum d ( s ) = 2 a
+200923-1553-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 2009213-139-33	V ( \int T d z )
 formulaire032-equation047	u _ { 1 } = 3
 formulaire020-equation017	\frac { d v } { d t }
 formulaire010-equation009	h ( a ) = h ( b )
 MfrDB1456	3 x - 5 < - 2
-MfrDB0666	x = \sum a + \sum b
 formulaire031-equation041	8 \times 5 = 4 0
 200923-1254-309	[ t + o ] ^ { v _ { P } }
-200923-1556-138	b + \pi ^ { X }
 formulaire033-equation029	m c ^ { 2 }
 formulaire017-equation012	( 2 , - 1 , 1 )
 200926-1617-112	- m < [ \int j d B ]
@@ -2851,6 +2569,7 @@ MfrDB0025	1 8 3 7 5 - 8 7 8 9
 formulaire023-equation037	f ( n , m )
 formulaire025-equation062	4 p q ^ { 3 }
 formulaire031-equation004	( x , y , t )
+200923-1251-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire038-equation018	( c + d ) ^ { 2 } = 8
 formulaire033-equation067	2 m g l
 200926-1617-134	F = 9
@@ -2858,11 +2577,7 @@ formulaire030-equation031	\log _ { 2 } ( 2 e b )
 200924-1312-137	- \int 2 . 4 d a
 formulaire035-equation048	( 2 n - 1 ) ^ { 2 }
 MfrDB0145	a = b + c
-200923-1251-56	2 \alpha + 3 \sqrt { \beta }
-200923-1251-291	\frac { n } { o } \sum \alpha
 formulaire038-equation037	( a , p ) = 1
-MfrDB2082	x ^ { y } - y ^ { x }
-200926-131-231	- N ^ { \sqrt { t } } v
 formulaire032-equation038	1 - x ^ { 2 }
 formulaire030-equation068	x ^ { 2 } + 1
 2009213-139-198	I E
@@ -2873,23 +2588,18 @@ MfrDB3316	1 2 3 4 + 5 6 7 8 > 9 0
 formulaire025-equation052	\gamma = 1 , 4
 formulaire002-equation018	\sin ( n x )
 formulaire027-equation032	f ( u ) = k
-90_caue	y = r \sin \theta
 MfrDB0656	x ^ { 2 } - 4 = 0
 200924-1312-236	S ^ { \sigma o }
-200923-1251-89	\cdots - \sqrt { n }
-2009213-139-159	\Delta - \sum p
 200922-947-173	z ^ { h + c }
 formulaire003-equation072	X ^ { m a x }
 200926-1617-208	- 7 . 9
 formulaire020-equation057	( x _ { i } , y _ { i } )
 MfrDB1067	\sqrt { 4 } = 2
 MfrDB0483	x + y = 3
-200923-1253-128	\sum \limits _ { v \geq l } X
 formulaire007-equation027	( n x m )
 formulaire026-equation038	b - ( a - b )
 formulaire009-equation001	\frac { e ^ { z } } { z }
 formulaire012-equation067	6 \times 0 , 3 5
-formulaire019-equation012	- h ( 1 + t ^ { 2 } )
 formulaire014-equation048	6 n ( n - 1 ) + 1
 MfrDB2718	x - 2 = 5
 formulaire009-equation003	\cos ^ { 2 } ( x )
@@ -2897,7 +2607,6 @@ formulaire038-equation046	( x + 3 ) x
 TrainData1_5_sub_1	\log _ { 2 } 8 = 3
 MfrDB1230	a _ { 1 } + a _ { 2 }
 200923-1253-138	m > - i
-2009212-1031-127	\frac { R \beta } { u }
 MfrDB1682	5 0 ! \cdot n = 4 8 !
 MfrDB1838	3 x - 5 < - 2
 formulaire038-equation023	y = \sqrt { x }
@@ -2910,15 +2619,9 @@ formulaire009-equation028	x _ { 1 } = 0
 MfrDB0914	E = m c ^ { 2 }
 MfrDB3401	a _ { 1 } + a _ { 2 }
 formulaire010-equation058	1 + 1 = 2
-200923-131-132	- G + \sum m
-200923-1254-171	o ^ { \beta + r }
-200924-1331-270	- H ^ { v - a } b M
-200926-1617-89	\int Y + v d \mu _ { G }
-200922-947-56	2 \alpha + 3 \sqrt { \beta }
 200924-1312-208	v ^ { \frac { p } { m } }
 formulaire035-equation023	f ( z ) ^ { 2 } = z
 formulaire033-equation039	p - 1 , p
-200924-1312-104	v ^ { r } \int c d \beta
 MfrDB1323	\sqrt { x ^ { 2 } } = | x |
 formulaire001-equation035	7 7 / 1 6 7 \leq 0
 200924-1312-225	- \sum m
@@ -2933,39 +2636,28 @@ formulaire013-equation069	f ( x , y , z )
 MfrDB1785	3 ^ { 2 } - 1 = 8
 formulaire025-equation034	j ^ { 2 } = + 1
 formulaire009-equation058	\phi _ { a } ( y ) = 1
-2009213-137-37	1 3 + \pi r ^ { 2 }
 MfrDB0899	x = y + 2
-200923-1556-185	q ^ { \cdots + T }
 formulaire008-equation023	b \neq 0
-200922-949-64	\sum \limits _ { g > \alpha } H
 formulaire008-equation043	x _ { 4 } = - \sqrt { 2 }
-200923-1251-253	\cdots + e ( [ \sqrt { y } ] )
 200923-1254-226	T ^ { C } s
-formulaire036-equation043	a X ^ { 2 } - b X - a
 MfrDB0071	( a b ) c = a ( b c )
-formulaire037-equation034	\beta = \frac { u } { c }
+2009210-947-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire018-equation047	( x , w )
-MfrDB1616	\sin 3 2 \pi
 formulaire022-equation032	l f = i d _ { X }
-2009210-947-167	- \sum h + x 8 . 8
 MfrDB1833	5 0 ! \cdot n = 4 8 !
 2009210-947-178	\frac { d } { r ^ { X } }
 200923-1254-23	8 6 . 4 b _ { L }
 formulaire028-equation028	x _ { n + 1 }
-106_jorge	y ^ { 4 } + y + 1 = 0
 formulaire006-equation034	f ( x _ { i } , \beta )
-formulaire038-equation038	\frac { 2 } { 3 } b \times f ( b )
 formulaire033-equation011	f ( e _ { i } ) = y _ { i }
 formulaire014-equation017	v _ { 1 } v _ { 2 } v _ { 3 }
 200923-1254-260	\frac { a } { L _ { j } }
 formulaire024-equation052	f ( x , \theta _ { k } )
 200924-1331-253	\sum G + j
 formulaire001-equation014	f _ { a , b , c } ( d )
-200923-1253-180	- T - T - B
 formulaire025-equation007	y _ { 1 } + u
 200922-1017-167	\frac { C } { x }
 200923-131-207	\sum B + z
-MfrDB2836	x ^ { 2 } - x - 6 < 0
 formulaire019-equation034	i = f ( u )
 formulaire013-equation047	u = 3 j
 formulaire001-equation054	m _ { i j }
@@ -2978,95 +2670,64 @@ MfrDB2917	\sqrt { x ^ { 2 } } = | x |
 formulaire012-equation074	f ( u _ { 1 } ) = u _ { 2 }
 MfrDB1342	1 + 1 = 2
 formulaire007-equation064	a + b m
-90_rosario	y = r \sin \theta
 formulaire020-equation012	\frac { 1 } { 2 } a p
 formulaire017-equation036	\sqrt { 2 } + 1
 formulaire003-equation002	p ( s _ { i } , s _ { j } )
 formulaire029-equation056	\log _ { a } c
-200922-1017-109	\cdots + r B - N
 MfrDB3341	E = E _ { k } + E _ { p }
 formulaire003-equation027	h ( - r ) = h ( r )
-200923-1553-254	- \sum I + H ^ { u }
 200923-1251-138	8 . 5 + ( r ) ^ { b }
-200923-1556-260	\sum \limits _ { E \geq B } p
+MfrDB2434	v = v _ { 0 } t - g t ^ { 2 }
 formulaire026-equation023	\frac { x } { 0 }
-formulaire012-equation028	\alpha \rightarrow f ( \alpha )
-formulaire005-equation049	1 \leq e \leq v
-200926-131-165	\sqrt { H } + g + c
 formulaire028-equation059	( i , j , k )
 formulaire026-equation053	X _ { n + 2 }
-200924-1331-51	\sum 3 + \int s d m
-200923-1253-158	- q - S + H
 MfrDB0868	x = y \times p
-2009210-947-46	\sum \limits _ { b > p } y - Y
 TrainData1_7_sub_1	\log _ { 2 } 8 = 3
-2009212-952-56	2 \alpha + 3 \sqrt { \beta }
-200926-1617-37	1 3 + \pi r ^ { 2 }
 MfrDB0029	o = 2 \pi r
 formulaire027-equation016	f ( x ) = - 4
+2009213-137-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire018-equation071	( z ^ { k + 1 } )
 formulaire036-equation034	p ( x ) \leq 1
-200924-1331-181	\frac { \int G d n } { d C }
 formulaire039-equation057	p ^ { - v _ { p } ( r ) }
-MfrDB2380	V = a \cdot b \cdot c
-2009213-137-217	\lambda ^ { \cdots + 7 . 8 }
 formulaire038-equation036	a _ { k } x ^ { k }
 formulaire036-equation001	d ( x + y )
 formulaire023-equation048	r = \sqrt { n }
 2009212-1031-34	e - i e
-200926-131-105	f - \frac { w } { 1 } \neq c
 200923-131-108	\cdots + z
-TrainData2_6_sub_20	a + b + c + d + e
-200926-1617-56	2 \alpha + 3 \sqrt { \beta }
 MfrDB2252	1 - P ( t ) = - P ( t )
 MfrDB3504	3 x - 5 < - 2
-200923-1253-153	\cdots + 2 + d
 formulaire028-equation038	f _ { n } = n f _ { 0 }
 formulaire009-equation043	b _ { 0 } = b
 MfrDB0348	x = y ^ { 2 } + 5
-200922-1017-172	\frac { \theta } { m - 3 }
-200923-1556-165	- \theta - w ^ { N }
 formulaire011-equation062	\pm w ( r , t )
 MfrDB1611	x ^ { 2 } = y - 1
 formulaire011-equation003	n = 3 4
-200923-131-135	\sum I - \phi
 MfrDB3408	1 2 3 4 + 5 6 7 8 > 9 0
 formulaire002-equation048	4 = X ^ { 2 }
-200923-131-179	f + H \neq o - t
 2009213-139-93	\sqrt { s + 6 . 4 }
-200923-131-37	1 3 + \pi r ^ { 2 }
 formulaire021-equation008	f ( x ) e ^ { x ^ { 2 } }
-200924-1331-39	Y - y \leq - P
 formulaire036-equation025	4 5 / 1 1 1 \geq 0
 formulaire005-equation043	2 ^ { n ( n - 1 ) }
 formulaire032-equation037	g ( u ) = y ( e ^ { u } )
 formulaire018-equation066	y ( 0 ) = 1
 formulaire028-equation069	j = 1 , 2
 200923-1254-356	t - \sqrt { d }
-200925-1126-173	G + N + \Delta
-2009212-952-64	\cdots + V - d
-200923-131-262	- r + \int G d B
 formulaire038-equation012	a _ { p } = p - n _ { p }
 200924-1312-234	B \geq 1 + y
 formulaire010-equation066	a c - b ^ { 2 }
 200923-1253-265	8 + A m > \sum X
 MfrDB3459	a x + b < c
 200923-1254-359	N ^ { H } m i
-MfrDB2487	( a ) ^ { - 1 } - 1
-200923-131-198	\sqrt { F } ^ { u + F }
 MfrDB1531	\sqrt { x ^ { 2 } } = | x |
 200925-1126-77	\frac { z ^ { g } } { I }
 formulaire018-equation049	e _ { t + 1 }
-200923-1251-37	1 3 + \pi r ^ { 2 }
-200923-1251-285	\sum [ t + L - G ]
-200924-1312-239	\sqrt { \beta - Y _ { k } }
+TrainData2_10_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 200923-1553-303	i + \frac { F } { g }
 2009213-137-157	b ^ { h } w _ { m }
 2009210-947-135	\frac { R + i } { [ j ] }
 200923-1254-74	e _ { f _ { g _ { h } } }
 formulaire026-equation047	\pi _ { 1 } ( X , q )
 MfrDB0687	y = 1 5 x + 7
-MfrDB1617	\sin ( 3 2 \pi )
 MfrDB0374	3 x = 5 0
 formulaire028-equation063	x _ { 0 } = 1
 formulaire014-equation060	1 7 \pm 8 8 / 1 9 4
@@ -3081,101 +2742,79 @@ MfrDB0729	f ( x ) = x ^ { 2 }
 formulaire003-equation004	\sum p _ { i } = 1
 MfrDB1419	1 + 2 = 3
 200924-1312-238	m + 8 . 9
-2009213-139-37	1 3 + \pi r ^ { 2 }
-formulaire031-equation033	\cos ^ { n } \theta
 formulaire015-equation035	1 6 6 - 3 1 = 1 3 5
 200924-1312-229	k _ { I _ { X } }
 MfrDB2493	5 0 ! \cdot n = 4 8 !
 formulaire033-equation028	a _ { y } = 0
+formulaire026-equation043	f _ { 0 } - f _ { 1 } + f _ { 2 }
 MfrDB1642	E = M C ^ { 2 }
-200923-1556-213	\sum B \neq \sum 2
 formulaire012-equation013	1 0 ^ { 3 - 4 }
 200922-947-77	- \sigma
 formulaire029-equation003	b = 2 ^ { n }
 TrainData2_11_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-formulaire037-equation031	\frac { 2 \pi } { 4 5 }
 formulaire014-equation052	a u + b v = 1
+200925-1126-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire021-equation026	7 ^ { 2 } = 4 9
-formulaire034-equation033	( n - 2 ) \times ( n - 2 )
 formulaire005-equation059	p = 2 n - 1
 MfrDB0115	E = m c ^ { 2 }
 formulaire021-equation018	8 \times 8 = 6 4
 200922-947-159	B + z = 2 z
 MfrDB3403	( 1 2 - x ) ^ { 2 }
-200925-1126-93	- B + \int \pi d j
 formulaire024-equation047	q ^ { d } - 1
-formulaire017-equation018	r \sin \theta
-90_alfonso	y = r \sin \theta
 formulaire036-equation046	x = z \sqrt { b }
+200924-1312-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire034-equation063	6 4 = 2 ^ { 6 }
 formulaire038-equation022	\sqrt { - g } = t
-2009213-137-136	\sqrt { m - h + I }
 formulaire001-equation012	u = ( u _ { n } )
-200923-1254-140	\sum \limits _ { \mu > A } P
 formulaire006-equation021	X \leq y
 MfrDB0555	2 + 2 = 4
 formulaire026-equation064	e ^ { t } X _ { t }
 200923-1556-3	\sum s ^ { Y }
-200923-1556-152	\frac { \alpha } { y }
 MfrDB2004	a x + b < c
 formulaire007-equation023	8 y _ { i + 1 }
 MfrDB0039	f ( x + y ) = f ( x ) f ( y )
-200923-1556-227	\cdots + C \neq V
 formulaire027-equation038	z ^ { k + 1 }
 formulaire014-equation053	f ( 0 ) = - \frac { 1 } { 2 }
 formulaire027-equation062	f _ { 1 } , \ldots , f _ { m }
 2009213-137-27	u - p F _ { v }
-formulaire002-equation036	\theta \rightarrow - \theta
-formulaire016-equation023	\beta = \cos ( \theta )
 formulaire027-equation019	( x , y , z )
 MfrDB2029	v = \frac { d s } { d t }
 200923-1254-229	- i
 formulaire004-equation023	a + c = b
 MfrDB0732	y = x + 1
-200923-1254-104	\sum 3 - \int B d V
 formulaire037-equation051	- 3 x
 formulaire038-equation031	a ^ { n - 1 }
 formulaire014-equation016	k = - \frac { 1 } { 2 }
-MfrDB2382	x ^ { y } - y ^ { x }
+200926-1550-139	\frac { q - [ u _ { h } ] } { 0 }
 MfrDB2386	( 1 2 - x ) ^ { 2 }
 MfrDB2498	3 x - 5 < - 2
-200924-1312-56	2 \alpha + 3 \sqrt { \beta }
 formulaire025-equation071	x ^ { n - 1 }
-formulaire009-equation052	k \rightarrow \infty
+TrainData2_9_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire031-equation026	b _ { 2 n + 1 }
 formulaire003-equation039	3 , 1 4 1 5
 formulaire014-equation034	a z _ { i j }
-65_leo	x = r \cos \theta
 formulaire001-equation032	\sum v _ { n }
+200926-1550-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire021-equation053	\gamma _ { y } ( 0 ) = y _ { 1 }
 formulaire027-equation014	p = 0 , 1
 200923-1553-207	\frac { Y } { 4 . 1 }
-TrainData2_10_sub_20	a + b + c + d + e
-2009213-137-245	\frac { M } { \frac { H } { y } }
 formulaire026-equation034	c _ { i } \neq c _ { j }
 200926-131-185	\frac { X + d } { [ I ] }
 formulaire028-equation066	2 x 1 0 ^ { 1 9 }
-formulaire027-equation071	\frac { 1 } { 2 } ( 1 \pm i )
 formulaire038-equation072	w = x y z
 formulaire028-equation002	d _ { n } ( x , y )
 formulaire035-equation060	1 6 9 / 1 6 3 \leq 1
-MfrDB1558	\log 5 + \log 4 x = 2
 MfrDB0040	f ( x y ) = f ( x ) + f ( y )
-200923-1253-41	\sum \limits _ { R \geq H } B
 TrainData2_19_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire031-equation013	f ( y ) = a y ( 1 - y )
 MfrDB2237	2 + 3 = 5
 MfrDB1405	\frac { 1 } { 2 } x = 1 0
 formulaire023-equation021	a _ { 3 } = 3 2
-200922-949-118	\frac { - g - Y } { u j }
+TrainData2_16_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 MfrDB0144	e = m c ^ { 2 }
-90_leo	y = r \sin \theta
 2009213-139-197	\frac { I } { 4 }
-formulaire015-equation053	x = - \sqrt { y - 3 }
 200923-1553-214	x + w ^ { 2 } ( G )
 MfrDB2264	\frac { 1 } { 2 }
-MfrDB3867	v = a \cdot b \cdot c
-200923-1253-183	\sqrt { \sum b + \phi }
 formulaire025-equation002	( x _ { b } , y _ { a } )
 TrainData2_12_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 200923-131-102	n ^ { - k }
@@ -3184,96 +2823,66 @@ formulaire008-equation017	u = x ^ { 2 }
 formulaire033-equation032	u _ { 0 } = a
 formulaire005-equation001	x ^ { n } = z
 formulaire032-equation010	3 8 + 6 1 \leq 9 9
+MfrDB1910	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire014-equation072	u ( 0 ) = u _ { 0 }
 2009213-137-164	E + T ( S )
+TrainData2_5_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire026-equation027	2 \pi r h
 MfrDB2064	\alpha + b = c
 MfrDB2834	a x + b < c
-formulaire015-equation013	2 ^ { n } \times 2 ^ { n }
 formulaire034-equation066	x _ { i } = 0
 formulaire008-equation028	x + d x
 formulaire027-equation072	g _ { u u } g _ { v v }
-formulaire006-equation013	1 - ( - 1 ) ^ { d }
 formulaire025-equation018	\frac { a } { b c }
 200926-1617-153	\cdots + l
-formulaire018-equation061	\alpha + \gamma = \beta
 formulaire034-equation014	k _ { 1 } = k _ { t } = k
 formulaire027-equation068	\beta _ { 0 } = 1
-formulaire005-equation014	X \rightarrow p \rightarrow q
 formulaire021-equation011	k \times n
 formulaire027-equation057	u = f ( x )
-200923-1556-217	3 . 1 \geq \int s d c
 formulaire014-equation022	y = u _ { y } ( x )
 TrainData2_6_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-200922-949-183	n < \int \sqrt { z } d d
-200926-1550-158	\cdots + h \neq S _ { \phi }
 formulaire031-equation027	m - g + 1
 formulaire037-equation056	2 - 5 i
 formulaire028-equation062	y _ { i j } = 1
-formulaire001-equation059	h ( t ) = \frac { 1 } { \pi t }
 MfrDB1669	1 2 3 4 + 5 6 7 8 > 9 0
-MfrDB3396	V = a \cdot b \cdot c
 MfrDB1613	a + b = c ^ { 2 }
-90_leissi	y = r \sin \theta
 2009220-1327-63	N _ { E } + 7
 formulaire034-equation020	1 2 3 \pm 9 5 + 1 2 5
 MfrDB1813	a _ { 1 } + a _ { 2 }
-formulaire008-equation072	Y ^ { p } - X ^ { p }
 formulaire020-equation021	x ^ { 2 } - 2
 MfrDB2275	1 2 3 4 + 5 6 7 8 > 9 0
 200923-131-117	5 b < \int E d e
 200922-1017-115	P - \frac { L } { z }
 formulaire007-equation002	1 0 ^ { 6 , 5 }
-200923-1556-208	2 \geq \int w d V
-2009212-1031-70	L \sum \limits _ { m > S } \sigma
-200926-131-15	\cdots + f ^ { j } ( j )
-formulaire027-equation073	\gamma ^ { 0 } = \beta
-200923-1553-123	\sqrt { \cdots - k - H }
-200923-1254-224	- T - T - M
 MfrDB1665	x + 1 0 = 2 0
-2009220-1327-70	\cos \sqrt { \beta } ^ { M }
-formulaire007-equation059	t = k \sqrt { \frac { m } { q } }
 formulaire009-equation047	h = 8 0 0 k m
-2009210-947-37	1 3 + \pi r ^ { 2 }
 200922-949-156	\sin ^ { A } j
-TrainData2_7_sub_20	a + b + c + d + e
-200923-1556-56	2 \alpha + 3 \sqrt { \beta }
+200923-1254-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 200924-1331-169	\sqrt { i } ^ { T }
 formulaire030-equation019	( 2 m - 1 ) = 9
 200922-947-131	\sin ^ { A } j
-8_em_65	\forall i \in I
 MfrDB0582	f ( x ) = y ^ { 2 } + 1
-formulaire001-equation029	r , \theta , \phi , t
 MfrDB2077	a _ { 1 } + a _ { 2 }
 formulaire026-equation026	n ( n ^ { 2 } + 2 )
 formulaire034-equation016	\frac { e } { 3 }
+formulaire017-equation028	y = y _ { 1 } + \frac { 1 } { z }
 MfrDB3218	x ^ { 2 } = x ^ { 3 }
-200923-1253-110	\sqrt { V + z } ^ { C }
-MfrDB0574	\sqrt { ( 1 + 5 \times 1 2 ) }
 formulaire026-equation021	\frac { 1 } { r ^ { n } }
-90_daniel	y = r \sin \theta
-formulaire025-equation061	- a - b \sqrt { 2 }
+200922-1017-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire015-equation027	u ( \theta _ { 0 } , p ) = 0
 formulaire015-equation070	6 9 + 4 2 = 1 1 1
 TrainData1_0_sub_1	\log _ { 2 } 8 = 3
 formulaire027-equation033	s _ { 0 } = 2
-200924-1312-144	\frac { n } { \sqrt { Y } }
 formulaire027-equation039	n Y _ { 2 } ^ { ( n ) }
-200923-1556-16	\frac { H ( f ) } { T \mu }
 formulaire018-equation038	x _ { k - 1 }
-90_Nina	y = r \sin \theta
-200922-947-37	1 3 + \pi r ^ { 2 }
+200922-947-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 MfrDB3557	x < \frac { c - b } { a }
-MfrDB0320	x ^ { 2 } \times y ^ { 2 }
 MfrDB1232	1 2 3 4 + 5 6 7 8 > 9 0
-2009213-139-150	z ^ { \cdots - h }
 formulaire017-equation037	u _ { p _ { i } , q _ { i } }
 formulaire001-equation013	s ^ { n - 3 }
 formulaire028-equation049	a _ { i , j }
 formulaire017-equation002	\frac { d } { d t }
 formulaire032-equation007	y = \phi _ { i j } ( x )
-MfrDB1937	x ^ { 2 } - x - 6 < 0
-formulaire031-equation030	6 8 \pm 1 7 1 \div 1 3 3
 MfrDB2144	E = E _ { k } + E _ { p }
 formulaire035-equation021	6 \times n + 1
 formulaire032-equation028	y = b + i e
@@ -3289,81 +2898,64 @@ formulaire038-equation055	6 5 + 2 8 + 1 5 1
 formulaire039-equation052	w ( z ) = 1
 MfrDB0683	y = m x + b
 formulaire015-equation066	n ^ { 2 } + n
-65_Nina	x = r \cos \theta
 formulaire016-equation014	c ( t ) = e ^ { t v }
 200924-1331-196	\cdots + ( r )
-2009213-137-176	\cdots + C ^ { z }
 formulaire027-equation023	\sum x _ { n }
 MfrDB0701	2 + 2 = 5
-formulaire013-equation034	\forall x \in X
 200923-1254-239	I y
 200924-1331-284	\frac { y } { l ^ { H } }
 formulaire028-equation003	r _ { 1 } - r _ { 2 }
 TrainData2_7_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-TrainData2_21_sub_20	a + b + c + d + e
-106_edwin	y ^ { 4 } + y + 1 = 0
 MfrDB0028	S = \pi r ^ { 2 }
+TrainData2_14_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire031-equation011	e _ { 1 } = 0
 formulaire011-equation016	\log _ { a } x
 formulaire026-equation072	\alpha = 1
-200924-1312-146	\cdots + \frac { t } { y }
+MfrDB3448	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire034-equation018	5 + 9 + 5 = 1 9
 formulaire003-equation057	m _ { 1 } = 1
-65_edwin	x = r \cos \theta
+2009212-952-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
+200922-949-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire032-equation029	\pi ( x ) = m
-200922-949-90	\sum \limits _ { z \geq F } c
-formulaire027-equation056	\alpha + 0 = \alpha
+200923-131-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire039-equation061	2 ^ { 8 } = 2 5 6
 MfrDB1526	a x + b < c
 formulaire006-equation019	c - \alpha u
 formulaire007-equation054	p = m _ { 2 } ( q )
 formulaire001-equation033	a ^ { 2 } - 2 a b
-200924-1312-108	\cdots + \cdots + g
 200923-131-41	\frac { B } { S } + v
-formulaire024-equation066	2 \pm \sqrt { 2 }
+MfrDB3344	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire016-equation057	2 \pi x y = t
-90_carlos	y = r \sin \theta
-200923-1553-111	\int \cos V d \lambda _ { A }
+MfrDB1608	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire007-equation063	s ^ { - 1 }
 formulaire001-equation041	b _ { n } - a _ { n }
-formulaire017-equation048	a ^ { n } - b ^ { n }
-formulaire009-equation018	\sin ( \pi z )
-formulaire006-equation028	\sqrt { 2 + \sqrt { 2 } }
 formulaire039-equation022	x _ { 1 } , x _ { 2 }
+TrainData2_18_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 2009213-137-17	\cdots - 9 . 6
 formulaire013-equation026	X _ { 2 } = 2 1
 MfrDB2833	a x + b < c
 MfrDB0081	f ( x ) + g ( x ) = 0
-TrainData2_18_sub_20	a + b + c + d + e
 MfrDB2079	1 2 3 4 + 5 6 7 8 > 9 0
 formulaire020-equation009	m + i
-106_rosario	y ^ { 4 } + y + 1 = 0
+formulaire022-equation034	( d _ { 1 } , d _ { 2 } , d _ { 3 } , d _ { 4 } )
 formulaire017-equation046	a b = 2
-TrainData2_15_sub_20	a + b + c + d + e
+formulaire036-equation014	o ( ( x - x _ { 0 } ) ^ { n } )
 MfrDB3533	E = E _ { k } + E _ { p }
 200922-1017-81	b _ { Y } + 8 . 5
-formulaire021-equation064	j ^ { 2 } = - 1 - j
-65_herbert	x = r \cos \theta
 formulaire039-equation054	q = \frac { 2 c } { 5 }
 MfrDB0541	x = a \times b
 formulaire035-equation051	2 ^ { ( n - 1 ) }
 formulaire012-equation054	u _ { i } ( t , x _ { j } )
 200923-1556-110	\frac { P } { H } V
 formulaire021-equation058	f ( 0 ) = f ( 1 ) = x
-200924-1331-267	\sum \cdots + d
 formulaire021-equation028	a + b + c
 200924-1312-177	F - \tan c
-65_jorge	x = r \cos \theta
 formulaire020-equation042	a _ { 2 } a _ { 3 } = a _ { 4 }
 formulaire026-equation048	1 6 = 2 ^ { 4 }
 formulaire009-equation019	2 , 4 8 \times e
 formulaire009-equation069	p ^ { 1 } = p
 formulaire032-equation021	n = 1 5 0 0
-200926-131-190	\frac { i } { G } \sum \pi
 MfrDB1768	a _ { 1 } + a _ { 2 }
-formulaire003-equation073	2 ^ { 5 } + 2 + 1
-TrainData2_16_sub_20	a + b + c + d + e
-formulaire006-equation071	d g _ { \beta } = d g _ { \alpha }
 MfrDB2292	3 x - 5 < - 2
 2009212-952-111	N ^ { B + E }
 TrainData2_14_sub_88	3 0 \times 2 9 x ^ { 2 8 }
@@ -3372,32 +2964,26 @@ formulaire039-equation042	h ( a ) = h ( b ) = 0
 MfrDB1288	E = E _ { k } + E _ { p }
 formulaire007-equation034	u _ { 0 } = ( 0 , 0 )
 formulaire019-equation056	k = i _ { 2 }
-MfrDB0237	e ^ { i \pi } + 1 = 0
+200925-1126-99	( q ( i ) ) - V _ { w } < \Delta
 formulaire007-equation045	1 9 2 - 1 6 6 \neq 1 2
-formulaire018-equation006	r = \alpha ( \theta )
-200923-1254-173	\sqrt { - t - o + h }
 200924-1312-257	\sin ^ { p } P
-200922-947-209	k - 7 . 9 \geq \sum 7
 formulaire019-equation047	d t = d t _ { 0 }
 TrainData2_22_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 200924-1331-154	\cdots - g
 MfrDB0072	a + b = b + a
 formulaire026-equation037	q = k _ { i } - k _ { d }
 200924-1331-276	t ^ { v + E }
-2009213-139-161	\frac { - l + k } { 3 }
 MfrDB2057	f ( x ) = x ^ { n }
-2009213-137-130	\sum \limits _ { C > h } E
 TrainData2_15_sub_88	3 0 \times 2 9 x ^ { 2 8 }
+formulaire010-equation041	f ( e ^ { d } ) = ( f ( e ) ) ^ { d }
 200923-1556-51	\frac { H } { M }
 MfrDB1495	E = E _ { k } + E _ { p }
-2009213-137-29	\frac { 6 - \beta } { N }
 formulaire004-equation051	r = \frac { b } { 1 - a }
-90_herbert	y = r \sin \theta
-MfrDB0021	\frac { 1 + 2 } { 3 + 4 }
 formulaire029-equation034	u _ { 5 } = ( 0 , 2 )
 formulaire026-equation054	f ( 1 ) = m _ { 0 }
+200924-1331-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 MfrDB2562	x + y = z
-formulaire012-equation048	6 \times 6 = 4 \times 9
+MfrDB3340	v = v _ { 0 } t - g t ^ { 2 }
 formulaire024-equation003	a \neq - 1
 200923-131-151	\frac { G } { f P }
 formulaire006-equation059	m ( n - 1 )
@@ -3406,630 +2992,507 @@ formulaire036-equation029	( 1 , i , j , k )
 TrainData2_16_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire036-equation027	\phi ( a , b , 0 ) = a + b
 200923-1254-249	m + \sum z
-200923-131-56	2 \alpha + 3 \sqrt { \beta }
 MfrDB2184	2 x + 3 y = 2 6
 MfrDB1973	E = E _ { k } + E _ { p }
 formulaire029-equation043	4 \times 1 0 ^ { 2 6 }
 formulaire014-equation054	w _ { n } = f _ { n }
 200926-131-151	\frac { N + c } { w }
-200922-947-11	\frac { S } { G } \sum P
 200922-1017-164	\frac { A } { v ^ { g } }
 2009212-952-101	\cos ^ { E } 2 . 6
 formulaire002-equation062	d ( 5 , 3 ) = 5
+200923-1556-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
+MfrDB3324	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire010-equation057	p = n \times m
 formulaire030-equation069	2 ^ { i } = 3 ^ { j }
-2009213-139-11	[ \sum h ] < \sum b + n
 200923-131-236	M + \frac { i } { d }
 formulaire029-equation054	h = - r
-65_caue	x = r \cos \theta
-MfrDB2206	x ^ { 2 } - x - 6 < 0
-2009213-139-15	\sum \limits _ { n \geq w } j
 formulaire025-equation049	w c = v b
 formulaire008-equation008	( 2 - 1 - 1 )
-formulaire027-equation051	\cos ^ { 2 } \theta _ { 1 }
-106_alfonso	y ^ { 4 } + y + 1 = 0
+MfrDB1726	v = v _ { 0 } t - g t ^ { 2 }
 MfrDB2437	E = E _ { k } + E _ { p }
-TrainData2_0_sub_20	a + b + c + d + e
 formulaire020-equation067	a = 0 , 8 4
 formulaire007-equation074	u _ { n } = o ( v _ { n } )
 MfrDB2835	x < \frac { c - b } { a }
 formulaire026-equation028	n = \frac { f } { d }
-200926-1617-198	\sum \limits _ { N \geq m } Y
 formulaire031-equation054	k = n + m
-200922-1017-37	1 3 + \pi r ^ { 2 }
-90_edwin	y = r \sin \theta
 200926-1550-5	I ^ { C } < z
-formulaire014-equation051	n \sin \alpha
 MfrDB1249	3 x - 5 < - 2
-65_Fabricio	x = r \cos \theta
-TrainData2_14_sub_20	a + b + c + d + e
 formulaire019-equation032	\pi - t
-200923-1253-37	1 3 + \pi r ^ { 2 }
 formulaire032-equation008	k ( x ) = g ( x )
-MfrDB1784	V = a \cdot b \cdot c
 formulaire005-equation057	z = f ( u ) + g ( v )
+MfrDB2767	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 MfrDB1413	1 + 1 3 - 7 = x
 MfrDB2806	a x + b < c
 formulaire011-equation048	2 ^ { 4 } - 1
-MfrDB2006	x ^ { 2 } - x - 6 < 0
 formulaire030-equation037	o _ { i } = 0
 200923-1254-228	\frac { v } { - n }
-formulaire030-equation016	k ^ { n + 1 } - 0
-90_user0	y = r \sin \theta
-200923-1553-107	E \lambda - \sum I
+MfrDB3047	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire013-equation033	f ( x ) = - x
 200923-131-27	A ^ { C + R }
 formulaire020-equation066	x ^ { 2 } + 3 x
 formulaire019-equation051	x _ { i 2 }
 formulaire036-equation026	f ( x + r ) = f ( x )
 formulaire019-equation027	r ( l ) = \infty
-formulaire034-equation035	1 1 7 \pm 8 5 \div 1 0 9
 formulaire017-equation056	x = 3 i
+formulaire026-equation017	f ( k _ { 1 } ) ( h _ { 2 } ) = h _ { 2 }
 formulaire021-equation047	( f _ { 1 } , \ldots , f _ { p } )
 MfrDB1040	a + b i = x
 MfrDB0722	e ^ { i \pi }
-formulaire001-equation052	p = \frac { 1 } { \theta + 1 }
-200922-1017-135	- h - \frac { E } { x }
 200926-1617-215	- i
 formulaire002-equation014	q = - e
 MfrDB2204	a x + b < c
 formulaire011-equation047	Y = X ^ { 2 }
 MfrDB0534	2 + 2 = x
 formulaire026-equation074	g ( n , v ) = 0
-90_jorge	y = r \sin \theta
 formulaire020-equation038	i = i + 1
 formulaire009-equation054	q _ { n - 1 } = a _ { n }
 formulaire015-equation050	4 6 \pm 1 7 1 + 1 9 0
 formulaire002-equation064	p ^ { a } = p
 formulaire031-equation055	8 6 \pm 1 7 9 + 1 7 3
+TrainData2_23_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire013-equation008	x \leq y
 MfrDB1800	a _ { 1 } + a _ { 2 }
 formulaire016-equation005	9 1 / 1 9 0 \geq 0
 formulaire005-equation035	1 0 + 6 7 \leq 7 7
-200923-131-134	\sum 4 - \int E d V
 formulaire030-equation002	( s , x , y , z )
 2009213-139-148	\frac { y } { T X }
-formulaire006-equation049	x \times ( - \infty )
-200926-1617-237	- j + \sqrt { z }
-MfrDB1457	\log 5 + \log 4 x = 2
-200922-949-37	1 3 + \pi r ^ { 2 }
-200923-1251-69	3 . 6 \sum t + P - A
+TrainData2_26_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire006-equation073	( X - 1 ) \times c
 200924-1331-94	\frac { B } { c - 0 }
 formulaire011-equation028	\frac { 7 } { 1 0 }
+MfrDB0011	s = \frac { 1 } { 2 } a t ^ { 2 }
 formulaire006-equation068	y = \frac { 1 } { x }
 200923-131-45	\frac { B } { n t }
-200923-1253-275	\sum \limits _ { u \geq c } G
 formulaire035-equation018	y = a \times x
-200922-949-104	\frac { v + 1 } { - h }
 formulaire007-equation061	X _ { n } = i
 formulaire027-equation003	1 0 ^ { 2 0 0 }
 200926-131-234	F < \infty
 formulaire019-equation069	x ( t _ { f } ) = 0
-200923-131-248	T ^ { d + v } [ \mu ]
-65_mijail	x = r \cos \theta
-200924-1331-37	1 3 + \pi r ^ { 2 }
 formulaire010-equation051	f ( x ) = x ^ { - 3 }
 formulaire002-equation021	y _ { i } = f ( x _ { i } )
 formulaire029-equation031	a = 3
 200923-1253-104	- \frac { Y } { t } B
 formulaire026-equation062	j ^ { k } u
-200923-1254-37	1 3 + \pi r ^ { 2 }
-106_user0	y ^ { 4 } + y + 1 = 0
-formulaire030-equation006	\gamma = \frac { 7 } { 5 }
 formulaire028-equation071	f ( x ) = \sqrt { x }
 TrainData2_18_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-90_mijail	y = r \sin \theta
 MfrDB2217	E = m c ^ { 2 }
-MfrDB1957	\int \cos t d t = \sin t
-65_maira	x = r \cos \theta
+MfrDB1876	v = v _ { 0 } t - g t ^ { 2 }
 MfrDB3499	5 0 ! \cdot n = 4 8 !
-TrainData2_22_sub_20	a + b + c + d + e
 formulaire033-equation042	t _ { 3 } = - t _ { 0 }
 formulaire035-equation016	x _ { 1 } = 1
 formulaire038-equation009	f ( s t ) = f ( t s )
-formulaire005-equation060	3 2 \pm 1 2 \times 1 5
+TrainData2_7_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire026-equation036	( x + 1 ) ^ { 2 }
-2009210-947-235	w a \leq \sum S
 formulaire029-equation014	v ( x ) = \infty
 formulaire012-equation014	u _ { 1 } = v _ { 1 }
 formulaire010-equation049	f _ { a , b , c } ( b ) = 0
 formulaire006-equation004	2 x _ { m a x }
 formulaire037-equation014	1 - q ^ { k }
 MfrDB1596	E = E _ { k } + E _ { p }
-TrainData1_3_sub_5	e ^ { i \pi } + 1 = 0
 formulaire005-equation018	\frac { 1 } { 5 0 0 }
-formulaire037-equation005	1 \times 9 7 \geq 9 6
-formulaire016-equation061	\alpha b + \beta = 0
+MfrDB3521	a _ { n } = a _ { 1 } + ( n - 1 ) d
+formulaire020-equation028	f ( a _ { 1 } ) \leq f ( a _ { 2 } )
+MfrDB1492	v = v _ { 0 } t - g t ^ { 2 }
 formulaire033-equation015	1 - 3 9 \neq 4 6
-formulaire019-equation009	p ^ { \beta - \alpha }
+2009220-1327-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
 formulaire003-equation022	q = 2 ^ { n }
-2009220-1327-37	1 3 + \pi r ^ { 2 }
 formulaire009-equation013	( x - 3 ) ^ { 2 } = 4
 formulaire022-equation068	a _ { i } + b _ { i }
 formulaire007-equation071	4 ^ { 2 } = 2 ^ { 4 }
 MfrDB1021	V = \frac { E } { T }
-65_rosario	x = r \cos \theta
 formulaire028-equation068	r \rightarrow 0
 formulaire022-equation072	1 0 0 0 \times 1 , 1
 MfrDB2273	a _ { 1 } + a _ { 2 }
 formulaire015-equation072	( p , p + 2 , p + 4 )
 formulaire039-equation048	y ( x ) = 0
-formulaire017-equation033	x ^ { 2 } + y ^ { 2 }
-200924-1312-22	\frac { V } { \cdots + N }
-200922-947-133	\cdots + \cos ^ { 8 } H
-106_daniel	y ^ { 4 } + y + 1 = 0
-200923-131-273	y = \sum \limits _ { e \geq R } e
+TrainData2_4_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+TrainData2_11_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+MfrDB1604	f ( x , y ) = \frac { x } { y } + x y
+MfrDB1132	h = \frac { 1 } { 2 } g t ^ { 2 }
 formulaire034-equation054	u ( x ) = a ( x + 1 )
 formulaire033-equation009	q + s = n
-formulaire038-equation053	n ^ { 2 } - 3 n + 3
-2009213-137-232	F ^ { \Delta + \alpha }
-formulaire036-equation060	1 1 7 \pm 1 7 3 \times 3 3
-formulaire023-equation000	7 3 / 3 6 \neq - 2
 formulaire010-equation014	x _ { 3 } = ( 2 , 2 )
-formulaire017-equation054	\frac { 8 \pi r } { q ( r ) }
-MfrDB2522	\int \cos t d t = \sin t
 formulaire038-equation011	x = 6 1 - 5 = 5 6
 TrainData2_3_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire012-equation003	4 \pi d ^ { 2 }
 formulaire029-equation044	a _ { i , n }
 formulaire033-equation019	( x _ { 0 } , \pm y _ { 0 } )
 formulaire024-equation049	x ( t ) , y ( t )
-formulaire010-equation046	+ \frac { \pi } { 3 }
+formulaire035-equation057	k _ { 1 } , k _ { 2 } , k _ { 3 } , k _ { 4 }
 formulaire038-equation057	a = 0 , 1
 formulaire024-equation043	y + 1 6
-formulaire014-equation061	\sum a _ { k } \theta _ { k } = 0
 formulaire036-equation023	g ( z ) = z ^ { 2 } f ( z )
 formulaire015-equation037	t _ { 2 n } = t _ { n }
 MfrDB2909	\lim ( x + 2 )
 formulaire021-equation036	\sum x _ { i } = 1
 formulaire026-equation046	\pi + e
-2009210-947-169	\sqrt { \sin \mu + o }
+MfrDB1970	v = v _ { 0 } t - g t ^ { 2 }
 formulaire032-equation020	8 8 + 1 2 2 = 2 1 0
-2009210-947-52	- \sum \limits _ { 5 > d } x
-200926-1550-159	\frac { w - t } { \tan r }
 formulaire001-equation068	Y = g ( X ) = \frac { 1 } { X }
 formulaire036-equation047	y ( t ) = t x _ { d } ( t )
 formulaire018-equation022	m n - 1
 formulaire027-equation009	( p , p + 2 , p + 6 )
-200922-1017-15	\mu + \sum A \leq \sum j
+MfrDB1983	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire035-equation027	a , b , c , d , e
-2009212-952-3	\sum \limits _ { F \geq d } P
-2009212-1031-50	\frac { [ t ] } { \sum P }
-200923-1253-102	\sum \limits _ { 9 \geq E } [ C ]
 TrainData2_17_sub_88	3 0 \times 2 9 x ^ { 2 8 }
+MfrDB1593	v = v _ { 0 } t - g t ^ { 2 }
 formulaire037-equation066	2 x = f + y
 formulaire018-equation029	x v x ^ { - 1 }
 200923-1253-99	- i
 formulaire033-equation026	a + b = b
 formulaire029-equation017	u ^ { p } = 0
+MfrDB1254	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire014-equation031	3 + \frac { 1 0 } { 7 0 }
 formulaire016-equation043	f ( x ) \leq g ( x )
 formulaire007-equation024	r ( t ) = ( x ( t ) , y ( t ) )
 formulaire021-equation029	\frac { n } { p ^ { j } }
-200923-131-125	g + \sin ^ { c } o
-90_Fabricio	y = r \sin \theta
-TrainData2_4_sub_20	a + b + c + d + e
+MfrDB2852	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 TrainData2_0_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-90_Frank	y = r \sin \theta
 200924-1312-283	- a Y _ { T _ { T } }
 formulaire034-equation028	x ^ { 1 } = x
 formulaire027-equation055	1 1 0 - 8 4 \neq 1
 formulaire036-equation022	s ^ { 2 } + s t = 1
 formulaire001-equation072	a _ { n } = o ( b _ { n } )
 formulaire022-equation031	2 ^ { 2 } = 2 \times 2
-200924-1312-302	i + w _ { f } \geq - H
-106_carlos	y ^ { 4 } + y + 1 = 0
 formulaire017-equation021	5 \times 1 0 ^ { 1 9 }
-90_miguel	y = r \sin \theta
 formulaire023-equation061	\gamma ( 0 ) = x
 formulaire015-equation044	X _ { 1 } , X _ { 2 } , \ldots
-formulaire029-equation024	( p + q ) \times ( p + q )
-formulaire037-equation068	\cos \theta = \beta
 MfrDB1729	E = E _ { k } + E _ { p }
-formulaire006-equation017	t = \frac { \pi } { 2 }
-MfrDB3405	x ^ { y } - y ^ { x }
 MfrDB0077	F ( x ) = \log | x | + 2
+MfrDB1739	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire005-equation045	1 7 \div 6 6 = 0 . 2 6
 formulaire032-equation069	\alpha _ { m i n }
 formulaire011-equation045	6 7 / 6 2 \geq 0
 formulaire035-equation024	\frac { d x } { d t } = - y
 MfrDB1319	a x + b < c
+formulaire026-equation071	f ( x _ { 1 } ) \leq f ( x _ { 2 } )
 formulaire016-equation036	y = x + 3
-65_alfonso	x = r \cos \theta
 formulaire018-equation021	1 0 ^ { i } r _ { 0 }
 formulaire013-equation072	b c = h ^ { 2 }
 formulaire024-equation068	n + 1
 formulaire032-equation025	7 + 1 4 0 = 1 4 7
 formulaire020-equation005	1 6 6 - 1 4 7 - 5 6 = 7 5
 formulaire009-equation071	- a ^ { 2 }
-106_leissi	y ^ { 4 } + y + 1 = 0
 MfrDB3503	1 2 3 4 + 5 6 7 8 > 9 0
 formulaire016-equation062	X = - \frac { p } { e }
+200924-1331-137	[ \int F d G ] ^ { 4 . 8 4 } ( T _ { M } )
 formulaire007-equation021	n \log _ { 2 } n
 formulaire002-equation030	2 4 / 1 2 5 = 0 . 1 9
+formulaire015-equation049	p _ { 1 } + p _ { 2 } = p _ { 3 } + p _ { 4 }
 formulaire008-equation070	1 9 9 - 1 5 1 = 4 8
-106_david	y ^ { 4 } + y + 1 = 0
-2009213-137-199	[ \sum h ] < \sum f + n
+TrainData2_0_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 TrainData2_21_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 TrainData2_5_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire015-equation073	x + a = y + a
+MfrDB3541	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 MfrDB1023	x + y = 4 + y
+MfrDB3437	v = v _ { 0 } t - g t ^ { 2 }
 200923-1253-243	\frac { s } { - M }
 2009210-947-205	\frac { i } { a }
 MfrDB0193	2 0 0 - 2 0 0 = 0
 formulaire038-equation039	p = k + 1
-200924-1312-270	\log \frac { Y } { o - y }
+2009213-139-54	\log _ { 2 } ( 2 ^ { 5 } ) = 5
+formulaire003-equation029	q _ { j } ( 0 ) \neq q _ { k } ( 0 )
+formulaire027-equation074	m _ { 0 } ( g _ { \alpha } ) = m _ { 0 } ( f )
 MfrDB0639	x ^ { 2 } + 3 m = 3 i
-formulaire006-equation072	\phi = \frac { \pi } { 2 p }
-MfrDB2583	V = a \cdot b \cdot c
-106_herbert	y ^ { 4 } + y + 1 = 0
-200922-947-208	\sin ^ { r } \pi
 formulaire003-equation066	f ( x ) = 7 x - 3
 TrainData2_4_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-formulaire032-equation001	x = c \times \beta
 formulaire026-equation060	1 9 \pm 1 2 8 / 1 3 2
 formulaire033-equation044	u _ { 1 } = \beta u _ { 2 }
-TrainData2_17_sub_20	a + b + c + d + e
-MfrDB3242	e ^ { \pi i } + 1 = 0
-200923-1254-139	C \geq \sum u
+MfrDB3248	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
+TrainData2_21_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 MfrDB2807	x < \frac { c - b } { a }
 formulaire032-equation068	z = x + i
-formulaire036-equation015	5 0 \pm 1 5 1 \div 4 4
-MfrDB1712	\int \cos t d t = \sin t
 formulaire011-equation063	2 \pi n
-formulaire020-equation007	( m + 1 ) \times ( n + 1 )
-65_carlos	x = r \cos \theta
 formulaire016-equation040	1 7 8 / 4 1 \geq 3
-formulaire024-equation058	a = \alpha + i \beta
 formulaire020-equation073	x - y = x - y
 MfrDB1198	t = n ^ { 2 } + 3
-TrainData2_1_sub_20	a + b + c + d + e
 MfrDB2808	2 + 3 x y > 1 0
 formulaire013-equation074	y - \phi _ { i j } ( x )
-90_lucelia	y = r \sin \theta
-formulaire005-equation020	1 0 0 \pm 1 5 \times 1 6
-MfrDB0009	y = a \cdot \sin ( 2 \pi f t )
 MfrDB1437	a _ { 1 } + a _ { 2 }
 formulaire003-equation069	0 = ( 0 , 0 , \ldots , 0 )
 formulaire024-equation067	g ( v , v ) = 0
-formulaire002-equation072	( 0 , \pm 1 , \pm 1 , 0 )
 MfrDB3556	a x + b < c
 TrainData2_24_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 MfrDB2091	5 0 ! \cdot n = 4 8 !
-MfrDB1863	\int \cos t d t = \sin t
 TrainData2_9_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire002-equation066	y \neq x
 MfrDB3362	x < \frac { c - b } { a }
-formulaire009-equation006	\cos ( a ) \cos ( b )
+MfrDB2131	f ( x , y ) = \frac { x } { y } + x y
 formulaire001-equation028	2 ^ { n } - 1
-formulaire019-equation050	1 4 3 \pm 1 9 1 \times 7
-formulaire036-equation045	9 3 \times 6 7 \neq 4 7 5 5
+MfrDB3298	v = v _ { 0 } t - g t ^ { 2 }
 200924-1331-266	G _ { h } ^ { Y - v }
-MfrDB1479	\int \cos t d t = \sin t
 formulaire007-equation047	k _ { 1 } , \ldots , k _ { m }
-formulaire016-equation044	x \times ( + \infty )
 formulaire029-equation033	f ( x ) = a \sqrt { x }
 formulaire006-equation032	h = c _ { 0 } + m f
-formulaire009-equation034	y ^ { 5 } + p y + q
-106_caue	y ^ { 4 } + y + 1 = 0
 formulaire006-equation063	( X - a ) ( 2 X - b )
+MfrDB1981	f ( x , y ) = \frac { x } { y } + x y
 formulaire027-equation052	1 0 ^ { - 1 5 } m
-TrainData2_11_sub_20	a + b + c + d + e
-200923-131-129	\frac { A } { \int m d n }
 formulaire033-equation034	( c _ { 0 } , \ldots , c _ { i } )
 formulaire035-equation061	a _ { i } = a _ { i + n }
 formulaire005-equation009	u _ { 1 } = a u _ { 0 } + b
-65_leissi	x = r \cos \theta
 formulaire018-equation072	0 \leq q _ { 2 }
 200924-1331-237	i + F > j + x
 MfrDB1451	5 0 ! \cdot n = 4 8 !
 formulaire025-equation054	d = 0 , 0 3 6 \sqrt { f }
+MfrDB2943	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 formulaire010-equation056	x ^ { 3 } - 1 = 0
+MfrDB2297	a _ { n } = a _ { 1 } + ( n - 1 ) d
+formulaire012-equation029	m _ { n } ( g _ { \alpha } ) = m _ { n } ( f )
 formulaire038-equation049	u v = - \frac { 5 } { 9 }
-MfrDB3534	\int \cos t d t = \sin t
 formulaire018-equation052	( n _ { 1 } , n _ { 2 } )
 200924-1312-189	\frac { i } { G S }
 formulaire039-equation003	X ^ { 3 } + b = a X
-65_Frank	x = r \cos \theta
 formulaire021-equation033	\frac { 6 } { 5 } X = 2 1
+MfrDB1461	a _ { n } = a _ { 1 } + ( n - 1 ) d
 MfrDB2247	x + y = z
-2009212-1031-111	\sum \limits _ { T \geq g } 8 . 2
 formulaire012-equation023	6 + 2 b = 1 2 + 6
-formulaire018-equation017	\alpha , - \alpha
-200924-1312-37	1 3 + \pi r ^ { 2 }
+formulaire015-equation039	( f ( a ) , f ^ { ( p ) } ( a ) , f ^ { ( q ) } ( a ) )
 formulaire002-equation056	y = x ^ { n }
-formulaire002-equation070	1 4 8 - 1 4 1 \neq - 4
+MfrDB1796	\frac { 1 0 0 ! } { 9 7 ! - 6 ! }
 MfrDB2005	x < \frac { c - b } { a }
 formulaire019-equation024	z \pm c t
 MfrDB0073	a ( b + c ) = a b + a c
+MfrDB2154	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire001-equation031	\frac { 2 } { 3 } n ^ { 3 }
 formulaire007-equation038	( a + c ) ^ { 2 } = 1 2
+MfrDB1298	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 TrainData2_1_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire012-equation033	y = x \times x
 formulaire020-equation027	x _ { q } = x
 formulaire028-equation017	n Y _ { 1 } ^ { ( n ) } = k
-90_david	y = r \sin \theta
 200922-1017-111	- 2 0 9 . 4 \frac { c } { u }
 formulaire025-equation026	c _ { i } ^ { 0 }
 2009213-139-141	\cdots - 6
 TrainData2_25_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire032-equation046	\sin ( n x ) = 0
 formulaire008-equation030	9 2 / 7 0 = 1 . 3 1
-formulaire003-equation063	x ( \theta ) = a \sin ( \theta )
 MfrDB2205	x < \frac { c - b } { a }
 formulaire002-equation073	k _ { n } = 1
-200923-1556-37	1 3 + \pi r ^ { 2 }
-2009220-1327-51	- s + \frac { T } { L }
-106_Fabricio	y ^ { 4 } + y + 1 = 0
 formulaire022-equation074	\pi _ { x } = ( y , z )
-MfrDB2293	\log 5 + \log 4 x = 2
+MfrDB0062	f ( x _ { n } ) > s - \frac { 1 } { n }
+MfrDB2152	f ( x , y ) = \frac { x } { y } + x y
+TrainData2_25_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire029-equation006	n = 5
 MfrDB2650	\sin ( x ) = 2 0 z
 formulaire039-equation066	y ( x ) = x ^ { 2 } - n
 formulaire018-equation041	r ( n ) = \sqrt { n }
 MfrDB1818	1 2 3 4 + 5 6 7 8 > 9 0
-2009220-1327-56	2 \alpha + 3 \sqrt { \beta }
-formulaire029-equation020	1 7 4 \div 7 \leq 2 5
+MfrDB1296	f ( x , y ) = \frac { x } { y } + x y
+formulaire032-equation022	f ( x _ { p } ) = f ( x _ { q } ) = 0
 formulaire006-equation053	b _ { 0 } = 1
 formulaire009-equation055	1 2 5 - 8 6 \neq 3 8
-TrainData2_23_sub_20	a + b + c + d + e
 formulaire031-equation053	g ( x + 4 ) = g ( x )
-MfrDB3506	\log 5 + \log 4 x = 2
 200923-1254-326	T ^ { c + L } ( m )
-formulaire027-equation024	e ^ { \alpha t } \cos \beta t
 formulaire012-equation026	x ^ { 2 } = r
 formulaire004-equation037	x _ { 0 } , y _ { 0 } , z _ { 0 }
 MfrDB0187	x ^ { 2 } + 2 x = 0
-2009213-137-225	\cos \frac { E } { M }
-MfrDB2421	\int \cos t d t = \sin t
-MfrDB3250	2 \sin ( x + 5 ) + 5 !
-formulaire001-equation056	n ^ { 2 } - n + 4 1
+MfrDB1887	f ( x , y ) = \frac { x } { y } + x y
 formulaire007-equation013	a c = 1
-MfrDB0117	k = \frac { n \pi } { L }
-formulaire003-equation001	- \frac { 1 } { \pi }
 200923-131-136	\frac { M } { u ^ { A } }
-formulaire027-equation069	0 \leq p \leq 1
+2009220-1327-105	3 . 8 \sum P _ { A _ { N } } + 8 5
+MfrDB1285	v = v _ { 0 } t - g t ^ { 2 }
+MfrDB2141	v = v _ { 0 } t - g t ^ { 2 }
 formulaire003-equation037	k = f ( a + h ) - f ( a )
-formulaire022-equation025	4 7 - 6 4 \leq - 1 6
 formulaire030-equation057	x = e ^ { t }
-MfrDB2097	\log 5 + \log 4 x = 2
-MfrDB1250	\log 5 + \log 4 x = 2
-formulaire012-equation060	1 2 9 \div 1 7 3 \leq 1
 formulaire002-equation009	f ( x , y ) = 1
-formulaire009-equation061	x = r \cos \theta
-95_Nina	b = c \sin B = c \cos A
-106_Nina	y ^ { 4 } + y + 1 = 0
 200923-131-173	\frac { i - t } { E }
-TrainData2_5_sub_20	a + b + c + d + e
 formulaire030-equation030	1 0 5 \pm 2 5 / 6 1
 MfrDB2379	1 2 3 4 + 5 6 7 8 > 9 0
-formulaire002-equation065	1 4 \times 8 7 \neq - 1 9 6
+MfrDB2445	f ( x , y ) = \frac { x } { y } + x y
 formulaire013-equation055	1 8 1 + 2 2 \geq 2 0 2
-106_fabio	y ^ { 4 } + y + 1 = 0
+formulaire032-equation065	( 1 6 2 / 1 5 5 ) + 6 = 7 . 0 5
 formulaire035-equation012	2 , 7 \times 1 0 ^ { 4 4 }
 formulaire014-equation021	x = \sin ( y )
 MfrDB1528	x < \frac { c - b } { a }
 formulaire021-equation054	x ( t ) = x ( t - 1 )
-200923-1553-268	\cdots + l ^ { \beta }
 MfrDB2406	e = m c ^ { 2 }
 TrainData2_20_sub_88	3 0 \times 2 9 x ^ { 2 8 }
+TrainData2_15_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 MfrDB2335	E = E _ { k } + E _ { p }
-TrainData2_25_sub_20	a + b + c + d + e
-106_Frank	y ^ { 4 } + y + 1 = 0
+MfrDB2748	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire001-equation030	1 \pm 2 0 - 1 7 3
-formulaire003-equation000	1 2 \div 7 5 \geq 0
+TrainData2_2_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire008-equation016	1 0 x = 3
 formulaire027-equation025	1 4 1 - 5 7 \leq 8 4
 formulaire027-equation022	1 4 1 - 5 7 \leq 8 4
 formulaire022-equation002	u , v , w , x
-formulaire032-equation060	9 5 - 1 3 5 \neq - 5
-formulaire032-equation003	\frac { \beta } { \alpha + 1 }
-MfrDB1272	\int \cos t d t = \sin t
+TrainData2_19_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire011-equation039	g _ { a } ( r ) = m - 1
+MfrDB1845	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire034-equation006	\frac { a } { b } = c
+formulaire039-equation070	9 4 \times ( 1 1 / 1 4 6 ) = 7 . 0 8
 200923-1553-63	\cdots - i _ { z }
-65_user0	x = r \cos \theta
 formulaire001-equation018	a = \frac { b } { g ( b ) }
-formulaire004-equation005	7 \times 1 5 4 \neq - 1 3 6 2
 formulaire029-equation015	1 8 \times 7 0 = 1 2 6 0
 formulaire016-equation067	y = v \sin ( u )
-MfrDB1321	x ^ { 2 } - x - 6 < 0
 formulaire020-equation072	m _ { 2 } = 1
-TrainData1_6_sub_5	e ^ { i \pi } + 1 = 0
+formulaire030-equation048	y _ { 4 } = - \frac { 7 i } { 2 }
 formulaire024-equation044	m _ { 1 } - m
+TrainData2_12_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire008-equation036	f ( x _ { 0 } ) = a _ { 0 }
 formulaire003-equation044	h = l + m + n
 formulaire018-equation037	a \times 1 0 ^ { p }
 formulaire035-equation035	3 7 + 1 0 \leq 4 7
-MfrDB2671	x ^ { 2 } - x - 6 < 0
-TrainData2_2_sub_20	a + b + c + d + e
-65_miguel	x = r \cos \theta
 formulaire027-equation050	1 9 2 \pm 1 8 2 - 4 3
 formulaire006-equation069	m = 1 0 ^ { 4 }
 MfrDB1783	1 2 3 4 + 5 6 7 8 > 9 0
-TrainData2_24_sub_20	a + b + c + d + e
 formulaire017-equation043	a b + n c = 1
-MfrDB1841	\log 5 + \log 4 x = 2
+TrainData2_20_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire018-equation032	2 ^ { m } \times 2 m
 formulaire022-equation054	v = v _ { i } e _ { i }
-formulaire010-equation045	2 5 - 8 2 \leq - 5 6
 formulaire032-equation040	1 7 4 + 4 3 = 2 1 7
 MfrDB0755	E = m c ^ { 2 }
 formulaire012-equation058	( 3 + 4 ) ^ { 3 } = 3 4 3
 MfrDB2638	E = E _ { k } + E _ { p }
-2009213-137-77	g \geq \frac { b } { \sum p }
-MfrDB2118	\int \cos t d t = \sin t
-formulaire032-equation070	1 1 0 - 1 7 5 \geq - 6 5
+formulaire010-equation074	( p _ { 1 } , q _ { 1 } ) \leq ( p _ { 2 } , q _ { 2 } )
+MfrDB3468	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 formulaire037-equation019	u = \cos ( t )
-formulaire011-equation005	1 7 0 \pm 8 \times 1 0 9
-formulaire008-equation042	( \pm 1 , 0 , 0 , \pm 1 )
 formulaire001-equation019	v , u _ { 1 } , u _ { 2 }
-TrainData1_4_sub_5	e ^ { i \pi } + 1 = 0
 formulaire032-equation031	( a x ) ( b y ) = ( a b ) ( x y )
 formulaire014-equation056	x = - a
-formulaire023-equation064	p + 1 + 2 \sqrt { p }
-formulaire011-equation058	e ^ { - x ^ { 2 } }
-TrainData2_9_sub_20	a + b + c + d + e
+MfrDB3536	f ( x , y ) = \frac { x } { y } + x y
 formulaire011-equation001	a _ { n } z ^ { n }
 200923-1254-70	2 2 . 2 = \sum g
-formulaire031-equation036	x ^ { 3 } - 3 x + 1
-106_miguel	y ^ { 4 } + y + 1 = 0
+TrainData2_22_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire007-equation033	c _ { 1 } = a _ { 1 1 }
 formulaire037-equation043	4 n ^ { 2 } + 1
 formulaire035-equation038	0 = 6 ( x - 2 ) ( x + 1 )
+MfrDB3098	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 TrainData2_8_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire022-equation000	1 5 2 + 1 5 6 \geq 3 0 7
 formulaire008-equation024	0 , 2 5 \times 3 6 0
 formulaire037-equation012	a _ { i , i }
 formulaire028-equation020	1 5 1 \pm 5 8 - 1 6 2
 formulaire025-equation044	( e _ { 1 } , \ldots , e _ { n } )
-formulaire013-equation052	\cos ( \beta ) = \sin ( \alpha )
-76_Nina	a = b \cos C + c \cos B
-65_daniel	x = r \cos \theta
+MfrDB1737	f ( x , y ) = \frac { x } { y } + x y
 formulaire028-equation043	a _ { 5 } = 1 4
 200926-131-140	o = \frac { z } { C }
-200923-1553-221	\cdots + g - w
 formulaire025-equation067	m _ { i j } = 1
 formulaire018-equation058	2 ^ { 2 } + 1
 formulaire033-equation047	u _ { 2 } = 1 2 , 1
+TrainData2_3_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+formulaire010-equation012	f ( z ) = ( z - z _ { j } ) ^ { n _ { j } } g ( z )
 formulaire029-equation055	3 6 \times 1 3 7 = 4 9 3 2
 200923-131-249	\frac { P - a } { 0 }
 formulaire020-equation030	1 7 8 + 6 1 \neq 5 6 5
 formulaire014-equation046	a = b = c
 formulaire022-equation013	x _ { k } = y _ { k }
+MfrDB1694	a _ { n } = a _ { 1 } + ( n - 1 ) d
 TrainData2_26_sub_88	3 0 \times 2 9 x ^ { 2 8 }
-200923-1553-21	z \geq \frac { h } { 0 }
 formulaire025-equation053	X = x _ { 0 } + Y
-formulaire024-equation056	5 ^ { 5 ^ { 5 } } + 2
-formulaire022-equation071	e ^ { i \pi } = - 1
 MfrDB1935	a x + b < c
 200926-1617-115	I - m \leq i ( E )
-TrainData2_19_sub_20	a + b + c + d + e
+formulaire007-equation044	a _ { i , j } = f ( e _ { i } , e _ { j } )
 formulaire027-equation049	u ( a ) = u ( b ) = 0
 formulaire016-equation041	0 + 0 = 0
-TrainData2_13_sub_20	a + b + c + d + e
 formulaire011-equation007	l _ { 1 } = ( 3 0 0 0 , 1 )
-formulaire025-equation060	7 2 \pm 7 8 - 1 8 7 + 0
-200926-131-177	a ^ { m + a + N }
 TrainData2_13_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire011-equation044	p = 4 m + 1
 formulaire034-equation037	s _ { 1 } , \ldots , s _ { n }
-200926-1617-110	n \leq T ^ { B + p }
+MfrDB2747	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire034-equation009	X _ { 1 } , \ldots , X _ { p }
-formulaire020-equation020	6 5 \times 1 9 7 \leq 1 2 8 0 5
 MfrDB1320	x < \frac { c - b } { a }
+MfrDB1505	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
+MfrDB3045	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 MfrDB1795	5 0 ! \cdot n = 4 8 !
-formulaire006-equation006	3 ^ { n + 1 } + 2
 formulaire004-equation070	0 \pm 1 4 5 - 3 5
+MfrDB2101	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire015-equation059	p = a + b + c
 formulaire007-equation022	1 , 1 \times 1 0 ^ { 1 8 }
 MfrDB0596	y = x ^ { 2 } - 3
 formulaire013-equation045	1 7 9 \times 1 8 8 = 3 3 6 5 2
-formulaire022-equation067	\lim ( u _ { n } ) = + \infty
 formulaire027-equation046	1 8 = 2 ^ { 1 } 3 ^ { 2 }
 formulaire015-equation052	q = e ^ { 2 i \pi z }
-formulaire028-equation065	9 5 \times 4 7 \leq 4 4 6 5
 formulaire013-equation048	x ^ { 2 n + 1 }
 formulaire006-equation035	4 8 / 2 1 = 2 . 2 9
 formulaire002-equation043	y = \frac { 1 } { Y }
 formulaire025-equation028	y = a x ^ { 2 }
-formulaire038-equation042	n \rightarrow \infty
 formulaire030-equation045	1 9 2 \times 1 8 3 = 3 5 1 3 6
+MfrDB2153	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire021-equation030	3 8 + 1 4 7 \leq 1 8 5
-2009212-1031-44	\cdots + \frac { e } { s }
+formulaire010-equation033	X _ { 2 } = - \frac { 4 9 } { 4 }
 formulaire009-equation062	n _ { i , j } \neq 0
 formulaire003-equation005	1 2 6 - 4 8 = 7 8
 formulaire036-equation064	( e _ { 1 } , e _ { 2 } , \ldots )
-formulaire002-equation012	x ( \theta ) = a \sin ( p \theta )
-65_david	x = r \cos \theta
 formulaire020-equation013	z = x - \frac { b } { 3 a }
 formulaire016-equation013	f ( x ) = 4 x ( 1 - x )
-formulaire022-equation045	1 8 3 \times 9 9 \geq 1 8 1 1 6
 formulaire039-equation033	a = - 1
-formulaire037-equation045	9 7 - 1 8 7 \geq - 9 0
-formulaire012-equation050	1 0 0 + 1 8 9 \neq - 8 1
-MfrDB3558	x ^ { 2 } - x - 6 < 0
-TrainData2_8_sub_20	a + b + c + d + e
+formulaire035-equation074	\sum q _ { i } c _ { i } ^ { 0 } = 0
+formulaire035-equation009	\sum q _ { i } c _ { i } ^ { 0 } = 0
+formulaire007-equation048	y _ { 1 } + y _ { 3 } = \sqrt { z _ { 2 } }
+MfrDB1605	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire030-equation061	a = - 1 \times 9
 formulaire033-equation013	x _ { n } = 1
-2009213-139-65	\frac { \phi } { \sum \lambda }
-TrainData2_26_sub_20	a + b + c + d + e
 formulaire039-equation000	6 9 \times 1 5 = 1 0 3 5
 formulaire023-equation046	a + b + c = 0
 formulaire023-equation052	d ( p + 1 , 0 ) = 0
-formulaire022-equation016	\frac { 4 } { 3 } \pi a b c
+MfrDB1738	F ( x , y , z ) = G ( x , y ) + H ( y , x )
 formulaire021-equation040	3 1 + 5 4 = 8 5
 formulaire009-equation073	e = 0
 formulaire010-equation027	( a _ { 1 } , \ldots , a _ { k } )
 200922-949-51	\cdots - x m
 formulaire034-equation034	n _ { s } = \frac { 6 0 f } { p }
-MfrDB1688	\log 5 + \log 4 x = 2
-formulaire033-equation027	0 \leq l \leq k
 formulaire025-equation039	t _ { 0 } = r _ { 0 } - 0
 formulaire037-equation003	z ^ { n } = 1
+formulaire013-equation039	( 1 - j ) l _ { 1 } = c - j b
+MfrDB3347	f ( x , y ) = \frac { x } { y } + x y
 formulaire008-equation052	y = \sin ( t )
-200926-131-37	1 3 + \pi r ^ { 2 }
-MfrDB2884	\int \cos t d t = \sin t
+formulaire019-equation018	f ( x ) = \frac { 1 } { 1 + x }
 formulaire014-equation068	- \frac { 1 0 1 } { 1 0 0 }
 formulaire019-equation057	1 + \frac { t } { 1 0 0 }
-formulaire006-equation001	r = \alpha ( \theta ) \pm d
-formulaire007-equation025	3 7 \times 4 5 \geq 1 6 6 4
-2009213-139-187	\frac { o } { \sqrt { c } }
-formulaire005-equation067	x ( t ) = v _ { 0 } \cos \alpha t
-TrainData1_7_sub_5	e ^ { i \pi } + 1 = 0
+MfrDB3181	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 MfrDB1776	1 2 3 4 + 5 6 7 8 > 9 0
-TrainData2_12_sub_20	a + b + c + d + e
 formulaire009-equation024	a , b , c , d
-formulaire009-equation025	3 4 \pm 8 9 \times 1 2 8
-formulaire028-equation010	1 6 0 \pm 1 1 0 \times 4 6
 formulaire024-equation063	2 5 2 = 2 8 \times 9
-2009210-947-5	- I - w - n
-95_herbert	b = c \sin B = c \cos A
+MfrDB1562	a _ { n } = a _ { 1 } + ( n - 1 ) d
+MfrDB3064	f ( x , y ) = f _ { 1 } ( x , y ) + f _ { 2 } ( \frac { x } { y } )
+TrainData2_17_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 200923-1253-124	\frac { r ^ { F } } { u M }
-MfrDB0199	5 \times ( 1 + 2 ) = 3 \times 5
 formulaire033-equation040	4 8 \pm 1 5 9 + 1 3 1
 formulaire024-equation033	c = c + 1
 formulaire030-equation036	x ^ { 2 } = - 2 5
 formulaire019-equation071	r = \alpha
-formulaire010-equation002	t _ { 0 } \leq t \leq t _ { 1 }
-MfrDB3366	x ^ { 2 } - x - 6 < 0
 formulaire037-equation007	\lim u _ { n } = 0
 formulaire012-equation049	a _ { t a n } = r \alpha
 formulaire026-equation044	( 1 - j ) m = c - j a
+formulaire020-equation059	1 , 3 9 7 1 6 2 \times 1 0 ^ { 3 1 6 }
+MfrDB1890	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 formulaire024-equation008	f ( x ) = x ^ { 2 }
+formulaire016-equation002	p _ { n } - p _ { 1 } = s ( k )
+formulaire039-equation074	q ( x ) = a _ { 1 1 } x _ { 1 } ^ { 2 }
 formulaire010-equation013	x y = \frac { c } { a }
-TrainData2_20_sub_20	a + b + c + d + e
 formulaire033-equation072	3 ^ { n } = 3 m o d n
 formulaire022-equation007	k w ^ { k - 1 } = 0
+formulaire016-equation024	( x _ { 0 } , y _ { 0 } , z _ { 0 } )
 formulaire017-equation031	d x + e y + f = 0
 formulaire030-equation001	g ( x ) = \frac { 1 } { x }
 formulaire028-equation024	p = 2 r + 1
 formulaire002-equation013	y _ { 1 } ( x ) = x ^ { 2 }
-76_rosario	a = b \cos C + c \cos B
 formulaire020-equation058	\frac { a } { x } = b
 formulaire016-equation021	a + 0 = a
 formulaire028-equation050	7 8 \pm 5 3 - 1 6 1
 formulaire009-equation060	1 2 5 + 1 6 \neq 2 5 4
 200923-131-268	\frac { 0 s } { 5 . 7 }
+MfrDB3802	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
 2009213-139-124	\frac { A } { i }
 formulaire018-equation012	u a + v b = 1
+formulaire013-equation009	x = \frac { 1 } { 2 } g t ^ { 2 }
 formulaire007-equation017	0 , 0 9 + i 0 , 1 2
 MfrDB0331	4 + 4 = 8
 formulaire018-equation009	n = 2 ^ { p }
-106_fujita	y ^ { 4 } + y + 1 = 0
+TrainData2_13_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+formulaire004-equation044	r _ { i } , r ^ { j } , r ^ { k }
 TrainData2_23_sub_88	3 0 \times 2 9 x ^ { 2 8 }
 formulaire026-equation012	a _ { n } , b _ { n } , c _ { n }
 formulaire014-equation033	x ^ { 2 } - r = 0
-95_jorge	b = c \sin B = c \cos A
 formulaire037-equation029	z _ { 2 } - z _ { 1 } = h
 formulaire023-equation033	k _ { 1 } = k _ { 2 }
-formulaire011-equation015	3 3 \times 1 6 3 \neq 3 1 4 4
 formulaire038-equation006	6 a + 2 b = 2 x + y
-200923-131-192	o ^ { \theta + r }
 formulaire012-equation057	c ( x , y ) = h ( x - y )
 formulaire028-equation046	z = e ^ { i \alpha }
 formulaire012-equation021	a _ { 0 } = x
+formulaire015-equation042	a _ { n - 1 } a _ { n } = a _ { 1 }
 2009213-139-234	\cdots - 5
 formulaire023-equation062	\frac { ( a + c ) h } { 2 }
 formulaire022-equation037	t = ( 2 n + 1 ) x
@@ -4038,8 +3501,12 @@ formulaire017-equation074	n = k + 2 t
 formulaire021-equation070	1 6 7 \pm 1 3 7 + 1 5 9
 MfrDB1008	e = m c ^ { 2 }
 MfrDB1936	x < \frac { c - b } { a }
-formulaire001-equation010	1 5 1 \pm 1 4 3 \div 9 7
+formulaire034-equation022	( u v ^ { 2 } b - u v w c ) = 0
+MfrDB2907	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
+MfrDB3431	a _ { n } = a _ { 1 } + ( n - 1 ) d
 formulaire031-equation066	1 0 0 - X ^ { 2 } = 9 6
+MfrDB1503	f ( x , y ) = \frac { x } { y } + x y
+formulaire013-equation067	u _ { n } = u _ { p } q ^ { n - p }
 200923-1254-40	\frac { c - d } { p } u
 formulaire027-equation064	\frac { a } { p - a }
 formulaire026-equation058	a _ { 0 } = a
@@ -4047,245 +3514,265 @@ formulaire032-equation041	r = x - y ^ { n }
 formulaire011-equation021	k = - 1
 formulaire011-equation064	p ^ { a } = \pi = p
 formulaire008-equation035	5 8 + 4 \geq 6 1
-formulaire003-equation046	x ^ { 5 } + x + a
-200922-949-101	- v + \frac { L } { j }
-formulaire027-equation067	e ^ { \alpha t } \sin \beta t
-formulaire013-equation004	( \cos ( a ) , \sin ( a ) )
+formulaire036-equation019	f ( u ) = f ( u + 0 ) = f ( u ) \times f ( 0 )
 formulaire009-equation049	r = p g c d ( k , n )
 formulaire028-equation051	a = \frac { y } { x }
-200923-1556-265	\frac { j - c } { - y }
-formulaire019-equation072	( \pm 1 , \pm 1 , 0 , 0 )
-MfrDB1228	e ^ { i \pi } + 1 = 0
-formulaire027-equation013	x ^ { 2 } - 2 x + 5
 formulaire019-equation070	2 4 - 4 3 \neq 1 8
 formulaire026-equation070	1 2 9 + 1 3 6 = 2 6 5
 formulaire033-equation061	2 ^ { 7 } = 1 2 8
+formulaire039-equation037	r _ { k } = t _ { k } + \frac { q } { 2 }
+TrainData2_6_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire028-equation004	g _ { i } ( x , y , z ) = 0
+formulaire006-equation027	d _ { t c } = d _ { a } + t _ { b r }
 formulaire013-equation059	1 , i , j , k
 formulaire039-equation011	a y + b x = c
 formulaire010-equation044	\frac { d x } { d t } = f ( x )
+MfrDB2936	f ( x , y ) = f _ { 1 } ( x , y ) + f _ { 2 } ( \frac { x } { y } )
 formulaire003-equation034	m _ { 1 } , m _ { 2 } , m _ { 3 }
+TrainData2_8_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
 formulaire030-equation000	1 5 4 + 1 3 \leq 1 6 7
 formulaire006-equation002	n = 2 ^ { m }
+MfrDB3165	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 formulaire018-equation046	z = r e ^ { i \theta }
+formulaire012-equation022	s _ { i } s _ { j } = s _ { j } s _ { i }
 formulaire019-equation073	1 2 5 = 5 ^ { 1 + 2 }
-TrainData1_8_sub_5	e ^ { i \pi } + 1 = 0
-TrainData2_3_sub_20	a + b + c + d + e
-formulaire019-equation017	\frac { p } { q } \leq a
+formulaire003-equation014	x _ { i } X _ { j } - x _ { j } X _ { i }
 formulaire013-equation003	z _ { 2 } = \frac { 1 } { 2 }
 formulaire039-equation019	a _ { 1 } a _ { 2 } = a _ { 3 }
 formulaire006-equation048	3 a + 2 \leq 5
 formulaire002-equation028	a _ { 2 } = - 1
-formulaire001-equation015	7 8 \pm 5 \times 4 7
+formulaire019-equation067	f ( y ^ { ( n ) } , \ldots , y ) = 0
+formulaire032-equation057	f _ { p } ( x ) = 4 p x ( 1 - x )
+formulaire017-equation017	\alpha _ { i k _ { i } } u ^ { k _ { i } } ( x _ { i } )
 formulaire006-equation033	r = \frac { x } { y }
 formulaire037-equation050	8 + 1 0 4 - 8 = 1 0 4
 formulaire028-equation007	v _ { 1 } , \ldots , v _ { n }
 MfrDB3361	a x + b < c
-formulaire007-equation000	5 9 + 5 3 \neq - 6 5
+formulaire038-equation062	f _ { p } ( X ) = \frac { 1 } { 1 - f ( p ) X }
 formulaire024-equation061	z _ { 1 } = 1 + \sqrt { 2 }
 formulaire009-equation030	1 9 7 + 1 4 3 \geq 3 3 9
 formulaire029-equation074	5 , 1 \times 1 0 ^ { 1 8 }
-formulaire038-equation019	\theta = \frac { 2 k \pi } { q }
 formulaire007-equation052	w ^ { 5 } = 1 - w
-106_leo	y ^ { 4 } + y + 1 = 0
+MfrDB3370	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 MfrDB0375	2 ^ { x } = 5 0 x
+formulaire033-equation056	\frac { d } { d x } f ( x ) = f ( x ) ( 1 - f ( x ) )
 formulaire028-equation072	x = t ^ { 3 }
-95_rosario	b = c \sin B = c \cos A
 formulaire028-equation013	x _ { i } \neq 0
-formulaire029-equation071	y = a - b \cos ( \theta )
+MfrDB3219	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
 formulaire029-equation001	- \sin x
-formulaire026-equation055	1 5 1 \times 1 4 8 \leq 2 2 3 4 8
-formulaire030-equation040	1 4 3 \div 1 7 8 \geq 0
 formulaire026-equation033	a c x ^ { c - 1 }
-200923-1556-239	\frac { R } { \frac { n } { n } }
-formulaire003-equation020	1 9 \times 7 \leq 1 3 3
-formulaire030-equation005	1 4 8 \times 1 3 3 \leq 1 9 6 8 4
+MfrDB1982	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 200924-1312-95	\sin a _ { S }
 formulaire003-equation009	w = x + i y
-formulaire002-equation001	\gamma = 1 + \frac { 1 } { n }
+formulaire011-equation017	h _ { 2 } = \frac { f _ { 2 } } { f }
 formulaire025-equation042	y _ { p } = x _ { n _ { p } }
-formulaire005-equation004	t ^ { 5 } + t - a
+MfrDB2447	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire016-equation068	y = a x + b
-formulaire011-equation006	3 \times 4 \times 5 \times 6 = 3 6 0
-200925-1126-147	\frac { \sigma + Y } { n j }
 formulaire008-equation029	x = e ^ { u }
-formulaire017-equation008	x = \frac { 7 \times 8 } { 5 }
+formulaire030-equation046	- f ( x ) g ( x _ { 0 } ) + g ( x _ { 0 } ) f ( x )
 formulaire008-equation063	y + 1 6 = x
 formulaire016-equation058	\frac { 7 5 0 } { 2 7 7 0 6 }
-TrainData1_2_sub_5	e ^ { i \pi } + 1 = 0
 formulaire013-equation073	b ^ { 2 } - 4 a c
-MfrDB0420	4 4 + f = 5 5 + x + y
 formulaire023-equation003	Y = X + a
+formulaire027-equation059	a ^ { o p } b ^ { o p } = b a
 formulaire023-equation067	p _ { 0 } , p _ { 1 } \ldots
-95_user0	b = c \sin B = c \cos A
-MfrDB1529	x ^ { 2 } - x - 6 < 0
+MfrDB1740	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire010-equation065	2 4 - 1 5 1 = - 1 2 7
-200923-1254-230	- Y - \frac { M } { i }
+formulaire031-equation010	6 5 + ( 1 4 0 \times 1 8 1 ) = 2 5 4 0 5
+formulaire033-equation049	( x _ { 2 } , y _ { 2 } , z _ { 2 } , t _ { 2 } )
 200922-949-182	r _ { T } + E m
+formulaire024-equation072	q _ { 1 } + q _ { 2 } + q _ { 3 } = 1
 formulaire023-equation042	e = \frac { ( 1 - j ) } { 2 }
 MfrDB1527	x < \frac { c - b } { a }
-formulaire023-equation044	( n + 1 ) \times ( m + 1 )
-TrainData1_5_sub_5	e ^ { i \pi } + 1 = 0
-200926-1617-87	\frac { \pi } { x l }
+formulaire024-equation037	\frac { t _ { k + 1 } } { t _ { k } }
 2009213-139-105	j - o - 6 = 5 . 4
-76_leo	a = b \cos C + c \cos B
 formulaire002-equation035	4 \div 1 8 2 = 0 . 0 2
+formulaire012-equation047	\frac { f _ { n } ( u ) + f _ { n } ( v ) } { 2 }
 formulaire035-equation029	X _ { 0 } , \ldots , X _ { n }
-formulaire029-equation029	\lim ( u _ { n } ) = - \infty
 formulaire008-equation045	1 0 2 + 7 2 \geq 1 7 3
-formulaire026-equation015	2 5 \times 1 0 0 \geq 2 4 9 9
-95_david	b = c \sin B = c \cos A
 formulaire038-equation067	f ( u , v , w ) = f ( u , w , v )
-TrainData1_1_sub_5	e ^ { i \pi } + 1 = 0
-formulaire012-equation031	a \times 0 = 0 \times a = 0
-76_jorge	a = b \cos C + c \cos B
+formulaire025-equation029	0 , 1 2 3 4 \times 1 0 ^ { 5 6 }
+formulaire023-equation036	a k b = - b ( y - y _ { 0 } )
 formulaire033-equation055	8 9 + 2 7 \leq 1 1 6
-95_leissi	b = c \sin B = c \cos A
 formulaire018-equation064	1 + \log _ { 3 } ( 2 )
 formulaire023-equation041	y = x ^ { \frac { 1 } { 3 } }
+formulaire036-equation009	v _ { s } ( t ) = \frac { d x _ { s } ( t ) } { d t }
 formulaire039-equation071	x ( y + z ) = x y + x z
 formulaire008-equation038	f ( n ) = 2 + 0 = 2
+formulaire034-equation049	u _ { n + 1 } = ( n + 1 ) u _ { n }
 200924-1312-206	\frac { N + m } { B _ { p } }
-200923-131-80	\frac { 2 } { \sin I }
-76_caue	a = b \cos C + c \cos B
-formulaire037-equation011	6 0 = 2 \times 2 \times 3 \times 5
+formulaire011-equation012	q ^ { i ( 0 ) } = q ^ { i }
 formulaire026-equation068	n - 2 = 3
 formulaire039-equation031	X = x + i y
-95_miguel	b = c \sin B = c \cos A
+formulaire037-equation009	v _ { 1 } v _ { 2 } \ldots v _ { n }
+formulaire033-equation051	s _ { k } = x _ { k + 1 } - x _ { k }
 formulaire023-equation028	x + ( - x ) = 0
 formulaire019-equation062	p = d _ { i , j } ^ { ( n ) }
-formulaire008-equation000	6 0 - 1 3 6 \geq - 7 6
 formulaire031-equation024	2 m - m = m
-formulaire006-equation029	r = \frac { p } { 2 \pi }
-formulaire013-equation070	4 2 \times 1 7 2 \geq 7 2 2 3
 formulaire001-equation002	( t , x , y , z ) = x ^ { a }
 formulaire019-equation033	3 5 1 = 3 ^ { 3 } \times 1 3
-formulaire033-equation064	v _ { x } = v _ { 0 } \cos \alpha
+formulaire029-equation037	5 3 , 3 3 0 + 1 6 x 1 0 ^ { 9 }
 formulaire037-equation023	f ( x ) = \sqrt { x } - 1
+formulaire033-equation003	\frac { 1 } { g ( y ) } d y = f ( x ) d x
+MfrDB2546	f ( x , y ) = \frac { x } { y } + x y
 formulaire028-equation014	\frac { d u } { d s } = 0
 200923-1253-95	\frac { z } { i _ { m } }
-formulaire006-equation016	x ^ { 2 } + x + 1 = 0
 formulaire018-equation039	p = a ( 1 - e ^ { 2 } )
 formulaire023-equation035	1 4 1 + 1 6 0 = 3 0 1
 MfrDB2271	( x + y ) z = x z + y z
+formulaire038-equation027	e _ { i _ { 1 } } e _ { i _ { 2 } } \ldots e _ { i _ { k } }
+formulaire021-equation025	1 6 8 - ( 1 3 4 \div 1 6 5 ) = 1 6 7 . 1 9
+formulaire025-equation020	( 1 5 8 \times 9 8 ) - 1 6 2 = 1 5 3 2 2
+formulaire028-equation021	f ( x ) = a ^ { b ^ { x } }
 formulaire019-equation029	g ( u , v ) = u + v
-76_user0	a = b \cos C + c \cos B
+formulaire012-equation030	7 1 + ( 1 3 / 1 6 7 ) = 7 1 . 0 8
 formulaire008-equation066	c _ { 1 } = g ^ { k }
 TrainData2_2_sub_88	3 0 \times 2 9 x ^ { 2 8 }
+200923-1254-295	\frac { - 8 0 . 1 Y } { a F E }
 formulaire024-equation071	i \leq k - 1
 200923-1556-233	\frac { c - 0 . 6 } { 2 }
+200923-1553-262	x ^ { \frac { T } { g _ { E E } } }
 MfrDB1439	1 2 3 4 + 5 6 7 8 > 9 0
-formulaire019-equation066	x ^ { 3 } - 3 x - 1
+formulaire036-equation002	p g c d ( a , b ) = a x _ { 0 } + b y _ { 0 }
 formulaire020-equation044	x _ { i } ^ { j } = 1
 formulaire023-equation070	7 7 + 1 1 3 \geq 1 8 9
-formulaire025-equation030	5 4 - 1 2 7 \leq - 7 2
 formulaire016-equation054	s _ { 1 } , \ldots , s _ { k }
-200925-1126-17	\cdots - \frac { H } { p }
-76_carlos	a = b \cos C + c \cos B
-95_alfonso	b = c \sin B = c \cos A
+formulaire021-equation017	a _ { 0 } = 5 2 , 9 1 7 7 2 0 8 5 9 ( 3 6 )
+MfrDB2548	g ( 2 , 3 , 4 ) = 3 4 ^ { - 3 }
+TrainData2_1_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+formulaire024-equation032	t _ { k } = t _ { k - 1 } + q
 formulaire007-equation069	m _ { 1 } + m _ { 2 } = m
-76_leissi	a = b \cos C + c \cos B
+formulaire021-equation019	d _ { f r } = d _ { t c } + h _ { f r } - t _ { b r }
+formulaire030-equation042	u _ { n } = u _ { 1 } + ( n - 1 ) r
 formulaire014-equation039	b i + c j + d k
-formulaire012-equation038	\alpha x ^ { \alpha - 1 }
 formulaire021-equation007	1 - \frac { t } { 1 0 0 }
 formulaire024-equation070	5 7 + 1 1 7 \geq 1 7 3
 formulaire025-equation059	u _ { n } = u _ { n _ { 0 } }
 formulaire011-equation052	t = \frac { 2 v _ { 0 } } { g }
 formulaire037-equation013	a _ { n } = \sin ( 2 n x )
 formulaire003-equation062	a p _ { 0 } + b q _ { 0 } = 1
-95_Frank	b = c \sin B = c \cos A
-200924-1312-263	\sum \limits _ { Y > S } m + p
-formulaire027-equation043	a \sqrt { x } + b x + c
-formulaire024-equation001	x ^ { 3 } - x - 1
+formulaire002-equation029	\frac { d x ( t ) } { d t } = f ( x ( t ) , t )
+MfrDB3382	f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } )
+formulaire009-equation064	( x _ { 1 } + b _ { 1 } t , y _ { 1 } - a _ { 1 } t )
+formulaire008-equation005	2 0 + ( 9 6 \div 9 2 ) = 2 1 . 0 4
 MfrDB3335	E = m c ^ { 2 }
-76_miguel	a = b \cos C + c \cos B
 formulaire037-equation028	a - 1 = n
-formulaire011-equation033	x ( 6 - x ) \leq 2 x - 5
+formulaire001-equation062	X = ( x _ { 1 } , x _ { 2 } , \ldots , x _ { p } )
 formulaire013-equation011	a \pm i b
-95_Fabricio	b = c \sin B = c \cos A
 formulaire017-equation029	p = n - k
 formulaire039-equation036	3 x + 5 = 1 5
 formulaire028-equation009	( x _ { 1 } , \ldots , x _ { p } )
 formulaire001-equation026	x ^ { 3 } - r = 0
-formulaire025-equation070	1 5 4 \times 1 8 6 \leq 2 8 6 4 4
 formulaire037-equation020	1 1 6 \div 1 4 5 = 0 . 8 0
 formulaire036-equation017	a = \frac { v ^ { 2 } } { r }
-MfrDB3432	\int \cos t d t = \sin t
+formulaire017-equation059	p _ { x } = a p _ { x - 1 } + b
 formulaire030-equation047	u ^ { i } = 0
 formulaire024-equation041	\frac { 1 } { 4 } a a + b b
 formulaire021-equation046	\frac { 1 } { x } = x - 1
-76_david	a = b \cos C + c \cos B
-formulaire017-equation011	4 + 4 + 2 \times 6 = 2 0
+formulaire024-equation019	( u _ { 0 } , \ldots , u _ { n - 1 } )
+MfrDB1297	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
+TrainData2_24_sub_1	x _ { 1 } + x _ { 2 } = x _ { 3 }
+formulaire018-equation024	p = \frac { ( 3 k + 1 ) } { 2 }
+formulaire008-equation007	t _ { 2 } = r _ { 2 } - t _ { 1 }
+formulaire024-equation002	f _ { 2 } ( s ) = h ( s , 1 - s , 0 )
 formulaire011-equation059	p = \frac { 2 } { n - 1 }
-76_edwin	a = b \cos C + c \cos B
-95_edwin	b = c \sin B = c \cos A
-formulaire019-equation036	a \leq x \leq b
-95_leo	b = c \sin B = c \cos A
+formulaire032-equation074	y = p g c d ( x _ { a } - x _ { b } , n )
+formulaire021-equation032	a _ { i , j } = a _ { i - 1 , j + 1 }
+MfrDB3452	f ( x , y ) = \frac { x } { y } + x y
+formulaire007-equation057	c _ { i } = y ^ { 2 } z ^ { m _ { i } }
 formulaire019-equation008	a d - b c \neq 0
-95_carlos	b = c \sin B = c \cos A
-76_maira	a = b \cos C + c \cos B
 formulaire010-equation016	x ^ { 5 } = x + 1
-76_fujita	a = b \cos C + c \cos B
-TrainData1_0_sub_5	e ^ { i \pi } + 1 = 0
-95_caue	b = c \sin B = c \cos A
+MfrDB1888	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 200924-1312-34	\cdots - Y
+formulaire017-equation032	e _ { 1 } , e _ { 2 } , \ldots , e _ { n }
 formulaire023-equation004	x _ { 1 } , \ldots , x _ { n }
-2009213-139-207	\cdots + a ^ { j }
+MfrDB3124	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire018-equation005	9 9 \times 1 8 2 = 1 8 0 1 8
 formulaire023-equation016	x ^ { n } = r
-formulaire019-equation020	1 3 3 + 1 4 5 \neq - 8 8
 formulaire011-equation022	2 m n - m - n
-76_alfonso	a = b \cos C + c \cos B
-formulaire026-equation024	n = \frac { c } { v _ { \phi } }
+formulaire026-equation051	d _ { 0 } = x _ { 0 } a + y _ { 0 } b
+formulaire002-equation058	\frac { y _ { 2 } x _ { 2 } - y _ { 1 } x _ { 1 } } { n }
+formulaire018-equation027	\frac { d y } { d t } = y ( a - b y )
 formulaire018-equation040	1 4 + 6 1 = 7 5
-76_Fabricio	a = b \cos C + c \cos B
+formulaire015-equation057	( p _ { 1 } , p _ { 2 } , d _ { 1 } , p _ { 3 } , d _ { 2 } , d _ { 3 } , d _ { 4 } )
 formulaire025-equation009	g ( g v , g w ) = g ( v , w )
+formulaire018-equation001	y _ { k } = f ( x _ { k + 1 } ) - f ( x _ { k } )
 formulaire018-equation023	y _ { n + 1 } = b x _ { n }
-formulaire019-equation003	\cos ( - x ) = \cos ( x )
-formulaire018-equation055	1 3 5 \div 1 1 9 \geq 0
+formulaire032-equation058	\frac { n _ { 2 } } { n _ { 1 } } = 1
 formulaire030-equation064	y = f ( x , t ) = x - v t
+formulaire028-equation042	u _ { 2 } = e _ { 1 } - 2 e _ { 2 }
 formulaire013-equation029	p = \frac { 1 } { n }
-formulaire035-equation056	\frac { \sin n } { n }
 formulaire027-equation060	1 2 5 \div 1 7 6 = 0 . 7 1
-formulaire018-equation026	x ^ { 2 } + 4 x + 1
+formulaire008-equation062	a = ( x _ { a } , y _ { a } , z _ { a } )
 formulaire008-equation056	x ^ { 3 } = 1 8 x + 3 5
+formulaire032-equation064	z _ { n + 1 } = p ( z _ { n } ) = ( z _ { n } ) ^ { 2 }
+MfrDB2446	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
+formulaire021-equation062	h ( x ) = f ( x , y _ { 0 } + t ) - f ( x , y _ { 0 } )
+formulaire005-equation064	x _ { 1 } , x _ { 2 } , \ldots , x _ { n }
 formulaire024-equation046	x = \frac { c } { d }
+formulaire027-equation045	1 6 0 / ( 1 5 0 \times 1 5 7 ) = 0 . 0 1
+formulaire035-equation002	x ^ { i } = g ^ { i j } x _ { j }
+formulaire023-equation032	p _ { c } = \frac { a } { 2 7 b ^ { 2 } }
 formulaire025-equation004	d t _ { 0 } = \frac { d s } { c }
 formulaire023-equation029	x \rightarrow e ^ { s x }
+formulaire009-equation002	x = ( x _ { 1 } , \ldots , x _ { n } )
 formulaire037-equation057	u = 1 - x ^ { 2 }
-76_danilo	a = b \cos C + c \cos B
 formulaire008-equation012	a _ { i , i - 1 }
-200924-1331-89	\cdots + I - s
-76_Frank	a = b \cos C + c \cos B
+formulaire001-equation009	u _ { n } = a q ^ { n - n _ { 0 } }
 formulaire026-equation031	X + \frac { 1 } { 5 } X = 2 1
-formulaire013-equation007	\pi = \frac { 2 a } { l p }
+formulaire024-equation027	t _ { 0 } = \frac { x _ { 0 } } { c }
+formulaire024-equation018	b ^ { 3 } = \frac { 5 } { 5 4 }
+formulaire037-equation022	w _ { i } = k - a z _ { i } + b z
 formulaire008-equation064	u _ { n } = - 3 n + 1
-formulaire025-equation023	\pi = \frac { 2 \pi } { 2 }
+formulaire013-equation014	\frac { u _ { n + 1 } } { u _ { n } }
 formulaire020-equation049	v = v ^ { i } e _ { i }
+formulaire022-equation028	8 7 2 - 9 1 = 8 8 1 - 1 0 0 = 7 8 1
 formulaire024-equation038	z = x + \frac { 1 } { x }
+formulaire022-equation033	x _ { 1 } x _ { 2 } = \frac { c } { a }
+MfrDB1504	F ( x , y , z ) = G ( x , y ) + H ( y , z ) = 2 1
 formulaire009-equation029	x _ { i } = i h + x _ { 0 }
 200923-131-147	\frac { z } { i _ { m } }
+formulaire021-equation009	\frac { x - 1 0 } { 1 } = 0 , 7
+MfrDB2735	v = v _ { 0 } t - g t ^ { 2 }
+formulaire008-equation047	6 , 8 0 7 h + 7 , 7 0 3 c - 8 , 2 4 5
 formulaire026-equation063	x - x = 0
-MfrDB3489	V = a \cdot b \cdot c
+formulaire023-equation012	6 0 \times 0 , 3 1 2 7 = 1 8 , 6 7 2
 formulaire009-equation031	a + 0 = 0 + a = a
 formulaire002-equation052	b _ { 1 } = b _ { 2 } = v r a i
 formulaire019-equation037	u ( x , y , z , t ) = u ( z , t )
 formulaire039-equation047	\frac { 3 6 } { 0 , 3 } = 1 2 0
 formulaire023-equation047	m \leq m - r
+formulaire016-equation027	x = ( x _ { 1 } , x _ { 2 } , \ldots , x _ { n } )
 formulaire016-equation001	a _ { n } a _ { 1 } = a _ { 2 }
 formulaire021-equation039	v _ { n } = \frac { 1 } { n }
 formulaire019-equation042	j = a _ { 1 } a _ { 2 } a _ { 3 }
 formulaire029-equation027	x _ { i } = x _ { j }
 formulaire011-equation008	a = r e ^ { i \theta }
+formulaire016-equation039	s = f ( s _ { 1 } , \ldots , s _ { n } )
+formulaire020-equation047	\frac { d c n ( u ) } { d u } = - s n ( u ) d n ( u )
+formulaire016-equation032	1 + z = \frac { a _ { 0 } } { a ( t ) }
 formulaire030-equation049	m = m + i - e
-formulaire006-equation008	x ^ { 2 } - x - 1 = 0
-formulaire030-equation073	x ^ { 5 } - x + 1 = 0
+formulaire023-equation049	u _ { n + 1 } = \sqrt { u _ { n } v _ { n } }
 formulaire018-equation074	\frac { n } { m }
+MfrDB2547	F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1
 formulaire023-equation074	x = 1 0 + 0 , 7
+formulaire018-equation025	1 4 6 \div ( 1 9 4 + 5 3 ) = 0 . 5 9
+formulaire029-equation007	a _ { m _ { 1 } } = a _ { 2 m _ { 1 } }
 formulaire026-equation011	n _ { 1 } = - n _ { 2 }
+formulaire017-equation064	u _ { n } = u _ { n _ { 0 } } q ^ { n - n _ { 0 } }
 formulaire029-equation068	i _ { 3 } i _ { 1 } = i _ { 2 }
 formulaire013-equation037	x _ { i } = x _ { 0 } + i h
+formulaire028-equation023	f _ { 1 } ( z ) = \frac { ( 1 + i ) z } { 2 }
+formulaire008-equation022	q ( x ) = x _ { 1 } x _ { 2 } + x _ { 2 } x _ { 3 } + x _ { 1 } x _ { 3 }
+formulaire008-equation058	a _ { n } s _ { 1 } + a _ { n - 1 } = 0
 formulaire016-equation012	u _ { n } = \frac { 1 } { n }
-formulaire011-equation024	w ^ { 2 } = - 1 + w
-200923-1253-9	- o - \frac { i } { i }
+formulaire016-equation018	1 0 a _ { 5 } a _ { 2 } - 2 a _ { 4 } a _ { 3 } = 0
+formulaire023-equation006	x ( x ( x x ) ) = ( x ( x x ) ) x = ( x x ) ( x x )
+formulaire032-equation053	n _ { 1 } = n _ { 2 } = \frac { 1 } { 2 } n _ { e }
+formulaire007-equation028	i _ { 2 } = i _ { 1 } + i _ { s }
+formulaire018-equation042	( p _ { 1 } , p _ { 2 } , d _ { 1 } , p _ { 3 } , d _ { 2 } , d _ { 3 } , d _ { 4 } , p _ { 4 } )
+formulaire026-equation032	\alpha _ { i n } = x _ { i n } + i p _ { i n }
+formulaire013-equation043	x _ { 2 } = \frac { c } { a x _ { 1 } }
+formulaire019-equation002	a _ { 1 } , b _ { 1 } , a _ { 2 } , b _ { 2 } , \ldots a _ { g } , b _ { g }
+formulaire028-equation074	a = m = \frac { n _ { 2 } } { n _ { 1 } }
 formulaire017-equation001	a _ { n } = n ^ { - 1 }

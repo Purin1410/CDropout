@@ -107,7 +107,6 @@ dependencies:
   - python=3.7.12=hf930737_100_cpython
   - python_abi=3.7=4_cp37m
   - pytorch=1.13.1=py3.7_cuda11.7_cudnn8.5.0_0
-  - pytorch-cpu=1.1.0=py3.7_cpu_0
   - pytorch-cuda=11.7=h778d358_5
   - pytorch-lightning=1.4.9=pyhd8ed1ab_0
   - pytorch-mutex=1.0=cuda

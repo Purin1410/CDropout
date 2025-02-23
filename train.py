@@ -25,15 +25,10 @@ def train(config):
     pl.seed_everything(config.seed_everything, workers=True)
 
     # Model
-    if config.trainer.resume_from_checkpoint is not None:
-        print("Resuming from checkpoint: ", config.trainer.resume_from_checkpoint)
-        model_module = LitCoMER.load_from_checkpoint(config.trainer.resume_from_checkpoint)
-    else:
-        print("Training from new weights")
-        model_module = LitCoMER(**config.model)
+    model_module = LitCoMER(**config.model)
 
    # Logger
-    logger = Logger("D5_M5_F5_slope5", project="CoMER_DROPOUT_BLUR_VCL", config=dict(config), log_model='all')
+    logger = Logger("", project="CoMER_KAGGLE", config=dict(config), log_model='all')
     logger.watch(model_module.comer_model, log="all", log_freq=100)
 
     # Data
@@ -47,28 +42,27 @@ def train(config):
     lr_callback = LearningRateMonitor(logging_interval=config.trainer.callbacks[0].init_args.logging_interval)
 
     checkpoint_callback = ModelCheckpoint(save_top_k=config.trainer.callbacks[1].init_args.save_top_k, 
-                                                    monitor=None, 
+                                                    monitor=None, #config.trainer.callbacks[1].init_args.monitor,
                                                     mode=config.trainer.callbacks[1].init_args.mode,
                                                     filename=config.trainer.callbacks[1].init_args.filename)
 
     grad_norm_callback = GradNormCallback()
 
-    curriculum_dropout = CurriculumDropout(config = config)
-    
-    gaussian_blur = CurriculumInputBlur(config = config)
-
     local_dir = "/kaggle/working/CoMER_checkpoints"
-    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_DROPOUT_BLUR_VCL"
+    remote_dir =  "one_drive:Projects/HMER\ Project/Checkpoints/CoMER_KAGGLE"
     r_clone_callback = RcloneUploadCallback(
         local_dir = local_dir,
         remote_dir = remote_dir)
     
+    skip_validation = SkipValidation(skip_val_epoch= 200)
+
+    # Curriculum module
+    curriculum_dropout = CurriculumDropout(config = config)
+    gaussian_blur = CurriculumInputBlur(config = config)
     update_data = CurriculumUpdateData(config = config)
     
-    skip_validation = SkipValidation(skip_val_epoch= 200)
-    
     trainer = pl.Trainer(
-        devices=config.trainer.gpus,
+        gpus=config.trainer.gpus,
         accelerator=config.trainer.accelerator,
         val_check_interval=1.0,
         check_val_every_n_epoch=config.trainer.check_val_every_n_epoch,
@@ -79,10 +73,11 @@ def train(config):
                     grad_norm_callback,
                     checkpoint_callback,
                     r_clone_callback,
+                    skip_validation,
+                    # Curriculum module
                     curriculum_dropout,
                     gaussian_blur,
-                    update_data,
-                    skip_validation],
+                    update_data],
         default_root_dir=local_dir,
         resume_from_checkpoint=config.trainer.resume_from_checkpoint,
     )

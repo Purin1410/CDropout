@@ -10,11 +10,11 @@ trainer:
         save_top_k: 1
         monitor: val_ExpRate
         mode: max
-        filename: 'FINAL_{epoch}-{step}-{val_ExpRate:.4f}'
+        filename: '{epoch}-{step}-{val_ExpRate:.4f}'
   # gpus: 1
   gpus: 1
   accelerator: gpu
-  check_val_every_n_epoch: 2
+  check_val_every_n_epoch: 50
   max_epochs: 350
   deterministic: true
   resume_from_checkpoint: null
@@ -47,7 +47,7 @@ data:
   test_year: 'all'
   train_batch_size: 8
   eval_batch_size: 4
-  num_workers: 4
+  num_workers: 5
   scale_aug: true
 curriculum:
   dropout:
@@ -64,12 +64,6 @@ curriculum:
     densenet_end_dropout: 0.2
   learning:
     type: "Vanilla"
-    pacing_epoch: 50
+    pacing_epoch: 25
   blur:
     sigma: 1.0
-
-
-
-    
-    
-    

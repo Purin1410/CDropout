@@ -14,7 +14,7 @@ trainer:
   # gpus: 1
   gpus: 1
   accelerator: gpu
-  check_val_every_n_epoch: 50
+  check_val_every_n_epoch: 2
   max_epochs: 350
   deterministic: true
   resume_from_checkpoint: null
@@ -64,6 +64,6 @@ curriculum:
     densenet_end_dropout: 0.2
   learning:
     type: "Vanilla"
-    pacing_epoch: 25
+    pacing_epoch: 50
   blur:
     sigma: 1.0

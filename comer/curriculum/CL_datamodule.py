@@ -5,6 +5,7 @@ from zipfile import ZipFile
 import pytorch_lightning as pl
 import numpy as np
 import torch
+import random
 from comer.datamodule.dataset import CROHMEDataset
 from PIL import Image
 from torch import FloatTensor, LongTensor
@@ -232,7 +233,9 @@ class CL_CROHMEDatamodule(pl.LightningDataModule):
                     False,
                     self.scale_aug,
                 )
+    
 
+    
     def train_dataloader(self):
         return DataLoader(
             self.train_dataset,

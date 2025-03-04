@@ -144,17 +144,6 @@ def classify_and_save(caption_file, output_dir):
         )
         complexity_scores.append(score)
 
-    # features_dict = { 'Scaled Length': scaled_lengths, 'Scaled Operators': scaled_operators, 'Scaled Simple Symbols': scaled_simple_symbols, 'Scaled Medium Symbols': scaled_medium_symbols, 'Scaled Complex Symbols': scaled_complex_symbols, 'Scaled Nested Levels': scaled_nested_levels, 'Scaled Sub/Sup Counts': scaled_sub_sup_counts }
-
-    # num_features = len(features_dict)
-    # plt.figure(figsize=(18, 12))
-    # for i, (feature_name, data) in enumerate(features_dict.items(), start=1):
-    #   plt.subplot(3, 3, i)
-    #   plt.hist(data, bins=30, alpha=0.7, color='blue')
-    #   plt.title(feature_name)
-    #   plt.xlabel('Value')
-    #   plt.ylabel('Frequency')
-
 
     # **BƯỚC 4:** Xác định ngưỡng phân loại
     easy_threshold, medium_threshold = get_percentile_thresholds(complexity_scores)
